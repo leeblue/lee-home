@@ -1,0 +1,57 @@
+part_program -> constant_illstruction+var_instruction+process_instruction
+statment -> complex
+complex -> END
+addition_complex -> addition_complex
+statment -> circle
+circle -> WHILE con DO statment
+statment -> complex
+complex -> END
+addition_complex -> addition_complex
+statment -> read_statment
+read_statment -> READ
+addition_complex -> addition_complex
+statment-> write_statment
+write_statment -> WRITE
+expression -> item
+addition_expression -> empty
+item -> item muloperation divisor 
+divisor -> IDENTIFIER
+muloperation -> *
+item -> divisor 
+divisor -> NUM
+addition_complex -> empty
+statment -> process_transfer
+process_transfer -> CALL IDENTIFIER
+con -> expression operation expression
+expression -> item
+addition_expression -> empty
+item -> divisor 
+divisor -> NUM
+operation -> #
+expression -> item
+addition_expression -> empty
+item -> divisor 
+divisor -> IDENTIFIER
+addition_complex -> empty
+statment -> read_statment
+read_statment -> READ
+process_instruction -> process_head
+part_program -> statment
+statment -> complex
+complex -> END
+addition_complex -> empty
+statment -> assignment
+assignment -> expression
+expression -> item
+addition_expression -> self
+item -> divisor 
+divisor -> IDENTIFIER
+plusoperation -> +
+addition_expression -> empty
+item -> divisor 
+divisor -> IDENTIFIER
+process_head -> PROCEDURE
+var_instruction -> IDENTIFIER
+var_mid -> var_mid 
+var_mid -> IDENTIFIER
+constant_illstruction -> const_define
