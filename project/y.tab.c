@@ -332,7 +332,7 @@ void main(int argc,char **argv)
 
     }
 yyerror(char *s) {
-    fprintf(stderr,"在第%d行，出现错误!\n",line);
+    fprintf(stderr,"...%s\n",s);
 } 
 #line 337 "y.tab.c"
 
@@ -546,31 +546,31 @@ case 1:
 break;
 case 2:
 #line 14 "yacc.y"
-	{printf("part_program -> constant_illstruction+var_instruction+process_instruction+statment\n");}
+	{printf("part_program -> constant_illstruction+var_instruction+process_instruction\n");}
 break;
 case 3:
 #line 15 "yacc.y"
-	{printf("part_program -> constant_illstruction+var_instruction+statment\n");}
+	{printf("part_program -> constant_illstruction+var_instruction\n");}
 break;
 case 4:
 #line 16 "yacc.y"
-	{printf("part_program -> constant_illstruction+statment\n");}
+	{printf("part_program -> constant_illstruction\n");}
 break;
 case 5:
 #line 17 "yacc.y"
-	{printf("part_program -> constant_illstruction+process_instruction+statment\n");}
+	{printf("part_program -> constant_illstruction+process_instruction\n");}
 break;
 case 6:
 #line 18 "yacc.y"
-	{printf("part_program -> var_instruction+process_instruction+statment\n");}
+	{printf("part_program -> var_instruction+process_instruction\n");}
 break;
 case 7:
 #line 19 "yacc.y"
-	{printf("part_program -> var_instruction+statment\n");}
+	{printf("part_program -> var_instruction\n");}
 break;
 case 8:
 #line 20 "yacc.y"
-	{printf("part_program -> process_instruction\+statment\n");}
+	{printf("part_program -> process_instruction\n");}
 break;
 case 9:
 #line 21 "yacc.y"

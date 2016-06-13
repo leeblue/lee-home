@@ -1,0 +1,2910 @@
+{\rtf1\adeflang1025\ansi\ansicpg936\uc2\adeff0\deff0\stshfdbch13\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe2052{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
+{\f13\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}\'cb\'ce\'cc\'e5{\*\falt SimSun};}{\f36\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}@\'cb\'ce\'cc\'e5;}{\f37\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f38\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman Greek;}{\f41\froman\fcharset162\fprq2 Times New Roman Tur;}{\f42\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f43\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f57\fmodern\fcharset238\fprq1 Courier New CE;}
+{\f58\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f60\fmodern\fcharset161\fprq1 Courier New Greek;}{\f61\fmodern\fcharset162\fprq1 Courier New Tur;}{\f62\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f63\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f64\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f65\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f169\fnil\fcharset0\fprq2 SimSun Western{\*\falt SimSun};}
+{\f399\fnil\fcharset0\fprq2 @\'cb\'ce\'cc\'e5 Western;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs21\lang1033\langfe2052\kerning2\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \snext0 Normal;}{\*\cs10 
+\additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\loch\f0\hich\af0\dbch\af13\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af2\afs21\alang1025 \ltrch\fcs0 \fs21\lang1033\langfe2052\kerning2\loch\f13\hich\af2\dbch\af13\cgrid\langnp1033\langfenp2052 \sbasedon0 \snext15 
+Plain Text;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\revtbl {Unknown;}}{\*\rsidtbl \rsid4368\rsid10184\rsid16129\rsid19885\rsid26678\rsid72526\rsid76856\rsid79638\rsid82801\rsid86886\rsid95626\rsid136628\rsid143703\rsid206954\rsid207921\rsid219664\rsid266061
+\rsid270113\rsid274458\rsid279903\rsid284117\rsid291909\rsid350489\rsid401843\rsid404076\rsid417440\rsid421333\rsid462303\rsid462719\rsid471083\rsid488472\rsid525463\rsid526955\rsid546379\rsid554029\rsid555970\rsid591406\rsid605471\rsid616320\rsid618204
+\rsid721427\rsid729841\rsid734942\rsid741957\rsid749176\rsid800708\rsid802264\rsid807162\rsid809705\rsid864473\rsid870183\rsid871031\rsid918080\rsid921744\rsid930092\rsid1050962\rsid1051860\rsid1054146\rsid1054522\rsid1058166\rsid1079739\rsid1080082
+\rsid1128380\rsid1275055\rsid1326344\rsid1337157\rsid1339743\rsid1378852\rsid1379045\rsid1380067\rsid1383994\rsid1393738\rsid1399226\rsid1405803\rsid1406536\rsid1462194\rsid1516626\rsid1517586\rsid1520877\rsid1522015\rsid1530870\rsid1536003\rsid1596188
+\rsid1639210\rsid1641791\rsid1643766\rsid1662973\rsid1718610\rsid1721594\rsid1735527\rsid1778110\rsid1789953\rsid1852158\rsid1855752\rsid1861677\rsid1915979\rsid1916519\rsid1919035\rsid1921447\rsid1923724\rsid1931298\rsid1967857\rsid1976787\rsid1977795
+\rsid1998784\rsid2037072\rsid2038547\rsid2101602\rsid2102379\rsid2110387\rsid2111120\rsid2163617\rsid2172281\rsid2185339\rsid2189476\rsid2247441\rsid2248916\rsid2302100\rsid2312107\rsid2317564\rsid2363273\rsid2365475\rsid2436657\rsid2449072\rsid2455600
+\rsid2498704\rsid2508610\rsid2517844\rsid2560858\rsid2569993\rsid2583138\rsid2628279\rsid2688120\rsid2717674\rsid2769556\rsid2783683\rsid2893655\rsid2902207\rsid2909158\rsid2952831\rsid2953855\rsid2981670\rsid3015630\rsid3024194\rsid3032538\rsid3090143
+\rsid3172095\rsid3222520\rsid3231233\rsid3233547\rsid3236328\rsid3238661\rsid3280596\rsid3287130\rsid3289703\rsid3291441\rsid3297996\rsid3299816\rsid3303030\rsid3305909\rsid3308686\rsid3345113\rsid3346478\rsid3359002\rsid3359074\rsid3362445\rsid3364641
+\rsid3373727\rsid3373984\rsid3409925\rsid3412346\rsid3414898\rsid3421077\rsid3425521\rsid3432750\rsid3476234\rsid3477290\rsid3479522\rsid3483548\rsid3501865\rsid3502581\rsid3607247\rsid3608930\rsid3613274\rsid3625211\rsid3628957\rsid3671088\rsid3674906
+\rsid3696581\rsid3698272\rsid3739154\rsid3751161\rsid3761682\rsid3801812\rsid3810890\rsid3824088\rsid3877185\rsid3879038\rsid3897843\rsid3934518\rsid3935781\rsid3937137\rsid3943365\rsid3944276\rsid3953276\rsid3956077\rsid3960758\rsid4008484\rsid4019777
+\rsid4020731\rsid4024022\rsid4027690\rsid4069607\rsid4073467\rsid4076512\rsid4078821\rsid4093272\rsid4129059\rsid4144705\rsid4149367\rsid4150019\rsid4195311\rsid4212684\rsid4213755\rsid4216670\rsid4218266\rsid4223002\rsid4276033\rsid4282482\rsid4335917
+\rsid4349043\rsid4353002\rsid4395920\rsid4456652\rsid4460711\rsid4467080\rsid4484600\rsid4523638\rsid4525850\rsid4552226\rsid4591737\rsid4603347\rsid4606598\rsid4607899\rsid4613934\rsid4663003\rsid4669993\rsid4719839\rsid4730111\rsid4734064\rsid4737598
+\rsid4741400\rsid4788804\rsid4790900\rsid4797236\rsid4800164\rsid4812588\rsid4855360\rsid4856341\rsid4872344\rsid4934551\rsid4991412\rsid5112324\rsid5114568\rsid5132746\rsid5144141\rsid5181592\rsid5184951\rsid5252186\rsid5253498\rsid5260471\rsid5264105
+\rsid5265033\rsid5274058\rsid5311818\rsid5323554\rsid5326020\rsid5332699\rsid5333512\rsid5335217\rsid5336722\rsid5378942\rsid5394519\rsid5405255\rsid5454894\rsid5462114\rsid5509845\rsid5513760\rsid5521416\rsid5524657\rsid5525375\rsid5525968\rsid5529599
+\rsid5579036\rsid5580862\rsid5580943\rsid5600799\rsid5650781\rsid5704301\rsid5710007\rsid5711405\rsid5720797\rsid5725598\rsid5779391\rsid5784873\rsid5794663\rsid5799801\rsid5857099\rsid5924589\rsid5980165\rsid5980638\rsid5987715\rsid6029644\rsid6039616
+\rsid6050604\rsid6053445\rsid6096154\rsid6107054\rsid6110369\rsid6181842\rsid6185633\rsid6226672\rsid6229203\rsid6243317\rsid6249706\rsid6297283\rsid6317794\rsid6320743\rsid6323321\rsid6360655\rsid6360830\rsid6367719\rsid6371170\rsid6377655\rsid6426843
+\rsid6431967\rsid6436587\rsid6437944\rsid6444638\rsid6445772\rsid6448315\rsid6455089\rsid6512203\rsid6517884\rsid6555108\rsid6567332\rsid6576164\rsid6620057\rsid6645805\rsid6650326\rsid6692512\rsid6698147\rsid6698415\rsid6701488\rsid6703997\rsid6709090
+\rsid6710141\rsid6757654\rsid6759000\rsid6829408\rsid6831285\rsid6833673\rsid6841777\rsid6844004\rsid6846657\rsid6895312\rsid6910181\rsid6947141\rsid7034174\rsid7034918\rsid7093574\rsid7106536\rsid7108658\rsid7109817\rsid7150668\rsid7166083\rsid7168380
+\rsid7173828\rsid7210523\rsid7291383\rsid7296836\rsid7297446\rsid7298409\rsid7343314\rsid7350613\rsid7360856\rsid7361706\rsid7363798\rsid7368643\rsid7416563\rsid7435030\rsid7490608\rsid7495844\rsid7542467\rsid7555262\rsid7561218\rsid7562340\rsid7564073
+\rsid7564997\rsid7604938\rsid7672329\rsid7677715\rsid7685493\rsid7688238\rsid7738508\rsid7755008\rsid7816750\rsid7817486\rsid7878417\rsid7879226\rsid7934615\rsid7934741\rsid8000276\rsid8004365\rsid8023270\rsid8027304\rsid8065039\rsid8067807\rsid8068995
+\rsid8086735\rsid8088317\rsid8130386\rsid8140652\rsid8146073\rsid8153125\rsid8195363\rsid8198481\rsid8206890\rsid8213039\rsid8263443\rsid8264636\rsid8326877\rsid8336010\rsid8343204\rsid8343407\rsid8393593\rsid8396380\rsid8400693\rsid8412866\rsid8469802
+\rsid8482079\rsid8482666\rsid8486071\rsid8519709\rsid8549859\rsid8588525\rsid8588592\rsid8607115\rsid8657220\rsid8657417\rsid8719938\rsid8721937\rsid8732589\rsid8745437\rsid8786538\rsid8786557\rsid8788755\rsid8795616\rsid8804106\rsid8805594\rsid8875093
+\rsid8989571\rsid8991062\rsid9065210\rsid9066415\rsid9068239\rsid9069760\rsid9070423\rsid9112624\rsid9128792\rsid9134607\rsid9135762\rsid9135867\rsid9136466\rsid9175601\rsid9180903\rsid9201792\rsid9240707\rsid9247767\rsid9251607\rsid9269771\rsid9271163
+\rsid9320368\rsid9337462\rsid9389787\rsid9447398\rsid9450381\rsid9458013\rsid9458304\rsid9459924\rsid9572173\rsid9587706\rsid9595576\rsid9598215\rsid9599810\rsid9600841\rsid9634353\rsid9634829\rsid9656696\rsid9705232\rsid9709362\rsid9711081\rsid9720415
+\rsid9832409\rsid9861115\rsid9900011\rsid9903337\rsid9908911\rsid9915420\rsid9917847\rsid9921432\rsid9925079\rsid9966891\rsid9975124\rsid9988800\rsid10037638\rsid10095438\rsid10097702\rsid10098810\rsid10103297\rsid10118703\rsid10120460\rsid10123907
+\rsid10174960\rsid10180479\rsid10185561\rsid10190201\rsid10247986\rsid10291071\rsid10299616\rsid10305339\rsid10318771\rsid10366460\rsid10376142\rsid10377081\rsid10420359\rsid10449196\rsid10488421\rsid10492913\rsid10494609\rsid10515410\rsid10515886
+\rsid10558505\rsid10562456\rsid10567164\rsid10580475\rsid10628062\rsid10643502\rsid10682432\rsid10699870\rsid10705810\rsid10754465\rsid10773587\rsid10778480\rsid10818581\rsid10829172\rsid10838755\rsid10881256\rsid10882158\rsid10896472\rsid10896931
+\rsid10911579\rsid10956438\rsid10969644\rsid11033554\rsid11075614\rsid11095020\rsid11096659\rsid11104712\rsid11150551\rsid11163236\rsid11216045\rsid11225555\rsid11232806\rsid11283748\rsid11290813\rsid11291172\rsid11300697\rsid11361319\rsid11409392
+\rsid11414408\rsid11414601\rsid11423054\rsid11435505\rsid11477497\rsid11484484\rsid11491195\rsid11538758\rsid11610805\rsid11617095\rsid11619618\rsid11669482\rsid11676390\rsid11690642\rsid11749612\rsid11759598\rsid11761216\rsid11808402\rsid11811525
+\rsid11812039\rsid11820972\rsid11863440\rsid11870981\rsid11890605\rsid11928178\rsid11933959\rsid11994803\rsid12001039\rsid12005665\rsid12006060\rsid12023735\rsid12059374\rsid12087221\rsid12136178\rsid12139334\rsid12145057\rsid12145486\rsid12189842
+\rsid12196321\rsid12257011\rsid12259832\rsid12280630\rsid12281626\rsid12339650\rsid12342545\rsid12348054\rsid12399467\rsid12413370\rsid12465018\rsid12523612\rsid12529075\rsid12533842\rsid12597104\rsid12612420\rsid12661323\rsid12662630\rsid12665893
+\rsid12665977\rsid12670156\rsid12672536\rsid12678175\rsid12678780\rsid12680153\rsid12726644\rsid12737183\rsid12740252\rsid12741777\rsid12793504\rsid12811609\rsid12846105\rsid12854912\rsid12864986\rsid12869911\rsid12872757\rsid12913385\rsid12916506
+\rsid12926740\rsid12977454\rsid12992281\rsid12996526\rsid12998646\rsid13002851\rsid13072198\rsid13107293\rsid13132705\rsid13135126\rsid13176220\rsid13194922\rsid13195566\rsid13264478\rsid13319603\rsid13327622\rsid13329730\rsid13330498\rsid13371237
+\rsid13375070\rsid13448658\rsid13462021\rsid13514085\rsid13521343\rsid13528957\rsid13568559\rsid13572940\rsid13592346\rsid13594537\rsid13639208\rsid13656153\rsid13697725\rsid13704524\rsid13725929\rsid13768760\rsid13777231\rsid13790368\rsid13829804
+\rsid13831028\rsid13831127\rsid13841783\rsid13895501\rsid13905854\rsid13923238\rsid13923290\rsid13961001\rsid13971250\rsid13986887\rsid14027793\rsid14038389\rsid14046046\rsid14050677\rsid14053309\rsid14055837\rsid14161433\rsid14163435\rsid14184708
+\rsid14245658\rsid14248351\rsid14289590\rsid14290495\rsid14290732\rsid14319425\rsid14366769\rsid14376864\rsid14377807\rsid14424092\rsid14441608\rsid14441886\rsid14445512\rsid14485185\rsid14485653\rsid14486700\rsid14491674\rsid14512370\rsid14514640
+\rsid14568805\rsid14568892\rsid14573138\rsid14576249\rsid14621162\rsid14629243\rsid14629943\rsid14634409\rsid14637526\rsid14646707\rsid14646897\rsid14689859\rsid14695313\rsid14753200\rsid14753816\rsid14760043\rsid14762167\rsid14762590\rsid14769368
+\rsid14813880\rsid14815979\rsid14831283\rsid14840708\rsid14881465\rsid14888091\rsid14891236\rsid14893619\rsid14894459\rsid14906845\rsid14946069\rsid14947964\rsid14961201\rsid14972387\rsid15020888\rsid15023843\rsid15030366\rsid15073423\rsid15076033
+\rsid15088691\rsid15141889\rsid15148898\rsid15153834\rsid15154177\rsid15157843\rsid15170464\rsid15170835\rsid15210683\rsid15221071\rsid15275198\rsid15286864\rsid15469969\rsid15470789\rsid15483159\rsid15537812\rsid15544114\rsid15547166\rsid15548653
+\rsid15555102\rsid15562310\rsid15599848\rsid15603255\rsid15621665\rsid15691320\rsid15728886\rsid15746502\rsid15751069\rsid15801354\rsid15818519\rsid15873031\rsid15875165\rsid15891124\rsid15927281\rsid15933378\rsid15945057\rsid15992416\rsid16000626
+\rsid16008245\rsid16010788\rsid16070144\rsid16070239\rsid16125404\rsid16127486\rsid16129227\rsid16135242\rsid16135364\rsid16143940\rsid16198335\rsid16204104\rsid16266834\rsid16268728\rsid16284283\rsid16323022\rsid16393583\rsid16408645\rsid16459456
+\rsid16466674\rsid16470357\rsid16475548\rsid16516219\rsid16522132\rsid16533586\rsid16534881\rsid16540605\rsid16601095\rsid16601983\rsid16658530\rsid16661153\rsid16720094\rsid16729350\rsid16742059}{\*\generator Microsoft Word 11.0.0000;}{\info{\title www}
+{\author lenovo}{\operator lenovo}{\creatim\yr2012\mo4\dy25\hr10\min2}{\revtim\yr2012\mo4\dy25\hr10\min2}{\version5}{\edmins0}{\nofpages65}{\nofwords13409}{\nofchars76433}{\*\company HUST}{\nofcharsws89663}{\vern24615}{\*\password 00000000}}
+{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11906\paperh16838\margl1753\margr1753\margt1440\margb1440\gutter0\ltrsect 
+\deftab420\ftnbj\aenddoc\donotembedsysfont0\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\formshade\horzdoc\dgmargin\dghspace180\dgvspace156\dghorigin1753\dgvorigin1440\dghshow0
+\dgvshow2\jcompress\lnongrid\viewkind1\viewscale100\splytwnine\ftnlytwnine\htmautsp\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\rsidroot11617095\newtblstyruls\nogrowautofit 
+{\*\fchars 
+!),.:\'3b?]\'7d\'a1\'a7\'a1\'a4\'a1\'a6\'a1\'a5\'a8\'44\'a1\'ac\'a1\'af\'a1\'b1\'a1\'ad\'a1\'c3\'a1\'a2\'a1\'a3\'a1\'a8\'a1\'a9\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bf\'a1\'b3\'a1\'bd\'a3\'a1\'a3\'a2\'a3\'a7\'a3\'a9\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'dd\'a3\'e0\'a3\'fc\'a3\'fd\'a1\'ab\'a1\'e9
+}{\*\lchars ([\'7b\'a1\'a4\'a1\'ae\'a1\'b0\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'be\'a1\'b2\'a1\'bc\'a3\'a8\'a3\'ae\'a3\'db\'a3\'fb\'a1\'ea\'a3\'a4}\fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup0\ltrpar \sectd \ltrsect
+\linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid15534849\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl3
+\pndec\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta \dbch )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb \dbch (}{\pntxta \dbch )}}\pard\plain \ltrpar\s15\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15534849 \rtlch\fcs1 \af2\afs21\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af13\hich\af2\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \hich\af13\dbch\af13\loch\f13 
+http://www.csc.calpoly.edu/~gfisher/450/doc/yacc/paper.txt
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                      PS1:15-1
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13                Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13                        Stephen C. Johnson
+\par 
+\par \hich\af13\dbch\af13\loch\f13                      AT&T Be\hich\af13\dbch\af13\loch\f13 ll Laboratories
+\par \hich\af13\dbch\af13\loch\f13                   Murray Hill, New Jersey 07974
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13                             ABSTRACT
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13           Computer program input generally has  some  struc-
+\par \hich\af13\dbch\af13\loch\f13      ture;  in  fact, every computer program that does input
+\par \hich\af13\dbch\af13\loch\f13      can be thought of as  de\hich\af13\dbch\af13\loch\f13 fining  an  ``input  language''
+\par \hich\af13\dbch\af13\loch\f13      which  it accepts.  An input language may be as complex
+\par \hich\af13\dbch\af13\loch\f13      as a programming language, or as simple as  a  sequence
+\par \hich\af13\dbch\af13\loch\f13      of  numbers.  Unfortunately, usual input facilities are
+\par \hich\af13\dbch\af13\loch\f13      limited, difficult to use,  and  oft\hich\af13\dbch\af13\loch\f13 en  are  lax  about
+\par \hich\af13\dbch\af13\loch\f13      checking their inputs for validity.
+\par 
+\par \hich\af13\dbch\af13\loch\f13           Yacc provides a general tool  for  describing  the
+\par \hich\af13\dbch\af13\loch\f13      input  to  a computer program.  The Yacc user specifies
+\par \hich\af13\dbch\af13\loch\f13      the structures of his input, together with code  to  be
+\par \hich\af13\dbch\af13\loch\f13      invoke\hich\af13\dbch\af13\loch\f13 d  as  each  such  structure is recognized.  Yacc
+\par \hich\af13\dbch\af13\loch\f13      turns such a specification into a subroutine that  han-
+\par \hich\af13\dbch\af13\loch\f13      dles  the  input  process; frequently, it is convenient
+\par \hich\af13\dbch\af13\loch\f13      and appropriate to have most of the flow of control  in
+\par \hich\af13\dbch\af13\loch\f13      the user's applica\hich\af13\dbch\af13\loch\f13 tion handled by this subroutine.
+\par 
+\par \hich\af13\dbch\af13\loch\f13           The input subroutine  produced  by  Yacc  calls  a
+\par \hich\af13\dbch\af13\loch\f13      user-supplied  routine  to  return the next basic input
+\par \hich\af13\dbch\af13\loch\f13      item.  Thus, the user can specify his input in terms of
+\par \hich\af13\dbch\af13\loch\f13      individual  input  characters,  or\hich\af13\dbch\af13\loch\f13   in  terms of higher
+\par \hich\af13\dbch\af13\loch\f13      level constructs such as names and numbers.  The  user-
+\par \hich\af13\dbch\af13\loch\f13      supplied  routine  may  also  handle idiomatic features
+\par \hich\af13\dbch\af13\loch\f13      such as comment  and  continuation  conventions,  which
+\par \hich\af13\dbch\af13\loch\f13      typically defy easy grammatical specification.
+\par 
+\par \hich\af13\dbch\af13\loch\f13           Yacc is written  in  portable  C.   The  class  of
+\par \hich\af13\dbch\af13\loch\f13      specifications  accepted is a very general one: LALR(1)
+\par \hich\af13\dbch\af13\loch\f13      grammars with disambiguating rules.
+\par 
+\par \hich\af13\dbch\af13\loch\f13           In addition to compilers for C, APL, Pascal,  RAT-
+\par \hich\af13\dbch\af13\loch\f13      FOR,  etc.,  Yacc  has  \hich\af13\dbch\af13\loch\f13 also been used for less conven-
+\par \hich\af13\dbch\af13\loch\f13      tional languages, including a phototypesetter language,
+\par \hich\af13\dbch\af13\loch\f13      several desk calculator languages, a document retrieval
+\par \hich\af13\dbch\af13\loch\f13      system, and a Fortran debugging system.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-2                      Yacc: Yet Anoth\hich\af13\dbch\af13\loch\f13 er Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 0: Introduction
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Yacc provides a general tool for imposing structure  on  the
+\par \hich\af13\dbch\af13\loch\f13 input to a computer program.  The Yacc user prepares a specifica-
+\par \hich\af13\dbch\af13\loch\f13 tion of the input process; this  includes  rules  describing  the
+\par \hich\af13\dbch\af13\loch\f13 input  structure, \hich\af13\dbch\af13\loch\f13  code to be invoked when these rules are recog-
+\par \hich\af13\dbch\af13\loch\f13 nized, and a low-level routine to do the basic input.  Yacc  then
+\par \hich\af13\dbch\af13\loch\f13 generates  a  function  to control the input process.  This func-
+\par \hich\af13\dbch\af13\loch\f13 tion, called a parser, calls the  user-supplied  low-level  input
+\par \hich\af13\dbch\af13\loch\f13 routine (t\hich\af13\dbch\af13\loch\f13 he lexical analyzer) to pick up the basic items (called
+\par \hich\af13\dbch\af13\loch\f13 tokens) from  the  input  stream.   These  tokens  are  organized
+\par \hich\af13\dbch\af13\loch\f13 according  to  the  input  structure rules, called grammar rules;
+\par \hich\af13\dbch\af13\loch\f13 when one of these rules has been recognized, then user code  sup-
+\par \hich\af13\dbch\af13\loch\f13 pl\hich\af13\dbch\af13\loch\f13 ied  for  this  rule,  an  action, is invoked; actions have the
+\par \hich\af13\dbch\af13\loch\f13 ability to return values and make use  of  the  values  of  other
+\par \hich\af13\dbch\af13\loch\f13 actions.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Yacc is written in  a  portable  dialect  of  C[1]  and  the
+\par \hich\af13\dbch\af13\loch\f13 actions, and output subroutine, are in C as well. \hich\af13\dbch\af13\loch\f13  Moreover, many
+\par \hich\af13\dbch\af13\loch\f13 of the syntactic conventions of Yacc follow C.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The heart of the input  specification  is  a  collection  of
+\par \hich\af13\dbch\af13\loch\f13 grammar  rules.   Each  rule describes an allowable structure and
+\par \hich\af13\dbch\af13\loch\f13 gives it a name.  For example, one grammar rule might be
+\par 
+\par \hich\af13\dbch\af13\loch\f13   \hich\af13\dbch\af13\loch\f13       date  :  month_name  day  ','  year   ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Here, date, month_name, day, and  year  represent  structures  of
+\par \hich\af13\dbch\af13\loch\f13 interest  in  the input process; presumably, month_name, day, and
+\par \hich\af13\dbch\af13\loch\f13 year are defined elsewhere.  The comma ``,'' is enclosed in  sin-
+\par \hich\af13\dbch\af13\loch\f13 gle quotes;\hich\af13\dbch\af13\loch\f13  this implies that the comma is to appear literally in
+\par \hich\af13\dbch\af13\loch\f13 the input.  The colon and semicolon merely serve  as  punctuation
+\par \hich\af13\dbch\af13\loch\f13 in  the  rule, and have no significance in controlling the input.
+\par \hich\af13\dbch\af13\loch\f13 Thus, with proper definitions, the input
+\par 
+\par \hich\af13\dbch\af13\loch\f13         July  4, 1776
+\par 
+\par \hich\af13\dbch\af13\loch\f13 migh\hich\af13\dbch\af13\loch\f13 t be matched by the above rule.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      An important part of the input process is carried out by the
+\par \hich\af13\dbch\af13\loch\f13 lexical  analyzer.   This  user  routine  reads the input stream,
+\par \hich\af13\dbch\af13\loch\f13 recognizing the lower level structures,  and  communicates  these
+\par \hich\af13\dbch\af13\loch\f13 tokens to the parser.  Fo\hich\af13\dbch\af13\loch\f13 r historical reasons, a structure recog-
+\par \hich\af13\dbch\af13\loch\f13 nized by the lexical analyzer is called a terminal symbol,  while
+\par \hich\af13\dbch\af13\loch\f13 the  structure  recognized  by the parser is called a nonterminal
+\par \hich\af13\dbch\af13\loch\f13 symbol.  To avoid confusion, terminal  symbols  will  usually  be
+\par \hich\af13\dbch\af13\loch\f13 referred to as to\hich\af13\dbch\af13\loch\f13 kens.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      There is considerable leeway in deciding whether  to  recog-
+\par \hich\af13\dbch\af13\loch\f13 nize structures using the lexical analyzer or grammar rules.  For
+\par \hich\af13\dbch\af13\loch\f13 example, the rules
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                      PS1:15-3
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13         month_nam\hich\af13\dbch\af13\loch\f13 e  :  'J' 'a' 'n'   ;
+\par \hich\af13\dbch\af13\loch\f13         month_name  :  'F' 'e' 'b'   ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13                  . . .
+\par 
+\par \hich\af13\dbch\af13\loch\f13         month_name  :  'D' 'e' 'c'   ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 might be used in the above example.  The lexical  analyzer  would
+\par \hich\af13\dbch\af13\loch\f13 only  need  to recognize individual letters, and month_name woul\hich\af13\dbch\af13\loch\f13 d
+\par \hich\af13\dbch\af13\loch\f13 be a nonterminal symbol.  Such low-level rules tend to waste time
+\par \hich\af13\dbch\af13\loch\f13 and  space,  and  may  complicate the specification beyond Yacc's
+\par \hich\af13\dbch\af13\loch\f13 ability to deal with it.  Usually,  the  lexical  analyzer  would
+\par \hich\af13\dbch\af13\loch\f13 recognize  the  month  names,  and  return  an  indicati\hich\af13\dbch\af13\loch\f13 on that a
+\par \hich\af13\dbch\af13\loch\f13 month_name was seen; in this case, month_name would be a token.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Literal characters such as ``,'' must also be passed through
+\par \hich\af13\dbch\af13\loch\f13 the lexical analyzer, and are also considered tokens.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Specification files are very flexible.  It is realively\hich\af13\dbch\af13\loch\f13  easy
+\par \hich\af13\dbch\af13\loch\f13 to add to the above example the rule
+\par 
+\par \hich\af13\dbch\af13\loch\f13         date  :  month '/' day '/' year   ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 allowing
+\par 
+\par \hich\af13\dbch\af13\loch\f13         7 / 4 / 1776
+\par 
+\par \hich\af13\dbch\af13\loch\f13 as a synonym for
+\par 
+\par \hich\af13\dbch\af13\loch\f13         July 4, 1776
+\par 
+\par \hich\af13\dbch\af13\loch\f13 In most cases, this new rule could be ``slipped in'' to a working
+\par \hich\af13\dbch\af13\loch\f13 system  with  minimal  effort\hich\af13\dbch\af13\loch\f13 ,  and  little  danger of disrupting
+\par \hich\af13\dbch\af13\loch\f13 existing input.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The input being read may not conform to the  specifications.
+\par \hich\af13\dbch\af13\loch\f13 These input errors are detected as early as is theoretically pos-
+\par \hich\af13\dbch\af13\loch\f13 sible with a left-to-right scan; thus, not only is the chance  of
+\par \hich\af13\dbch\af13\loch\f13 read\hich\af13\dbch\af13\loch\f13 ing  and computing with bad input data substantially reduced,
+\par \hich\af13\dbch\af13\loch\f13 but the bad data can usually be quickly found.   Error  handling,
+\par \hich\af13\dbch\af13\loch\f13 provided as part of the input specifications, permits the reentry
+\par \hich\af13\dbch\af13\loch\f13 of bad data, or the continuation of the input process after sk\hich\af13\dbch\af13\loch\f13 ip-
+\par \hich\af13\dbch\af13\loch\f13 ping over the bad data.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In some cases, Yacc fails to produce a parser when  given  a
+\par \hich\af13\dbch\af13\loch\f13 set  of  specifications.   For example, the specifications may be
+\par \hich\af13\dbch\af13\loch\f13 self contradictory, or they may require a more powerful  recogni-
+\par \hich\af13\dbch\af13\loch\f13 tion  mechanism  than  that  \hich\af13\dbch\af13\loch\f13 available to Yacc.  The former cases
+\par \hich\af13\dbch\af13\loch\f13 represent design errors; the latter cases can often be  corrected
+\par \hich\af13\dbch\af13\loch\f13 by  making  the  lexical  analyzer more powerful, or by rewriting
+\par \hich\af13\dbch\af13\loch\f13 some of the grammar rules.  While Yacc cannot handle all possible
+\par \hich\af13\dbch\af13\loch\f13 specifications,  its \hich\af13\dbch\af13\loch\f13  power  compares favorably with similar sys-
+\par \hich\af13\dbch\af13\loch\f13 tems; moreover, the constructions which are difficult for Yacc to
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-4                      Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 handle  are also frequently difficult for human beings to handle.
+\par \hich\af13\dbch\af13\loch\f13 So\hich\af13\dbch\af13\loch\f13 me users have reported that the discipline of formulating valid
+\par \hich\af13\dbch\af13\loch\f13 Yacc specifications for their input revealed errors of conception
+\par \hich\af13\dbch\af13\loch\f13 or design early in the program development.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The theory underlying Yacc has been described  elsewhere.[2,
+\par \hich\af13\dbch\af13\loch\f13 3, 4] Yacc has \hich\af13\dbch\af13\loch\f13 been extensively used in numerous practical appli-
+\par \hich\af13\dbch\af13\loch\f13 cations, including lint,[5] the Portable  C  Compiler,[6]  and  a
+\par \hich\af13\dbch\af13\loch\f13 system for typesetting mathematics.[7]
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The next several sections  describe  the  basic  process  of
+\par \hich\af13\dbch\af13\loch\f13 preparing  a Yacc specification; \hich\af13\dbch\af13\loch\f13 Section 1 describes the prepara-
+\par \hich\af13\dbch\af13\loch\f13 tion of grammar rules, Section 2 the preparation of the user sup-
+\par \hich\af13\dbch\af13\loch\f13 plied  actions  associated  with  these  rules, and Section 3 the
+\par \hich\af13\dbch\af13\loch\f13 preparation of lexical analyzers.  Section 4 describes the opera-
+\par \hich\af13\dbch\af13\loch\f13 tion of the parser.  Sect\hich\af13\dbch\af13\loch\f13 ion 5 discusses various reasons why Yacc
+\par \hich\af13\dbch\af13\loch\f13 may be unable to produce a parser from a specification, and  what
+\par \hich\af13\dbch\af13\loch\f13 to  do about it.  Section 6 describes a simple mechanism for han-
+\par \hich\af13\dbch\af13\loch\f13 dling operator precedences in arithmetic expressions.  Section  7
+\par \hich\af13\dbch\af13\loch\f13 discusses  error \ltrpar \hich\af13\dbch\af13\loch\f13 detection and recovery.  Section 8 discusses the
+\par \hich\af13\dbch\af13\loch\f13 operating environment and special features of  the  parsers  Yacc
+\par \hich\af13\dbch\af13\loch\f13 produces.   Section 9 gives some suggestions which should improve
+\par \hich\af13\dbch\af13\loch\f13 the style and  efficiency  of  the  specifications.   Section  10
+\par \hich\af13\dbch\af13\loch\f13 discusses\hich\af13\dbch\af13\loch\f13  some advanced topics, and Section 11 gives acknowledge-
+\par \hich\af13\dbch\af13\loch\f13 ments.  Appendix A has a brief example, and Appendix  B  gives  a
+\par \hich\af13\dbch\af13\loch\f13 summary  of  the  Yacc input syntax.  Appendix C gives an example
+\par \hich\af13\dbch\af13\loch\f13 using some of the more advanced features of Yacc,  and,  finally,
+\par \hich\af13\dbch\af13\loch\f13 A\hich\af13\dbch\af13\loch\f13 ppendix  D  describes  mechanisms  and syntax no longer actively
+\par \hich\af13\dbch\af13\loch\f13 supported, but provided for historical continuity with older ver-
+\par \hich\af13\dbch\af13\loch\f13 sions of Yacc.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1: Basic Specifications
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Names refer to either tokens or nonterminal  symbols.   Yacc
+\par \hich\af13\dbch\af13\loch\f13 requires  token  n\hich\af13\dbch\af13\loch\f13 ames  to be declared as such.  In addition, for
+\par \hich\af13\dbch\af13\loch\f13 reasons discussed in Section 3, it is often desirable to  include
+\par \hich\af13\dbch\af13\loch\f13 the lexical analyzer as part of the specification file; it may be
+\par \hich\af13\dbch\af13\loch\f13 useful to include other programs as well.  Thus, every specifica-
+\par \hich\af13\dbch\af13\loch\f13 tion file \hich\af13\dbch\af13\loch\f13 consists of three sections: the declarations, (grammar)
+\par \hich\af13\dbch\af13\loch\f13 rules, and programs.  The sections are separated by  double  per-
+\par \hich\af13\dbch\af13\loch\f13 cent  ``%%'' marks.  (The percent ``%'' is generally used in Yacc
+\par \hich\af13\dbch\af13\loch\f13 specifications as an escape character.)
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In other words, a full\hich\af13\dbch\af13\loch\f13  specification file looks like
+\par 
+\par \hich\af13\dbch\af13\loch\f13         declarations
+\par \hich\af13\dbch\af13\loch\f13         %%
+\par \hich\af13\dbch\af13\loch\f13         rules
+\par \hich\af13\dbch\af13\loch\f13         %%
+\par \hich\af13\dbch\af13\loch\f13         programs
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The declaration section may be empty.  Moreover, if the pro-
+\par \hich\af13\dbch\af13\loch\f13 grams section is omitted, the second %% mark may be omitted also;
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Y\hich\af13\dbch\af13\loch\f13 et Another Compiler-Compiler                      PS1:15-5
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 thus, the smallest legal Yacc specification is
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %%
+\par \hich\af13\dbch\af13\loch\f13         rules
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Blanks, tabs, and newlines are ignored except that they  may
+\par \hich\af13\dbch\af13\loch\f13 not  appear  in  names or multi-character reserved sym\hich\af13\dbch\af13\loch\f13 bols.  Com-
+\par \hich\af13\dbch\af13\loch\f13 ments may appear wherever a name is legal; they are  enclosed  in
+\par \hich\af13\dbch\af13\loch\f13 /* . . . */, as in C and PL/I.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The rules section is made up of one or more  grammar  rules.
+\par \hich\af13\dbch\af13\loch\f13 A grammar rule has the form:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A  :  BODY  ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 A represents a nonterminal \hich\af13\dbch\af13\loch\f13 name, and BODY represents  a  sequence
+\par \hich\af13\dbch\af13\loch\f13 of  zero or more names and literals.  The colon and the semicolon
+\par \hich\af13\dbch\af13\loch\f13 are Yacc punctuation.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Names may be of arbitrary length, and  may  be  made  up  of
+\par \hich\af13\dbch\af13\loch\f13 letters,  dot  ``.'',  underscore  ``_'', and non-initial digi\hich\af13\dbch\af13\loch\f13 ts.
+\par \hich\af13\dbch\af13\loch\f13 Upper and lower case letters are distinct.  The names used in the
+\par \hich\af13\dbch\af13\loch\f13 body  of  a grammar rule may represent tokens or nonterminal sym-
+\par \hich\af13\dbch\af13\loch\f13 bols.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      A literal consists of a character enclosed in single  quotes
+\par \hich\af13\dbch\af13\loch\f13 ``'''.   As  in  C,  the  backslash  ``\\'' is a\hich\af13\dbch\af13\loch\f13 n escape character
+\par \hich\af13\dbch\af13\loch\f13 within literals, and all the C escapes are recognized.  Thus
+\par 
+\par \hich\af13\dbch\af13\loch\f13         '\\n'    newline
+\par \hich\af13\dbch\af13\loch\f13         '\\r'    return
+\par \hich\af13\dbch\af13\loch\f13         '\\''    single quote ``'''
+\par \hich\af13\dbch\af13\loch\f13         '\\\\'    backslash ``\\''
+\par \hich\af13\dbch\af13\loch\f13         '\\t'    tab
+\par \hich\af13\dbch\af13\loch\f13         '\\b'    backspace
+\par \hich\af13\dbch\af13\loch\f13         '\\f'   \hich\af13\dbch\af13\loch\f13  form feed
+\par \hich\af13\dbch\af13\loch\f13         '\\xxx'  ``xxx'' in octal
+\par 
+\par \hich\af13\dbch\af13\loch\f13 For a number of technical reasons, the NUL character ('\\0' or  0)
+\par \hich\af13\dbch\af13\loch\f13 should never be used in grammar rules.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      If there are several grammar rules with the same  left  hand
+\par \hich\af13\dbch\af13\loch\f13 side,  the  vertical bar ``|'' can be u\hich\af13\dbch\af13\loch\f13 sed to avoid rewriting the
+\par \hich\af13\dbch\af13\loch\f13 left hand side.  In addition, the semicolon at the end of a  rule
+\par \hich\af13\dbch\af13\loch\f13 can be dropped before a vertical bar.  Thus the grammar rules
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A       :       B  C  D   ;
+\par \hich\af13\dbch\af13\loch\f13         A       :       E  F   ;
+\par \hich\af13\dbch\af13\loch\f13         A       :       G   ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 can be given to Yacc as
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-6                      Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A       :       B  C  D
+\par \hich\af13\dbch\af13\loch\f13                 |       E  F
+\par \hich\af13\dbch\af13\loch\f13                 |       G
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 It is not necessary that all grammar rules  wi\hich\af13\dbch\af13\loch\f13 th  the  same  left
+\par \hich\af13\dbch\af13\loch\f13 side  appear  together  in the grammar rules section, although it
+\par \hich\af13\dbch\af13\loch\f13 makes the input much more readable, and easier to change.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      If a nonterminal symbol matches the empty string,  this  can
+\par \hich\af13\dbch\af13\loch\f13 be indicated in the obvious way:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         emp\hich\af13\dbch\af13\loch\f13 ty :   ;
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Names representing tokens must be  declared;  this  is  most
+\par \hich\af13\dbch\af13\loch\f13 simply done by writing
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %token   name1  name2 . . .
+\par 
+\par \hich\af13\dbch\af13\loch\f13 in the declarations section.  (See Sections 3 , 5, and 6 for much
+\par \hich\af13\dbch\af13\loch\f13 more  discussion).   Every  name  not defined in the\hich\af13\dbch\af13\loch\f13  declarations
+\par \hich\af13\dbch\af13\loch\f13 section is assumed to represent a nonterminal symbol.  Every non-
+\par \hich\af13\dbch\af13\loch\f13 terminal  symbol  must  appear  on  the left side of at least one
+\par \hich\af13\dbch\af13\loch\f13 rule.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Of all the nonterminal symbols, one, called the  start  sym-
+\par \hich\af13\dbch\af13\loch\f13 bol, has particular importance.  The \hich\af13\dbch\af13\loch\f13 parser is designed to recog-
+\par \hich\af13\dbch\af13\loch\f13 nize the start symbol; thus, this symbol represents the  largest,
+\par \hich\af13\dbch\af13\loch\f13 most  general  structure  described  by  the  grammar  rules.  By
+\par \hich\af13\dbch\af13\loch\f13 default, the start symbol is taken to be the left  hand  side  of
+\par \hich\af13\dbch\af13\loch\f13 the first grammar rule in the\hich\af13\dbch\af13\loch\f13  rules section.  It is possible, and
+\par \hich\af13\dbch\af13\loch\f13 in fact desirable, to declare the start symbol explicitly in  the
+\par \hich\af13\dbch\af13\loch\f13 declarations section using the %start keyword:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %start   symbol
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The end of the input to the parser is signaled by a  special
+\par \hich\af13\dbch\af13\loch\f13 token,  calle\hich\af13\dbch\af13\loch\f13 d  the  endmarker.   If  the  tokens  up to, but not
+\par \hich\af13\dbch\af13\loch\f13 including, the endmarker form a structure which matches the start
+\par \hich\af13\dbch\af13\loch\f13 symbol,  the parser function returns to its caller after the end-
+\par \hich\af13\dbch\af13\loch\f13 marker is seen; it accepts the input.  If the endmarker  is  seen
+\par \hich\af13\dbch\af13\loch\f13 in an\hich\af13\dbch\af13\loch\f13 y other context, it is an error.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      It is the job  of  the  user-supplied  lexical  analyzer  to
+\par \hich\af13\dbch\af13\loch\f13 return  the  endmarker  when  appropriate;  see section 3, below.
+\par \hich\af13\dbch\af13\loch\f13 Usually the endmarker  represents  some  reasonably  obvious  I/O
+\par \hich\af13\dbch\af13\loch\f13 status, such as ``end-of\hich\af13\dbch\af13\loch\f13 -file'' or ``end-of-record''.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2: Actions
+\par 
+\par \hich\af13\dbch\af13\loch\f13      With each grammar rule, the user may associate actions to be
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                      PS1:15-7
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 performed  each time the rule is recognized in the input process.
+\par \hich\af13\dbch\af13\loch\f13 Thes\hich\af13\dbch\af13\loch\f13 e actions may  return  values,  and  may  obtain  the  values
+\par \hich\af13\dbch\af13\loch\f13 returned by previous actions.  Moreover, the lexical analyzer can
+\par \hich\af13\dbch\af13\loch\f13 return values for tokens, if desired.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      An action is an arbitrary C statement, and as  such  can  do
+\par \hich\af13\dbch\af13\loch\f13 input  and  output,  ca\hich\af13\dbch\af13\loch\f13 ll subprograms, and alter external vectors
+\par \hich\af13\dbch\af13\loch\f13 and variables.  An action is specified by one or more statements,
+\par \hich\af13\dbch\af13\loch\f13 enclosed in curly braces ``\{'' and ``\}''.  For example,
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A       :       '('  B  ')'
+\par \hich\af13\dbch\af13\loch\f13                                 \{       hello( 1, "abc\hich\af13\dbch\af13\loch\f13 " );  \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and
+\par 
+\par \hich\af13\dbch\af13\loch\f13         XXX     :       YYY  ZZZ
+\par \hich\af13\dbch\af13\loch\f13                                 }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \{\hich\af13\dbch\af13\loch\f13        printf("a message\\n");
+\par \hich\af13\dbch\af13\loch\f13                                         flag = 25;   \}
+\par 
+\par }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \hich\af13\dbch\af13\loch\f13 are grammar rules with actions.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      To facilitate easy communication between the actions\hich\af13\dbch\af13\loch\f13  and the
+\par \hich\af13\dbch\af13\loch\f13 parser,  the  action statements are altered slightly.  The symbol
+\par \hich\af13\dbch\af13\loch\f13 ``dollar sign'' ``$'' is used as a signal to Yacc  in  this  con-
+\par \hich\af13\dbch\af13\loch\f13 text.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      To return a value, the  action  normally  sets  the  pseudo-
+\par \hich\af13\dbch\af13\loch\f13 variable  ``$$'' to some value.  For examp\hich\af13\dbch\af13\loch\f13 le, an action that does
+\par \hich\af13\dbch\af13\loch\f13 nothing but return the value 1 is
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 \{  $$ = 1;  \}
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      To obtain the values returned by previous  actions  and  the
+\par \hich\af13\dbch\af13\loch\f13 lexical analyzer, the action may use the pseudo-variables $1, $2,
+\par \hich\af13\dbch\af13\loch\f13 . . ., which refer to the values \hich\af13\dbch\af13\loch\f13 returned by  the  components  of
+\par \hich\af13\dbch\af13\loch\f13 the  right  side of a rule, reading from left to right.  Thus, if
+\par \hich\af13\dbch\af13\loch\f13 the rule is
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A       :       B  C  D   ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 for example, then $2 has the value returned  by  C,  and  $3  the
+\par \hich\af13\dbch\af13\loch\f13 value returned by D.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      As a more conc\hich\af13\dbch\af13\loch\f13 rete example, consider the rule
+\par 
+\par \hich\af13\dbch\af13\loch\f13         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \hich\af13\dbch\af13\loch\f13 expr    :       '('  expr  ')'   ;
+\par 
+\par }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \hich\af13\dbch\af13\loch\f13 The value returned by this rule is usually the value of the  expr
+\par \hich\af13\dbch\af13\loch\f13 in parentheses.  This can be indicated by
+\par 
+\par \hich\af13\dbch\af13\loch\f13         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \hich\af13\dbch\af13\loch\f13 expr    :        '('  expr  ')'         \{  $$ = $2 ;  \}
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \hich\af13\dbch\af13\loch\f13 PS1:15-8                      Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      By default, the value of a rule is the value  of  the  first
+\par \hich\af13\dbch\af13\loch\f13 element in it ($1).  Thus, grammar rules of the form
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A       :       B    ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 frequently need not have an exp\hich\af13\dbch\af13\loch\f13 licit action.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In the examples above, all the actions came at  the  end  of
+\par \hich\af13\dbch\af13\loch\f13 their  rules.  Sometimes, it is desirable to get control before a
+\par \hich\af13\dbch\af13\loch\f13 rule is fully parsed.  Yacc permits an action to  be  written  in
+\par \hich\af13\dbch\af13\loch\f13 the middle of a rule as well as at the end.\hich\af13\dbch\af13\loch\f13   This rule is assumed
+\par \hich\af13\dbch\af13\loch\f13 to return a value, accessible through the usual mechanism by  the
+\par \hich\af13\dbch\af13\loch\f13 actions  to  the  right of it.  In turn, it may access the values
+\par \hich\af13\dbch\af13\loch\f13 returned by the symbols to its left.  Thus, in the rule
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A       :       B
+\par \hich\af13\dbch\af13\loch\f13                   \ltrpar \hich\af13\dbch\af13\loch\f13               \{  $$ = 1;  \}
+\par \hich\af13\dbch\af13\loch\f13                         C
+\par \hich\af13\dbch\af13\loch\f13                                 \{   x = $2;   y = $3;  \}
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 the effect is to set x to 1, and y to the value returned by C.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Actions that do not terminate a rule are actually handled\hich\af13\dbch\af13\loch\f13  by
+\par \hich\af13\dbch\af13\loch\f13 Yacc  by  manufacturing  a new nonterminal symbol name, and a new
+\par \hich\af13\dbch\af13\loch\f13 rule matching this name to the empty string.  The interior action
+\par \hich\af13\dbch\af13\loch\f13 is the action triggered off by recognizing this added rule.  Yacc
+\par \hich\af13\dbch\af13\loch\f13 actually treats the above example as if it had been wr\hich\af13\dbch\af13\loch\f13 itten:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         $ACT    :       /* empty */
+\par \hich\af13\dbch\af13\loch\f13                                 \{  $$ = 1;  \}
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A       :       B  $ACT  C
+\par \hich\af13\dbch\af13\loch\f13                                 \{   x = $2;   y = $3;  \}
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In many applications, output i\hich\af13\dbch\af13\loch\f13 s not  done  directly  by  the
+\par \hich\af13\dbch\af13\loch\f13 actions;  rather, a data structure, such as a parse tree, is con-
+\par \hich\af13\dbch\af13\loch\f13 structed in memory, and transformations are applied to it  before
+\par \hich\af13\dbch\af13\loch\f13 output  is  generated.  Parse trees are particularly easy to con-
+\par \hich\af13\dbch\af13\loch\f13 struct, given routines to b\hich\af13\dbch\af13\loch\f13 uild and maintain the  tree  structure
+\par \hich\af13\dbch\af13\loch\f13 desired.   For example, suppose there is a C function node, writ-
+\par \hich\af13\dbch\af13\loch\f13 ten so that the call
+\par 
+\par \hich\af13\dbch\af13\loch\f13         node( L, n1, n2 )
+\par 
+\par \hich\af13\dbch\af13\loch\f13 creates a node with label L,  and  descendants  n1  and  n2,  and
+\par \hich\af13\dbch\af13\loch\f13 returns the index of the newly creat\hich\af13\dbch\af13\loch\f13 ed node.  Then parse tree can
+\par \hich\af13\dbch\af13\loch\f13 be built by supplying actions such as:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \hich\af13\dbch\af13\loch\f13 expr    :       expr  '+'  expr
+\par \hich\af13\dbch\af13\loch\f13                                 }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \{\hich\af13\dbch\af13\loch\f13   $$ = node( '+', $1, $3 );  \}
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                      PS1:15-9
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 in th\hich\af13\dbch\af13\loch\f13 e specification.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The user may define  other  variables  to  be  used  by  the
+\par \hich\af13\dbch\af13\loch\f13 actions.  Declarations and definitions can appear in the declara-
+\par \hich\af13\dbch\af13\loch\f13 tions section, enclosed in the marks ``%\{''  and  ``%\}''.   These
+\par \hich\af13\dbch\af13\loch\f13 declarations and definitions have global\hich\af13\dbch\af13\loch\f13  scope, so they are known
+\par \hich\af13\dbch\af13\loch\f13 to the action statements and the lexical analyzer.  For example,
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %\{   int variable = 0;   %\}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 could be placed in  the  declarations  section,  making  variable
+\par \hich\af13\dbch\af13\loch\f13 accessible  to  all  of  the  actions.  The Yacc parser uses \hich\af13\dbch\af13\loch\f13 only
+\par \hich\af13\dbch\af13\loch\f13 names beginning in ``yy''; the user should avoid such names.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In these examples, all the values are integers: a discussion
+\par \hich\af13\dbch\af13\loch\f13 of values of other types will be found in Section 10.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 3: Lexical Analysis
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The user must supply a lexical analyzer to\hich\af13\dbch\af13\loch\f13   read  the  input
+\par \hich\af13\dbch\af13\loch\f13 stream  and  communicate  tokens (with values, if desired) to the
+\par \hich\af13\dbch\af13\loch\f13 parser.  The  lexical  analyzer  is  an  integer-valued  function
+\par \hich\af13\dbch\af13\loch\f13 called yylex.  The function returns an integer, the token number,
+\par \hich\af13\dbch\af13\loch\f13 representing the kind of token read.  I\hich\af13\dbch\af13\loch\f13 f there is a value associ-
+\par \hich\af13\dbch\af13\loch\f13 ated with that token, it should be assigned to the external vari-
+\par \hich\af13\dbch\af13\loch\f13 able yylval.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The parser and the lexical  analyzer  must  agree  on  these
+\par \hich\af13\dbch\af13\loch\f13 token  numbers  in  order  for communication between them to take
+\par \hich\af13\dbch\af13\loch\f13 place.  The numbe\hich\af13\dbch\af13\loch\f13 rs may be chosen by Yacc, or chosen by the user.
+\par \hich\af13\dbch\af13\loch\f13 In  either case, the ``# define'' mechanism of C is used to allow
+\par \hich\af13\dbch\af13\loch\f13 the lexical analyzer to return these numbers  symbolically.   For
+\par \hich\af13\dbch\af13\loch\f13 example,  suppose  that  the token name DIGIT has been defined in
+\par \hich\af13\dbch\af13\loch\f13 the decla\hich\af13\dbch\af13\loch\f13 rations section of the  Yacc  specification  file.   The
+\par \hich\af13\dbch\af13\loch\f13 relevant portion of the lexical analyzer might look like:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         yylex()\{
+\par \hich\af13\dbch\af13\loch\f13                 extern int yylval;
+\par \hich\af13\dbch\af13\loch\f13                 int c;
+\par \hich\af13\dbch\af13\loch\f13                 . . .
+\par \hich\af13\dbch\af13\loch\f13                 c = getchar();
+\par \hich\af13\dbch\af13\loch\f13             \hich\af13\dbch\af13\loch\f13     . . .
+\par \hich\af13\dbch\af13\loch\f13                 switch( c ) \{
+\par \hich\af13\dbch\af13\loch\f13                         . . .
+\par \hich\af13\dbch\af13\loch\f13                 case '0':
+\par \hich\af13\dbch\af13\loch\f13                 case '1':
+\par \hich\af13\dbch\af13\loch\f13                   . . .
+\par \hich\af13\dbch\af13\loch\f13                 case '9':
+\par \hich\af13\dbch\af13\loch\f13                         yylval = c-'0';
+\par \hich\af13\dbch\af13\loch\f13                         return( DIGIT );
+\par \hich\af13\dbch\af13\loch\f13    \hich\af13\dbch\af13\loch\f13                      . . .
+\par \hich\af13\dbch\af13\loch\f13                         \}
+\par \hich\af13\dbch\af13\loch\f13                 . . .
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-10                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The intent is to return a token number of DIGIT, and a value
+\par \hich\af13\dbch\af13\loch\f13 equal  to  the  numerical  value of t\hich\af13\dbch\af13\loch\f13 he digit.  Provided that the
+\par \hich\af13\dbch\af13\loch\f13 lexical analyzer code is placed in the programs  section  of  the
+\par \hich\af13\dbch\af13\loch\f13 specification  file,  the identifier DIGIT will be defined as the
+\par \hich\af13\dbch\af13\loch\f13 token number associated with the token DIGIT.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This mechanism  leads  to  clear,  easily  \hich\af13\dbch\af13\loch\f13 modified  lexical
+\par \hich\af13\dbch\af13\loch\f13 analyzers;  the only pitfall is the need to avoid using any token
+\par \hich\af13\dbch\af13\loch\f13 names in the grammar that are reserved or significant in C or the
+\par \hich\af13\dbch\af13\loch\f13 parser;  for  example,  the  use  of token names if or while will
+\par \hich\af13\dbch\af13\loch\f13 almost certainly  cause  severe  difficu\hich\af13\dbch\af13\loch\f13 lties  when  the  lexical
+\par \hich\af13\dbch\af13\loch\f13 analyzer is compiled.  The token name error is reserved for error
+\par \hich\af13\dbch\af13\loch\f13 handling, and should not be used naively (see Section 7).
+\par 
+\par \hich\af13\dbch\af13\loch\f13      As mentioned above, the token numbers may be chosen by  Yacc
+\par \hich\af13\dbch\af13\loch\f13 or by the user.  In the default situati\hich\af13\dbch\af13\loch\f13 on, the numbers are chosen
+\par \hich\af13\dbch\af13\loch\f13 by Yacc.  The default token number for a literal character is the
+\par \hich\af13\dbch\af13\loch\f13 numerical  value  of  the  character  in the local character set.
+\par \hich\af13\dbch\af13\loch\f13 Other names are assigned token numbers starting at 257.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      To assign a token number to a  toke\hich\af13\dbch\af13\loch\f13 n  (including  literals),
+\par \hich\af13\dbch\af13\loch\f13 the first appearance of the token name or literal in the declara-
+\par \hich\af13\dbch\af13\loch\f13 tions section  can  be  immediately  followed  by  a  nonnegative
+\par \hich\af13\dbch\af13\loch\f13 integer.   This  integer  is  taken to be the token number of the
+\par \hich\af13\dbch\af13\loch\f13 name or literal.  Names and lite\hich\af13\dbch\af13\loch\f13 rals not defined by this  mechan-
+\par \hich\af13\dbch\af13\loch\f13 ism  retain  their  default definition.  It is important that all
+\par \hich\af13\dbch\af13\loch\f13 token numbers be distinct.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      For historical reasons, the endmarker must have token number
+\par \hich\af13\dbch\af13\loch\f13 0  or  negative.   This  token  number cannot be redefined by \hich\af13\dbch\af13\loch\f13 the
+\par \hich\af13\dbch\af13\loch\f13 user; thus, all lexical analyzers should be prepared to return  0
+\par \hich\af13\dbch\af13\loch\f13 or  negative  as  a  token  number upon reaching the end of their
+\par \hich\af13\dbch\af13\loch\f13 input.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      A very useful tool for constructing lexical analyzers is the
+\par \hich\af13\dbch\af13\loch\f13 Lex  program  developed  by Mike Lesk.[8] Thes\hich\af13\dbch\af13\loch\f13 e lexical analyzers
+\par \hich\af13\dbch\af13\loch\f13 are designed to work in close harmony  with  Yacc  parsers.   The
+\par \hich\af13\dbch\af13\loch\f13 specifications  for  these  lexical analyzers use regular expres-
+\par \hich\af13\dbch\af13\loch\f13 sions instead of grammar rules.  Lex can be easily used  to  pro-
+\par \hich\af13\dbch\af13\loch\f13 duce  quite  complicated lexical analy\hich\af13\dbch\af13\loch\f13 zers, but there remain some
+\par \hich\af13\dbch\af13\loch\f13 languages (such as FORTRAN) which  do  not  fit  any  theoretical
+\par \hich\af13\dbch\af13\loch\f13 framework, and whose lexical analyzers must be crafted by hand.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 4: How the Parser Works
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Yacc turns the specification file into a  C  program,  which
+\par \hich\af13\dbch\af13\loch\f13 parses\hich\af13\dbch\af13\loch\f13  the input according to the specification given.  The algo-
+\par \hich\af13\dbch\af13\loch\f13 rithm used to go from the specification to the parser is complex,
+\par \hich\af13\dbch\af13\loch\f13 and  will  not  be  discussed  here  (see the references for more
+\par \hich\af13\dbch\af13\loch\f13 information).  The parser itself, however, is relatively  simple\hich\af13\dbch\af13\loch\f13 ,
+\par \hich\af13\dbch\af13\loch\f13 and  understanding  how  it  works, while not strictly necessary,
+\par \hich\af13\dbch\af13\loch\f13 will nevertheless make treatment of error recovery  and  ambigui-
+\par \hich\af13\dbch\af13\loch\f13 ties much more comprehensible.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-11
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The pars\hich\af13\dbch\af13\loch\f13 er produced by  Yacc  consists  of  a  finite  state
+\par \hich\af13\dbch\af13\loch\f13 machine  with a stack.  The parser is also capable of reading and
+\par \hich\af13\dbch\af13\loch\f13 remembering the next input token (called  the  lookahead  token).
+\par \hich\af13\dbch\af13\loch\f13 The current state is always the one on the top of the stack.  The
+\par \hich\af13\dbch\af13\loch\f13 state\hich\af13\dbch\af13\loch\f13 s of the  finite  state  machine  are  given  small  integer
+\par \hich\af13\dbch\af13\loch\f13 labels;  initially, the machine is in state 0, the stack contains
+\par \hich\af13\dbch\af13\loch\f13 only state 0, and no lookahead token has been read.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The machine has only four actions available  to  it,  called
+\par \hich\af13\dbch\af13\loch\f13 shift,  re\hich\af13\dbch\af13\loch\f13 duce,  accept, and error.  A move of the parser is done
+\par \hich\af13\dbch\af13\loch\f13 as follows:
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1.   Based on its current state, the parser  decides  whether  it
+\par \hich\af13\dbch\af13\loch\f13      needs  a  lookahead  token  to  decide what action should be
+\par \hich\af13\dbch\af13\loch\f13      done; if it needs one, and does not have one, it c\hich\af13\dbch\af13\loch\f13 alls yylex
+\par \hich\af13\dbch\af13\loch\f13      to obtain the next token.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2.   Using the current state, and the lookahead token if  needed,
+\par \hich\af13\dbch\af13\loch\f13      the  parser  decides on its next action, and carries it out.
+\par \hich\af13\dbch\af13\loch\f13      This may result in states being pushed onto  the  stack,  or
+\par \hich\af13\dbch\af13\loch\f13      popped  of\hich\af13\dbch\af13\loch\f13 f  of  the stack, and in the lookahead token being
+\par \hich\af13\dbch\af13\loch\f13      processed or left alone.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The shift action is the most common action the parser takes.
+\par \hich\af13\dbch\af13\loch\f13 Whenever  a  shift  action  is taken, there is always a lookahead
+\par \hich\af13\dbch\af13\loch\f13 token.  For example, in state 56 there may\hich\af13\dbch\af13\loch\f13  be an action:
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 IF      shift 34
+\par 
+\par \hich\af13\dbch\af13\loch\f13 which says, in state 56,  if  the  lookahead  token  is  IF,  the
+\par \hich\af13\dbch\af13\loch\f13 current  state  (56)  is  pushed  down on the stack, and state 34
+\par \hich\af13\dbch\af13\loch\f13 becomes the current state (on the top of the stack).  The  looka-
+\par \hich\af13\dbch\af13\loch\f13 head tok\ltrpar \hich\af13\dbch\af13\loch\f13 en is cleared.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The reduce action  keeps  the  stack  from  growing  without
+\par \hich\af13\dbch\af13\loch\f13 bounds.   Reduce actions are appropriate when the parser has seen
+\par \hich\af13\dbch\af13\loch\f13 the right hand side  of  a  grammar  rule,  and  is  prepared  to
+\par \hich\af13\dbch\af13\loch\f13 announce  that it has seen an instance of \hich\af13\dbch\af13\loch\f13 the rule, replacing the
+\par \hich\af13\dbch\af13\loch\f13 right hand side by the left hand side.  It may  be  necessary  to
+\par \hich\af13\dbch\af13\loch\f13 consult the lookahead token to decide whether to reduce, but usu-
+\par \hich\af13\dbch\af13\loch\f13 ally it is not; in fact, the default  action  (represented  by  a
+\par \hich\af13\dbch\af13\loch\f13 ``.'') is often a reduce action.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Reduce actions are associated with individual grammar rules.
+\par \hich\af13\dbch\af13\loch\f13 Grammar  rules  are  also given small integer numbers, leading to
+\par \hich\af13\dbch\af13\loch\f13 some confusion.  The action
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 .       reduce 18
+\par 
+\par \hich\af13\dbch\af13\loch\f13 refers to grammar rule 18, while the action
+\par 
+\par \hich\af13\dbch\af13\loch\f13                \hich\af13\dbch\af13\loch\f13  IF      shift 34
+\par 
+\par \hich\af13\dbch\af13\loch\f13 refers to state 34.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-12                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Suppose the rule being reduced is
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A       :       x  y  z    ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 The reduce action depends on the left  hand  symbol  (A  in  t\hich\af13\dbch\af13\loch\f13 his
+\par \hich\af13\dbch\af13\loch\f13 case), and the number of symbols on the right hand side (three in
+\par \hich\af13\dbch\af13\loch\f13 this case).  To reduce, first pop off the top three  states  from
+\par \hich\af13\dbch\af13\loch\f13 the  stack  (In  general,  the number of states popped equals the
+\par \hich\af13\dbch\af13\loch\f13 number of symbols on the right side of  the  rule).   \hich\af13\dbch\af13\loch\f13 In  effect,
+\par \hich\af13\dbch\af13\loch\f13 these  states were the ones put on the stack while recognizing x,
+\par \hich\af13\dbch\af13\loch\f13 y, and z, and no longer serve any useful purpose.  After  popping
+\par \hich\af13\dbch\af13\loch\f13 these states, a state is uncovered which was the state the parser
+\par \hich\af13\dbch\af13\loch\f13 was  in  before  beginning  to  process  the  \hich\af13\dbch\af13\loch\f13 rule.   Using  this
+\par \hich\af13\dbch\af13\loch\f13 uncovered  state,  and  the  symbol on the left side of the rule,
+\par \hich\af13\dbch\af13\loch\f13 perform what is in effect a shift of A.  A new state is obtained,
+\par \hich\af13\dbch\af13\loch\f13 pushed onto the stack, and parsing continues.  There are signifi-
+\par \hich\af13\dbch\af13\loch\f13 cant differences between the processin\hich\af13\dbch\af13\loch\f13 g of the left  hand  symbol
+\par \hich\af13\dbch\af13\loch\f13 and  an  ordinary  shift  of  a token, however, so this action is
+\par \hich\af13\dbch\af13\loch\f13 called a goto action.  In  particular,  the  lookahead  token  is
+\par \hich\af13\dbch\af13\loch\f13 cleared  by a shift, and is not affected by a goto.  In any case,
+\par \hich\af13\dbch\af13\loch\f13 the uncovered state contains a\hich\af13\dbch\af13\loch\f13 n entry such as:
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 A       goto 20
+\par 
+\par \hich\af13\dbch\af13\loch\f13 causing state 20 to be pushed onto  the  stack,  and  become  the
+\par \hich\af13\dbch\af13\loch\f13 current state.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In effect, the reduce action ``turns back the clock'' in the
+\par \hich\af13\dbch\af13\loch\f13 parse,  popping  the states off the stack to go back to t\hich\af13\dbch\af13\loch\f13 he state
+\par \hich\af13\dbch\af13\loch\f13 where the right hand side of the rule was first seen.  The parser
+\par \hich\af13\dbch\af13\loch\f13 then  behaves  as  if it had seen the left side at that time.  If
+\par \hich\af13\dbch\af13\loch\f13 the right hand side of the rule is empty, no  states  are  popped
+\par \hich\af13\dbch\af13\loch\f13 off  of  the  stack:  the  uncovered state is in \hich\af13\dbch\af13\loch\f13 fact the current
+\par \hich\af13\dbch\af13\loch\f13 state.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The reduce action is also  important  in  the  treatment  of
+\par \hich\af13\dbch\af13\loch\f13 user-supplied  actions  and  values.  When a rule is reduced, the
+\par \hich\af13\dbch\af13\loch\f13 code supplied with the rule  is  executed  before  the  stack  is
+\par \hich\af13\dbch\af13\loch\f13 adjusted.   In  addition to the s\hich\af13\dbch\af13\loch\f13 tack holding the states, another
+\par \hich\af13\dbch\af13\loch\f13 stack, running in parallel with it,  holds  the  values  returned
+\par \hich\af13\dbch\af13\loch\f13 from  the  lexical  analyzer and the actions.  When a shift takes
+\par \hich\af13\dbch\af13\loch\f13 place, the external variable yylval  is  copied  onto  the  value
+\par \hich\af13\dbch\af13\loch\f13 stack.   After  the  retu\hich\af13\dbch\af13\loch\f13 rn  from the user code, the reduction is
+\par \hich\af13\dbch\af13\loch\f13 carried out.  When the goto action is done, the external variable
+\par \hich\af13\dbch\af13\loch\f13 yyval  is  copied onto the value stack.  The pseudo-variables $1,
+\par \hich\af13\dbch\af13\loch\f13 $2, etc., refer to the value stack.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The other two parser actions are conceptu\hich\af13\dbch\af13\loch\f13 ally much  simpler.
+\par \hich\af13\dbch\af13\loch\f13 The  accept  action indicates that the entire input has been seen
+\par \hich\af13\dbch\af13\loch\f13 and that it matches the specification.  This action appears  only
+\par \hich\af13\dbch\af13\loch\f13 when the lookahead token is the endmarker, and indicates that the
+\par \hich\af13\dbch\af13\loch\f13 parser has successfully done its job. \hich\af13\dbch\af13\loch\f13  The error action,  on  the
+\par \hich\af13\dbch\af13\loch\f13 other  hand,  represents  a  place where the parser can no longer
+\par \hich\af13\dbch\af13\loch\f13 continue parsing  according  to  the  specification.   The  input
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-13
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 tokens  it has seen\hich\af13\dbch\af13\loch\f13 , together with the lookahead token, cannot be
+\par \hich\af13\dbch\af13\loch\f13 followed by anything that would result in  a  legal  input.   The
+\par \hich\af13\dbch\af13\loch\f13 parser  reports  an  error, and attempts to recover the situation
+\par \hich\af13\dbch\af13\loch\f13 and resume parsing: the error recovery (as opposed to the  detec-
+\par \hich\af13\dbch\af13\loch\f13 tion of err\hich\af13\dbch\af13\loch\f13 or) will be covered in Section 7.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      It is time for an example!  Consider the specification
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %token  DING  DONG  DELL
+\par \hich\af13\dbch\af13\loch\f13         %%
+\par \hich\af13\dbch\af13\loch\f13         rhyme   :       sound  place
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par \hich\af13\dbch\af13\loch\f13         sound   :       DING  DONG
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par \hich\af13\dbch\af13\loch\f13         \hich\af13\dbch\af13\loch\f13 place   :       DELL
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      When Yacc is invoked with  the  -v  option,  a  file  called
+\par \hich\af13\dbch\af13\loch\f13 y.output  is  produced,  with a human-readable description of the
+\par \hich\af13\dbch\af13\loch\f13 parser.  The y.output file corresponding  to  the  above  grammar
+\par \hich\af13\dbch\af13\loch\f13 (with some statis\hich\af13\dbch\af13\loch\f13 tics stripped off the end) is:
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-14                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13         state 0
+\par \hich\af13\dbch\af13\loch\f13                 $accept  :  _rhyme  $end
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 DING  shift 3
+\par \hich\af13\dbch\af13\loch\f13                 .  error
+\par 
+\par \hich\af13\dbch\af13\loch\f13  \hich\af13\dbch\af13\loch\f13                rhyme  goto 1
+\par \hich\af13\dbch\af13\loch\f13                 sound  goto 2
+\par 
+\par \hich\af13\dbch\af13\loch\f13         state 1
+\par \hich\af13\dbch\af13\loch\f13                 $accept  :   rhyme_$end
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 $end  accept
+\par \hich\af13\dbch\af13\loch\f13                 .  error
+\par 
+\par \hich\af13\dbch\af13\loch\f13         state 2
+\par \hich\af13\dbch\af13\loch\f13                 rhyme  :   sound_place
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 DELL  shift \hich\af13\dbch\af13\loch\f13 5
+\par \hich\af13\dbch\af13\loch\f13                 .  error
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 place   goto 4
+\par 
+\par \hich\af13\dbch\af13\loch\f13         state 3
+\par \hich\af13\dbch\af13\loch\f13                 sound   :   DING_DONG
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 DONG  shift 6
+\par \hich\af13\dbch\af13\loch\f13                 .  error
+\par 
+\par \hich\af13\dbch\af13\loch\f13         state 4
+\par \hich\af13\dbch\af13\loch\f13                 rhyme  :   sound  place_    (1)
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 .   \hich\af13\dbch\af13\loch\f13 reduce  1
+\par 
+\par \hich\af13\dbch\af13\loch\f13         state 5
+\par \hich\af13\dbch\af13\loch\f13                 place  :   DELL_    (3)
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 .   reduce  3
+\par 
+\par \hich\af13\dbch\af13\loch\f13         state 6
+\par \hich\af13\dbch\af13\loch\f13                 sound   :   DING  DONG_    (2)
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 .   reduce  2
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Notice that, in addition to the actions for each state, there \hich\af13\dbch\af13\loch\f13  is
+\par \hich\af13\dbch\af13\loch\f13 a description of the parsing rules being processed in each state.
+\par \hich\af13\dbch\af13\loch\f13 The _ character is used to indicate what has been seen, and  what
+\par \hich\af13\dbch\af13\loch\f13 is yet to come, in each rule.  Suppose the input is
+\par 
+\par \hich\af13\dbch\af13\loch\f13         DING  DONG  DELL
+\par 
+\par \hich\af13\dbch\af13\loch\f13 It is instructive to follow the steps of \hich\af13\dbch\af13\loch\f13 the  parser  while  pro-
+\par \hich\af13\dbch\af13\loch\f13 cessing this input.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-15
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Initially, the current state is state 0.  The  parser  needs
+\par \hich\af13\dbch\af13\loch\f13 to  refer  to  the  input  in order to decide between the actions
+\par \hich\af13\dbch\af13\loch\f13 av\hich\af13\dbch\af13\loch\f13 ailable in state 0, so the first token, DING, is read, becoming
+\par \hich\af13\dbch\af13\loch\f13 the lookahead token.  The action in state 0 on DING is is ``shift
+\par \hich\af13\dbch\af13\loch\f13 3'', so state 3 is pushed onto the stack, and the lookahead token
+\par \hich\af13\dbch\af13\loch\f13 is  cleared.  State 3 becomes the current state.  The next t\hich\af13\dbch\af13\loch\f13 oken,
+\par \hich\af13\dbch\af13\loch\f13 DONG, is read, becoming the lookahead token.  The action in state
+\par \hich\af13\dbch\af13\loch\f13 3 on the token DONG is ``shift 6'', so state 6 is pushed onto the
+\par \hich\af13\dbch\af13\loch\f13 stack, and the lookahead is cleared.  The stack now  contains  0,
+\par \hich\af13\dbch\af13\loch\f13 3, and 6.  In state 6, without even consulting the l\hich\af13\dbch\af13\loch\f13 ookahead, the
+\par \hich\af13\dbch\af13\loch\f13 parser reduces by rule 2.
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 sound  :   DING  DONG
+\par 
+\par \hich\af13\dbch\af13\loch\f13 This rule has two symbols on the right hand side, so two  states,
+\par \hich\af13\dbch\af13\loch\f13 6  and  3, are popped off of the stack, uncovering state 0.  Con-
+\par \hich\af13\dbch\af13\loch\f13 sulting the description of state 0, looking \hich\af13\dbch\af13\loch\f13 for a goto on sound,
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 sound   goto 2
+\par 
+\par \hich\af13\dbch\af13\loch\f13 is obtained; thus state 2 is pushed onto the stack, becoming  the
+\par \hich\af13\dbch\af13\loch\f13 current state.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In state 2, the next token, DELL, must be read.  The  action
+\par \hich\af13\dbch\af13\loch\f13 is  ``shift  5'',  so state 5 is pushed onto the stack\hich\af13\dbch\af13\loch\f13 , which now
+\par \hich\af13\dbch\af13\loch\f13 has 0, 2, and 5 on it, and the lookahead token  is  cleared.   In
+\par \hich\af13\dbch\af13\loch\f13 state  5,  the  only action is to reduce by rule 3.  This has one
+\par \hich\af13\dbch\af13\loch\f13 symbol on the right hand side, so one state, 5,  is  popped  off,
+\par \hich\af13\dbch\af13\loch\f13 and state 2 is uncovered.  The goto in state 2\hich\af13\dbch\af13\loch\f13  on place, the left
+\par \hich\af13\dbch\af13\loch\f13 side of rule 3, is state 4.  Now, the stack contains 0, 2, and 4.
+\par \hich\af13\dbch\af13\loch\f13 In  state  4,  the only action is to reduce by rule 1.  There are
+\par \hich\af13\dbch\af13\loch\f13 two symbols on the right, so the top two states are  popped  off,
+\par \hich\af13\dbch\af13\loch\f13 uncovering  state  0 again.  In state \hich\af13\dbch\af13\loch\f13 0, there is a goto on rhyme
+\par \hich\af13\dbch\af13\loch\f13 causing the parser to enter state 1.  In state 1,  the  input  is
+\par \hich\af13\dbch\af13\loch\f13 read;  the  endmarker  is  obtained, indicated by ``$end'' in the
+\par \hich\af13\dbch\af13\loch\f13 y.output file.  The action in state 1 when the endmarker is  seen
+\par \hich\af13\dbch\af13\loch\f13 is to accept, successfully end\hich\af13\dbch\af13\loch\f13 ing the parse.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The reader is urged to consider how the  parser  works  when
+\par \hich\af13\dbch\af13\loch\f13 confronted  with  such  incorrect strings as DING DONG DONG, DING
+\par \hich\af13\dbch\af13\loch\f13 DONG, DING DONG DELL DELL, etc.  A few minutes  spend  with  this
+\par \hich\af13\dbch\af13\loch\f13 and  other  simple examples will probably \ltrpar \hich\af13\dbch\af13\loch\f13 be repaid when problems
+\par \hich\af13\dbch\af13\loch\f13 arise in more complicated contexts.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 5: Ambiguity and Conflicts
+\par 
+\par \hich\af13\dbch\af13\loch\f13      A set of grammar rules is ambiguous if there is  some  input
+\par \hich\af13\dbch\af13\loch\f13 string that can be structured in two or more different ways.  For
+\par \hich\af13\dbch\af13\loch\f13 example, the grammar rule
+\par 
+\par \hich\af13\dbch\af13\loch\f13         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \hich\af13\dbch\af13\loch\f13 expr    :       expr  '-'  expr
+\par 
+\par }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \hich\af13\dbch\af13\loch\f13 is a natural way of expressing the fact that one way  of  forming
+\par \hich\af13\dbch\af13\loch\f13 an arithmetic expression is to put two other expressions together
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-16                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 with a minus s\hich\af13\dbch\af13\loch\f13 ign between them.  Unfortunately, this grammar rule
+\par \hich\af13\dbch\af13\loch\f13 does  not  completely  specify  the  way  that all complex inputs
+\par \hich\af13\dbch\af13\loch\f13 should be structured.  For example, if the input is
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr  -  expr  -  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 the rule allows this input to be structured as either
+\par 
+\par \hich\af13\dbch\af13\loch\f13         (  expr  -  expr  )  -  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 or as
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr  -  (  expr  -  expr  )
+\par 
+\par \hich\af13\dbch\af13\loch\f13 (The first is called left association, the second right  associa-
+\par \hich\af13\dbch\af13\loch\f13 tion).
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Yacc detects such ambiguities when it is attempting to build
+\par \hich\af13\dbch\af13\loch\f13 the  parser.  It is instructive\hich\af13\dbch\af13\loch\f13  to consider the problem that con-
+\par \hich\af13\dbch\af13\loch\f13 fronts the parser when it is given an input such as
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr  -  expr  -  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 When the parser has read the second expr, the input that  it  has
+\par \hich\af13\dbch\af13\loch\f13 seen:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr  -  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 matches the right side of the grammar  r\hich\af13\dbch\af13\loch\f13 ule  above.   The  parser
+\par \hich\af13\dbch\af13\loch\f13 could  reduce the input by applying this rule; after applying the
+\par \hich\af13\dbch\af13\loch\f13 rule; the input is reduced to expr(the left side  of  the  rule).
+\par \hich\af13\dbch\af13\loch\f13 The parser would then read the final part of the input:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         -  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and again reduce.  The e\hich\af13\dbch\af13\loch\f13 ffect of this is to take the left associ-
+\par \hich\af13\dbch\af13\loch\f13 ative interpretation.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Alternatively, when the parser has seen
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr  -  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 it could defer the immediate application of the  rule,  and  con-
+\par \hich\af13\dbch\af13\loch\f13 tinue reading the input until it had seen
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr \hich\af13\dbch\af13\loch\f13  -  expr  -  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 It could then apply the rule  to  the  rightmost  three  symbols,
+\par \hich\af13\dbch\af13\loch\f13 reducing them to expr and leaving
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr  -  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Now the rule can be reduced once more; the effect is to take  the
+\par \hich\af13\dbch\af13\loch\f13 right associative interpretation.  Thus, having\hich\af13\dbch\af13\loch\f13  read
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-17
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr  -  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 the parser can do two legal things, a shift or a  reduction,  and
+\par \hich\af13\dbch\af13\loch\f13 has  no  way  of deciding between them.  This is called a shift /
+\par \hich\af13\dbch\af13\loch\f13 reduce conflict. \hich\af13\dbch\af13\loch\f13  It may also happen that the parser has a choice
+\par \hich\af13\dbch\af13\loch\f13 of  two  legal  reductions; this is called a reduce / reduce con-
+\par \hich\af13\dbch\af13\loch\f13 flict.  Note that there are never any ``Shift/shift'' conflicts.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      When there are shift/reduce or reduce/reduce conflicts, Yacc
+\par \hich\af13\dbch\af13\loch\f13 still  pr\hich\af13\dbch\af13\loch\f13 oduces  a  parser.  It does this by selecting one of the
+\par \hich\af13\dbch\af13\loch\f13 valid steps wherever it has a choice.  A  rule  describing  which
+\par \hich\af13\dbch\af13\loch\f13 choice  to  make  in a given situation is called a disambiguating
+\par \hich\af13\dbch\af13\loch\f13 rule.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Yacc invokes two disambiguating rules by default:
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1.  \hich\af13\dbch\af13\loch\f13  In a shift/reduce conflict, the default is to do the shift.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2.   In a reduce/reduce conflict, the default is to reduce by the
+\par \hich\af13\dbch\af13\loch\f13      earlier grammar rule (in the input sequence).
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Rule 1 implies that reductions are deferred  whenever  there
+\par \hich\af13\dbch\af13\loch\f13 is  a  cho\hich\af13\dbch\af13\loch\f13 ice,  in favor of shifts.  Rule 2 gives the user rather
+\par \hich\af13\dbch\af13\loch\f13 crude control over the behavior of the parser in this  situation,
+\par \hich\af13\dbch\af13\loch\f13 but reduce/reduce conflicts should be avoided whenever possible.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Conflicts may arise because of mistakes in input  or  logic,
+\par \hich\af13\dbch\af13\loch\f13 or\hich\af13\dbch\af13\loch\f13   because  the  grammar rules, while consistent, require a more
+\par \hich\af13\dbch\af13\loch\f13 complex parser than Yacc  can  construct.   The  use  of  actions
+\par \hich\af13\dbch\af13\loch\f13 within rules can also cause conflicts, if the action must be done
+\par \hich\af13\dbch\af13\loch\f13 before the parser can be sure which rule is being recognized\hich\af13\dbch\af13\loch\f13 .  In
+\par \hich\af13\dbch\af13\loch\f13 these  cases,  the  application  of disambiguating rules is inap-
+\par \hich\af13\dbch\af13\loch\f13 propriate, and leads to an incorrect parser.   For  this  reason,
+\par \hich\af13\dbch\af13\loch\f13 Yacc  always reports the number of shift/reduce and reduce/reduce
+\par \hich\af13\dbch\af13\loch\f13 conflicts resolved by Rule 1 and Rule 2.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In ge\hich\af13\dbch\af13\loch\f13 neral, whenever it is possible to apply  disambiguating
+\par \hich\af13\dbch\af13\loch\f13 rules to produce a correct parser, it is also possible to rewrite
+\par \hich\af13\dbch\af13\loch\f13 the grammar rules so that the same inputs are read but there  are
+\par \hich\af13\dbch\af13\loch\f13 no  conflicts.   For this reason, most previous parser generators
+\par \hich\af13\dbch\af13\loch\f13 ha\hich\af13\dbch\af13\loch\f13 ve considered conflicts to be fatal errors.  Our experience has
+\par \hich\af13\dbch\af13\loch\f13 suggested that this rewriting is somewhat unnatural, and produces
+\par \hich\af13\dbch\af13\loch\f13 slower parsers; thus, Yacc will produce parsers even in the pres-
+\par \hich\af13\dbch\af13\loch\f13 ence of conflicts.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      As an example of the power of disam\hich\af13\dbch\af13\loch\f13 biguating rules, consider
+\par \hich\af13\dbch\af13\loch\f13 a  fragment  from  a programming language involving an ``if-then-
+\par \hich\af13\dbch\af13\loch\f13 else'' construction:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         stat    :       IF  '('  cond  ')'  stat
+\par \hich\af13\dbch\af13\loch\f13                 |       IF  '('  cond  ')'  stat  ELSE  stat
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:\hich\af13\dbch\af13\loch\f13 15-18                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 In these rules, IF and ELSE are tokens,  cond  is  a  nonterminal
+\par \hich\af13\dbch\af13\loch\f13 symbol  describing conditional (logical) expressions, and stat is
+\par \hich\af13\dbch\af13\loch\f13 a nonterminal symbol describing statements.  The first rule \hich\af13\dbch\af13\loch\f13  will
+\par \hich\af13\dbch\af13\loch\f13 be called the simple-if rule, and the second the if-else rule.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      These two rules form an ambiguous construction, since  input
+\par \hich\af13\dbch\af13\loch\f13 of the form
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  C1  )  IF  (  C2  )  S1  ELSE  S2
+\par 
+\par \hich\af13\dbch\af13\loch\f13 can be structured according to these rules in two ways:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  C1  )  \{
+\par \hich\af13\dbch\af13\loch\f13                 IF  (  C2  )  S1
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par \hich\af13\dbch\af13\loch\f13         ELSE  S2
+\par 
+\par \hich\af13\dbch\af13\loch\f13 or
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  C1  )  \{
+\par \hich\af13\dbch\af13\loch\f13                 IF  (  C2  )  S1
+\par \hich\af13\dbch\af13\loch\f13                 ELSE  S2
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 The second interpretation is the one given  in  most  prog\hich\af13\dbch\af13\loch\f13 ramming
+\par \hich\af13\dbch\af13\loch\f13 languages  having  this  construct.  Each ELSE is associated with
+\par \hich\af13\dbch\af13\loch\f13 the last preceding ``un-ELSE'd'' IF.  In this  example,  consider
+\par \hich\af13\dbch\af13\loch\f13 the situation where the parser has seen
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  C1  )  IF  (  C2  )  S1
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and is looking at the ELSE.  It can\hich\af13\dbch\af13\loch\f13   immediately  reduce  by  the
+\par \hich\af13\dbch\af13\loch\f13 simple-if rule to get
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  C1  )  stat
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and then read the remaining input,
+\par 
+\par \hich\af13\dbch\af13\loch\f13         ELSE  S2
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and reduce
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  C1  )  stat  ELSE  S2
+\par 
+\par \hich\af13\dbch\af13\loch\f13 by the if-else rule.  This leads to the first of the above group-
+\par \hich\af13\dbch\af13\loch\f13 ings\hich\af13\dbch\af13\loch\f13  of the input.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      On the other hand, the ELSE may be  shifted,  S2  read,  and
+\par \hich\af13\dbch\af13\loch\f13 then the right hand portion of
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  C1  )  IF  (  C2  )  S1  ELSE  S2
+\par 
+\par \hich\af13\dbch\af13\loch\f13 can be reduced by the if-else rule to get
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler     \hich\af13\dbch\af13\loch\f13                 PS1:15-19
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  C1  )  stat
+\par 
+\par \hich\af13\dbch\af13\loch\f13 which can be reduced by the simple-if rule.  This  leads  to  the
+\par \hich\af13\dbch\af13\loch\f13 second  of  the  above  groupings  of the input, which is usually
+\par \hich\af13\dbch\af13\loch\f13 desired.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Once again the parser can do two valid things - ther\hich\af13\dbch\af13\loch\f13 e  is  a
+\par \hich\af13\dbch\af13\loch\f13 shift/reduce  conflict.  The application of disambiguating rule 1
+\par \hich\af13\dbch\af13\loch\f13 tells the parser to shift  in  this  case,  which  leads  to  the
+\par \hich\af13\dbch\af13\loch\f13 desired grouping.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This shift/reduce conflict arises only when there is a  par-
+\par \hich\af13\dbch\af13\loch\f13 ticular current input symbol, \hich\af13\dbch\af13\loch\f13 ELSE, and particular inputs already
+\par \hich\af13\dbch\af13\loch\f13 seen, such as
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  C1  )  IF  (  C2  )  S1
+\par 
+\par \hich\af13\dbch\af13\loch\f13 In general, there may be many conflicts, and  each  one  will  be
+\par \hich\af13\dbch\af13\loch\f13 associated  with  an  input  symbol  and a set of previously read
+\par \hich\af13\dbch\af13\loch\f13 inputs.  The previously read  inp\hich\af13\dbch\af13\loch\f13 uts  are  characterized  by  the
+\par \hich\af13\dbch\af13\loch\f13 state of the parser.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The conflict messages of Yacc are best understood by examin-
+\par \hich\af13\dbch\af13\loch\f13 ing the verbose (-v) option output file.  For example, the output
+\par \hich\af13\dbch\af13\loch\f13 corresponding to the above conflict state might be:
+\par 
+\par \hich\af13\dbch\af13\loch\f13 23: shift/reduce\hich\af13\dbch\af13\loch\f13  conflict (shift 45, reduce 18) on ELSE
+\par 
+\par \hich\af13\dbch\af13\loch\f13 state 23
+\par 
+\par \hich\af13\dbch\af13\loch\f13           stat  :  IF  (  cond  )  stat_         (18)
+\par \hich\af13\dbch\af13\loch\f13           stat  :  IF  (  cond  )  stat_ELSE  stat
+\par 
+\par \hich\af13\dbch\af13\loch\f13          ELSE     shift 45
+\par \hich\af13\dbch\af13\loch\f13          .        reduce 18
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 The first line describes the conflict, giv\hich\af13\dbch\af13\loch\f13 ing the state  and  the
+\par \hich\af13\dbch\af13\loch\f13 input symbol.  The ordinary state description follows, giving the
+\par \hich\af13\dbch\af13\loch\f13 grammar rules active  in  the  state,  and  the  parser  actions.
+\par \hich\af13\dbch\af13\loch\f13 Recall  that the underline marks the portion of the grammar rules
+\par \hich\af13\dbch\af13\loch\f13 which has been seen.  Thus in the \hich\af13\dbch\af13\loch\f13 example, in state 23 the parser
+\par \hich\af13\dbch\af13\loch\f13 has seen input corresponding to
+\par 
+\par \hich\af13\dbch\af13\loch\f13         IF  (  cond  )  stat
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and the two grammar rules shown are active  at  this  time.   The
+\par \hich\af13\dbch\af13\loch\f13 parser  can do two possible things.  If the input symbol is ELSE,
+\par \hich\af13\dbch\af13\loch\f13 it is possible to shift into \hich\af13\dbch\af13\loch\f13 state 45.  State 45  will  have,  as
+\par \hich\af13\dbch\af13\loch\f13 part of its description, the line
+\par 
+\par \hich\af13\dbch\af13\loch\f13         stat  :  IF  (  cond  )  stat  ELSE_stat
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-20                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 since the ELSE will have been shifted in  this  state.   \ltrpar \hich\af13\dbch\af13\loch\f13 Back  in
+\par \hich\af13\dbch\af13\loch\f13 state  23,  the  alternative action, described by ``.'', is to be
+\par \hich\af13\dbch\af13\loch\f13 done if the input symbol is not mentioned explicitly in the above
+\par \hich\af13\dbch\af13\loch\f13 actions; thus, in this case, if the input symbol is not ELSE, the
+\par \hich\af13\dbch\af13\loch\f13 parser reduces by grammar rule 18:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         stat \hich\af13\dbch\af13\loch\f13  :  IF  '('  cond  ')'  stat
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Once again, notice that the numbers following ``shift''  commands
+\par \hich\af13\dbch\af13\loch\f13 refer  to  other  states,  while the numbers following ``reduce''
+\par \hich\af13\dbch\af13\loch\f13 commands refer to grammar rule numbers.  In  the  y.output  file,
+\par \hich\af13\dbch\af13\loch\f13 the  rule  numbers  are  pri\hich\af13\dbch\af13\loch\f13 nted  after  those rules which can be
+\par \hich\af13\dbch\af13\loch\f13 reduced.  In most one states, there will be at most reduce action
+\par \hich\af13\dbch\af13\loch\f13 possible in the state, and this will be the default command.  The
+\par \hich\af13\dbch\af13\loch\f13 user who encounters unexpected shift/reduce conflicts will  prob-
+\par \hich\af13\dbch\af13\loch\f13 ably  want  to  look\hich\af13\dbch\af13\loch\f13   at the verbose output to decide whether the
+\par \hich\af13\dbch\af13\loch\f13 default actions are appropriate.  In really tough cases, the user
+\par \hich\af13\dbch\af13\loch\f13 might  need  to  know more about the behavior and construction of
+\par \hich\af13\dbch\af13\loch\f13 the parser than can be covered here.  In this case,  one  of  the
+\par \hich\af13\dbch\af13\loch\f13 theoretical \hich\af13\dbch\af13\loch\f13  references[2, 3, 4] might be consulted; the services
+\par \hich\af13\dbch\af13\loch\f13 of a local guru might also be appropriate.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 6: Precedence
+\par 
+\par \hich\af13\dbch\af13\loch\f13      There is one common situation where the  rules  given  above
+\par \hich\af13\dbch\af13\loch\f13 for  resolving conflicts are not sufficient; this is in the pars-
+\par \hich\af13\dbch\af13\loch\f13 ing of arit\hich\af13\dbch\af13\loch\f13 hmetic expressions.  Most of the  commonly  used  con-
+\par \hich\af13\dbch\af13\loch\f13 structions  for arithmetic expressions can be naturally described
+\par \hich\af13\dbch\af13\loch\f13 by the notion of precedence levels for operators,  together  with
+\par \hich\af13\dbch\af13\loch\f13 information about left or right associativity.  It turns out that
+\par \hich\af13\dbch\af13\loch\f13 amb\hich\af13\dbch\af13\loch\f13 iguous grammars with appropriate disambiguating rules  can  be
+\par \hich\af13\dbch\af13\loch\f13 used  to  create parsers that are faster and easier to write than
+\par \hich\af13\dbch\af13\loch\f13 parsers constructed from unambiguous grammars.  The basic  notion
+\par \hich\af13\dbch\af13\loch\f13 is to write grammar rules of the form
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr  :  expr \hich\af13\dbch\af13\loch\f13  OP  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr  :  UNARY  expr
+\par 
+\par \hich\af13\dbch\af13\loch\f13 for all binary and unary operators desired.  This creates a  very
+\par \hich\af13\dbch\af13\loch\f13 ambiguous  grammar, with many parsing conflicts.  As disambiguat-
+\par \hich\af13\dbch\af13\loch\f13 ing  rules,  the  user  specifies  the  precedence,  or   binding
+\par \hich\af13\dbch\af13\loch\f13 strength,  o\hich\af13\dbch\af13\loch\f13 f  all  the  operators,  and the associativity of the
+\par \hich\af13\dbch\af13\loch\f13 binary operators.  This information is sufficient to  allow  Yacc
+\par \hich\af13\dbch\af13\loch\f13 to  resolve the parsing conflicts in accordance with these rules,
+\par \hich\af13\dbch\af13\loch\f13 and construct a parser that realizes the desired precedences  and
+\par \hich\af13\dbch\af13\loch\f13 asso\hich\af13\dbch\af13\loch\f13 ciativities.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The precedences and associativities are attached  to  tokens
+\par \hich\af13\dbch\af13\loch\f13 in  the  declarations section.  This is done by a series of lines
+\par \hich\af13\dbch\af13\loch\f13 beginning with a Yacc keyword: %left, %right, or %nonassoc,  fol-
+\par \hich\af13\dbch\af13\loch\f13 lowed  by  a  list of tokens.  All of the to\hich\af13\dbch\af13\loch\f13 kens on the same line
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-21
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 are assumed to have the same precedence level and  associativity;
+\par \hich\af13\dbch\af13\loch\f13 the lines are listed in order of increasing precedence or binding
+\par \hich\af13\dbch\af13\loch\f13 strength.  Thus,
+\par 
+\par \hich\af13\dbch\af13\loch\f13        \hich\af13\dbch\af13\loch\f13  %left  '+'  '-'
+\par \hich\af13\dbch\af13\loch\f13         %left  '*'  '/'
+\par 
+\par \hich\af13\dbch\af13\loch\f13 describes the precedence and associativity of the four arithmetic
+\par \hich\af13\dbch\af13\loch\f13 operators.   Plus  and minus are left associative, and have lower
+\par \hich\af13\dbch\af13\loch\f13 precedence than star and slash, which are also left  associative.
+\par \hich\af13\dbch\af13\loch\f13 The  keyword  %r\hich\af13\dbch\af13\loch\f13 ight is used to describe right associative opera-
+\par \hich\af13\dbch\af13\loch\f13 tors, and the keyword %nonassoc is used  to  describe  operators,
+\par \hich\af13\dbch\af13\loch\f13 like  the  operator  .LT. in Fortran, that may not associate with
+\par \hich\af13\dbch\af13\loch\f13 themselves; thus,
+\par 
+\par \hich\af13\dbch\af13\loch\f13         A  .LT.  B  .LT.  C
+\par 
+\par \hich\af13\dbch\af13\loch\f13 is illegal in Fortran, and\hich\af13\dbch\af13\loch\f13  such an operator  would  be  described
+\par \hich\af13\dbch\af13\loch\f13 with  the  keyword  %nonassoc  in  Yacc.   As  an  example of the
+\par \hich\af13\dbch\af13\loch\f13 behavior of these declarations, the description
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %right  '='
+\par \hich\af13\dbch\af13\loch\f13         %left  '+'  '-'
+\par \hich\af13\dbch\af13\loch\f13         %left  '*'  '/'
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %%
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr    :   \hich\af13\dbch\af13\loch\f13     expr  '='  expr
+\par \hich\af13\dbch\af13\loch\f13                 }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \hich\af13\dbch\af13\loch\f13 |       expr  '+'  expr
+\par \hich\af13\dbch\af13\loch\f13                 |       expr  '-'  expr
+\par \hich\af13\dbch\af13\loch\f13                 \hich\af13\dbch\af13\loch\f13 |       expr  '*'  expr
+\par \hich\af13\dbch\af13\loch\f13                 |       expr  '/'  expr
+\par \hich\af13\dbch\af13\loch\f13                 }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \hich\af13\dbch\af13\loch\f13 |       NAME
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 might be used to structure t\hich\af13\dbch\af13\loch\f13 he input
+\par 
+\par \hich\af13\dbch\af13\loch\f13         a  =  b  =  c*d  -  e  -  f*g
+\par 
+\par \hich\af13\dbch\af13\loch\f13 as follows:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         a = ( b = ( ((c*d)-e) - (f*g) ) )
+\par 
+\par \hich\af13\dbch\af13\loch\f13 When this mechanism is used, unary operators must, in general, be
+\par \hich\af13\dbch\af13\loch\f13 given  a  precedence.   Sometimes  a  unary operator and a binary
+\par \hich\af13\dbch\af13\loch\f13 operator have the s\hich\af13\dbch\af13\loch\f13 ame  symbolic  representation,  but  different
+\par \hich\af13\dbch\af13\loch\f13 precedences.  An example is unary and binary '-'; unary minus may
+\par \hich\af13\dbch\af13\loch\f13 be given the same strength as  multiplication,  or  even  higher,
+\par \hich\af13\dbch\af13\loch\f13 while binary minus has a lower strength than multiplication.  The
+\par \hich\af13\dbch\af13\loch\f13 keyword, %p\hich\af13\dbch\af13\loch\f13 rec, changes the precedence level  associated  with  a
+\par \hich\af13\dbch\af13\loch\f13 particular  grammar  rule.   %prec  appears immediately after the
+\par \hich\af13\dbch\af13\loch\f13 body of the grammar rule, before the action or closing semicolon,
+\par \hich\af13\dbch\af13\loch\f13 and  is  followed by a token name or literal.  It causes the pre-
+\par \hich\af13\dbch\af13\loch\f13 ced\hich\af13\dbch\af13\loch\f13 ence of the grammar rule to become that of the following token
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-22                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 name  or literal.  For example, to make unary minus have the same
+\par \hich\af13\dbch\af13\loch\f13 precedence as multiplication the rules might resem\hich\af13\dbch\af13\loch\f13 ble:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %left  '+'  '-'
+\par \hich\af13\dbch\af13\loch\f13         %left  '*'  '/'
+\par 
+\par \hich\af13\dbch\af13\loch\f13         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \hich\af13\dbch\af13\loch\f13 %%
+\par 
+\par \hich\af13\dbch\af13\loch\f13         expr    :       expr  '+'  expr
+\par \hich\af13\dbch\af13\loch\f13                 \hich\af13\dbch\af13\loch\f13 |       expr  '-'  expr
+\par \hich\af13\dbch\af13\loch\f13                 |       expr  '*'  expr
+\par \hich\af13\dbch\af13\loch\f13                 \hich\af13\dbch\af13\loch\f13 |       expr  '/'  expr
+\par \hich\af13\dbch\af13\loch\f13                 |       '-'  \hich\af13\dbch\af13\loch\f13 expr      %prec  '*'
+\par \hich\af13\dbch\af13\loch\f13                 }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \hich\af13\dbch\af13\loch\f13 |       NAME
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      A token declared by %left, %right, and  %nonassoc  need  not
+\par \hich\af13\dbch\af13\loch\f13 be, but may be, declared by %token as well.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The precedences and associativities  are  used  by  Yacc  to
+\par \hich\af13\dbch\af13\loch\f13 resolve  \hich\af13\dbch\af13\loch\f13 parsing  conflicts;  they  give  rise  to disambiguating
+\par \hich\af13\dbch\af13\loch\f13 rules.  Formally, the rules work as follows:
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1.   The precedences and associativities are recorded  for  those
+\par \hich\af13\dbch\af13\loch\f13      tokens and literals that have them.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2.   A precedence and associativity is associ\hich\af13\dbch\af13\loch\f13 ated with each gram-
+\par \hich\af13\dbch\af13\loch\f13      mar rule; it is the precedence and associativity of the last
+\par \hich\af13\dbch\af13\loch\f13      token or literal in the body of the rule.  If the %prec con-
+\par \hich\af13\dbch\af13\loch\f13      struction  is used, it overrides this default.  Some grammar
+\par \hich\af13\dbch\af13\loch\f13      rules may have no precedence  an\hich\af13\dbch\af13\loch\f13 d  associativity  associated
+\par \hich\af13\dbch\af13\loch\f13      with them.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 3.   When there is  a  reduce/reduce  conflict,  or  there  is  a
+\par \hich\af13\dbch\af13\loch\f13      shift/reduce  conflict  and  either  the input symbol or the
+\par \hich\af13\dbch\af13\loch\f13      grammar rule has no precedence and associativity,  then  the
+\par \hich\af13\dbch\af13\loch\f13      two  di\hich\af13\dbch\af13\loch\f13 sambiguating rules given at the beginning of the sec-
+\par \hich\af13\dbch\af13\loch\f13      tion are used, and the conflicts are reported.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 4.   If there is a shift/reduce conflict, and  both  the  grammar
+\par \hich\af13\dbch\af13\loch\f13      rule  and  the  input character have precedence and associa-
+\par \hich\af13\dbch\af13\loch\f13      tivity assoc\hich\af13\dbch\af13\loch\f13 iated with them, then the conflict  is  resolved
+\par \hich\af13\dbch\af13\loch\f13      in favor of the action (shift or reduce) associated with the
+\par \hich\af13\dbch\af13\loch\f13      higher precedence.  If the precedences are  the  same,  then
+\par \hich\af13\dbch\af13\loch\f13      the  associativity is used; left associative implies reduce,
+\par \hich\af13\dbch\af13\loch\f13      righ\hich\af13\dbch\af13\loch\f13 t associative implies shift, and nonassociating  implies
+\par \hich\af13\dbch\af13\loch\f13      error.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Conflicts resolved by precedence  are  not  counted  in  the
+\par \hich\af13\dbch\af13\loch\f13 number  of  shift/reduce  and reduce/reduce conflicts reported by
+\par \hich\af13\dbch\af13\loch\f13 Yacc.  This means that mistakes  in  the  specificatio\hich\af13\dbch\af13\loch\f13 n  of  pre-
+\par \hich\af13\dbch\af13\loch\f13 cedences  may  disguise errors in the input grammar; it is a good
+\par \hich\af13\dbch\af13\loch\f13 idea  to  be  sparing  with  precedences,  and  use  them  in  an
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-23
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 essentially  ``cookbook'' fashion, \hich\af13\dbch\af13\loch\f13 until some experience has been
+\par \hich\af13\dbch\af13\loch\f13 gained.  The y.output file is very useful in deciding whether the
+\par \hich\af13\dbch\af13\loch\f13 parser is actually doing what was intended.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 7: Error Handling
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Error handling is an extremely difficult area, and  many  of
+\par \hich\af13\dbch\af13\loch\f13 the  problems  are  semantic \hich\af13\dbch\af13\loch\f13  ones.   When an error is found, for
+\par \hich\af13\dbch\af13\loch\f13 example, it may be  necessary  to  reclaim  parse  tree  storage,
+\par \hich\af13\dbch\af13\loch\f13 delete  or  alter  symbol  table  entries,  and,  typically,  set
+\par \hich\af13\dbch\af13\loch\f13 switches to avoid generating any further output.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      It is seldom acceptable to stop \hich\af13\dbch\af13\loch\f13 all processing when an error
+\par \hich\af13\dbch\af13\loch\f13 is  found;  it  is  more useful to continue scanning the input to
+\par \hich\af13\dbch\af13\loch\f13 find further syntax errors.  This leads to the problem of getting
+\par \hich\af13\dbch\af13\loch\f13 the  parser  ``restarted''  after  an  error.  A general class of
+\par \hich\af13\dbch\af13\loch\f13 algorithms to do this involve\hich\af13\dbch\af13\loch\f13 s discarding a number of tokens from
+\par \hich\af13\dbch\af13\loch\f13 the  input  string,  and  attempting to adjust the parser so that
+\par \hich\af13\dbch\af13\loch\f13 input can continue.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      To allow the user some control over this process, Yacc  pro-
+\par \hich\af13\dbch\af13\loch\f13 vides  a simple, but reasonably general, feature.  The token name
+\par \ltrpar \hich\af13\dbch\af13\loch\f13 ``error'' is reserved for error handling.  This name can be  used
+\par \hich\af13\dbch\af13\loch\f13 in  grammar rules; in effect, it suggests places where errors are
+\par \hich\af13\dbch\af13\loch\f13 expected, and recovery might take place.   The  parser  pops  its
+\par \hich\af13\dbch\af13\loch\f13 stack until it enters a state where the token ``error'' is\hich\af13\dbch\af13\loch\f13  legal.
+\par \hich\af13\dbch\af13\loch\f13 It then behaves as if the token ``error'' were the current looka-
+\par \hich\af13\dbch\af13\loch\f13 head  token,  and performs the action encountered.  The lookahead
+\par \hich\af13\dbch\af13\loch\f13 token is then reset to the token that caused the  error.   If  no
+\par \hich\af13\dbch\af13\loch\f13 special  error  rules  have  been specified, the p\hich\af13\dbch\af13\loch\f13 rocessing halts
+\par \hich\af13\dbch\af13\loch\f13 when an error is detected.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In order to prevent a cascade of error messages, the parser,
+\par \hich\af13\dbch\af13\loch\f13 after  detecting  an  error,  remains  in error state until three
+\par \hich\af13\dbch\af13\loch\f13 tokens have been successfully read and shifted.  If an  error  is
+\par \hich\af13\dbch\af13\loch\f13 detected when \hich\af13\dbch\af13\loch\f13 the parser is already in error state, no message is
+\par \hich\af13\dbch\af13\loch\f13 given, and the input token is quietly deleted.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      As an example, a rule of the form
+\par 
+\par \hich\af13\dbch\af13\loch\f13         stat    :       error
+\par 
+\par \hich\af13\dbch\af13\loch\f13 would, in effect, mean that on a syntax error  the  parser  would
+\par \hich\af13\dbch\af13\loch\f13 attempt  to  skip o\hich\af13\dbch\af13\loch\f13 ver the statement in which the error was seen.
+\par \hich\af13\dbch\af13\loch\f13 More precisely, the parser will scan  ahead,  looking  for  three
+\par \hich\af13\dbch\af13\loch\f13 tokens  that might legally follow a statement, and start process-
+\par \hich\af13\dbch\af13\loch\f13 ing at the first of these; if the beginnings  of  statements  are
+\par \hich\af13\dbch\af13\loch\f13 not  suffic\hich\af13\dbch\af13\loch\f13 iently  distinctive,  it may make a false start in the
+\par \hich\af13\dbch\af13\loch\f13 middle of a statement, and end up reporting a second error  where
+\par \hich\af13\dbch\af13\loch\f13 there is in fact no error.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Actions may be used with these special error  rules.   These
+\par \hich\af13\dbch\af13\loch\f13 actions  might  attempt  to  reinitialize\hich\af13\dbch\af13\loch\f13   tables, reclaim symbol
+\par \hich\af13\dbch\af13\loch\f13 table space, etc.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-24                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Error rules such as the above are very general,  but  diffi-
+\par \hich\af13\dbch\af13\loch\f13 cult to control.  Somewhat easier are rules such as
+\par 
+\par \hich\af13\dbch\af13\loch\f13         stat    :\hich\af13\dbch\af13\loch\f13        error  ';'
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Here, when there is an error, the parser attempts  to  skip  over
+\par \hich\af13\dbch\af13\loch\f13 the  statement,  but will do so by skipping to the next ';'.  All
+\par \hich\af13\dbch\af13\loch\f13 tokens after the error and before the next ';' cannot be shifted,
+\par \hich\af13\dbch\af13\loch\f13 and  are  discarded.   When  the  ';'  \hich\af13\dbch\af13\loch\f13 is seen, this rule will be
+\par \hich\af13\dbch\af13\loch\f13 reduced, and any ``cleanup'' action associated with it performed.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Another form of error rule arises  in  interactive  applica-
+\par \hich\af13\dbch\af13\loch\f13 tions, where it may be desirable to permit a line to be reentered
+\par \hich\af13\dbch\af13\loch\f13 after an error.  A possible er\hich\af13\dbch\af13\loch\f13 ror rule might be
+\par 
+\par \hich\af13\dbch\af13\loch\f13         input   :       error  '\\n'  \{  printf( "Reenter last line: " );  \}  input
+\par \hich\af13\dbch\af13\loch\f13                                 \{       $$  =  $4;  \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 There is one potential difficulty with this approach; the  parser
+\par \hich\af13\dbch\af13\loch\f13 must  correctly  process three in\hich\af13\dbch\af13\loch\f13 put tokens before it admits that
+\par \hich\af13\dbch\af13\loch\f13 it has correctly resynchronized after the error.   If  the  reen-
+\par \hich\af13\dbch\af13\loch\f13 tered  line contains an error in the first two tokens, the parser
+\par \hich\af13\dbch\af13\loch\f13 deletes the offending tokens,  and  gives  no  message;  this  is
+\par \hich\af13\dbch\af13\loch\f13 clearly unacceptable.  Fo\hich\af13\dbch\af13\loch\f13 r this reason, there is a mechanism that
+\par \hich\af13\dbch\af13\loch\f13 can be used to force the parser to believe that an error has been
+\par \hich\af13\dbch\af13\loch\f13 fully recovered from.  The statement
+\par 
+\par \hich\af13\dbch\af13\loch\f13         yyerrok ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 in an action resets the parser to  its  normal  mode.   The  last
+\par \hich\af13\dbch\af13\loch\f13 example is better written
+\par 
+\par \hich\af13\dbch\af13\loch\f13         input   :       error  '\\n'
+\par \hich\af13\dbch\af13\loch\f13                                 \{       yyerrok;
+\par \hich\af13\dbch\af13\loch\f13                                         printf( "Reenter last line: " );   \}
+\par \hich\af13\dbch\af13\loch\f13                         input
+\par \hich\af13\dbch\af13\loch\f13                                 \{       $$  =  $4;  \}
+\par \hich\af13\dbch\af13\loch\f13          \hich\af13\dbch\af13\loch\f13        ;
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      As mentioned above, the token  seen  immediately  after  the
+\par \hich\af13\dbch\af13\loch\f13 ``error''  symbol  is  the  input  token  at  which the error was
+\par \hich\af13\dbch\af13\loch\f13 discovered.  Sometimes, this is inappropriate;  for  example,  an
+\par \hich\af13\dbch\af13\loch\f13 error  recovery  action might take upon itself \hich\af13\dbch\af13\loch\f13 the job of finding
+\par \hich\af13\dbch\af13\loch\f13 the correct place to resume input.  In this  case,  the  previous
+\par \hich\af13\dbch\af13\loch\f13 lookahead token must be cleared.  The statement
+\par 
+\par \hich\af13\dbch\af13\loch\f13         yyclearin ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 in an action will have this effect.   For  example,  suppose  the
+\par \hich\af13\dbch\af13\loch\f13 action after error were to call som\hich\af13\dbch\af13\loch\f13 e sophisticated resynchroniza-
+\par \hich\af13\dbch\af13\loch\f13 tion routine, supplied by the user, that attempted to advance the
+\par \hich\af13\dbch\af13\loch\f13 input  to  the beginning of the next valid statement.  After this
+\par \hich\af13\dbch\af13\loch\f13 routine was called,  the  next  token  returned  by  yylex  would
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another \hich\af13\dbch\af13\loch\f13 Compiler-Compiler                     PS1:15-25
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 presumably  be  the  first  token  in a legal statement; the old,
+\par \hich\af13\dbch\af13\loch\f13 illegal token must be discarded, and the error state reset.  This
+\par \hich\af13\dbch\af13\loch\f13 could be done by a rule like
+\par 
+\par \hich\af13\dbch\af13\loch\f13         stat    :       error
+\par \hich\af13\dbch\af13\loch\f13               \hich\af13\dbch\af13\loch\f13                   \{       resynch();
+\par \hich\af13\dbch\af13\loch\f13                                         yyerrok ;
+\par \hich\af13\dbch\af13\loch\f13                                         yyclearin ;   \}
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      These mechanisms are admittedly crude, but do  allow  for  a
+\par \hich\af13\dbch\af13\loch\f13 simple, fairly effective re\hich\af13\dbch\af13\loch\f13 covery of the parser from many errors;
+\par \hich\af13\dbch\af13\loch\f13 moreover, the user can get control to deal with the error actions
+\par \hich\af13\dbch\af13\loch\f13 required by other portions of the program.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 8: The Yacc Environment
+\par 
+\par \hich\af13\dbch\af13\loch\f13      When the user inputs a specification to Yacc, the output  is
+\par \hich\af13\dbch\af13\loch\f13 a  file  of  C  \hich\af13\dbch\af13\loch\f13 programs,  called y.tab.c on most systems (due to
+\par \hich\af13\dbch\af13\loch\f13 local file system conventions, the names may differ from  instal-
+\par \hich\af13\dbch\af13\loch\f13 lation to installation).  The function produced by Yacc is called
+\par \hich\af13\dbch\af13\loch\f13 yyparse; it is an integer valued function.  When it is called, it
+\par \hich\af13\dbch\af13\loch\f13 in  turn\hich\af13\dbch\af13\loch\f13  repeatedly calls yylex, the lexical analyzer supplied by
+\par \hich\af13\dbch\af13\loch\f13 the user (see Section 3) to  obtain  input  tokens.   Eventually,
+\par \hich\af13\dbch\af13\loch\f13 either  an error is detected, in which case (if no error recovery
+\par \hich\af13\dbch\af13\loch\f13 is possible) yyparse returns the value 1, or the lexical analyzer
+\par \hich\af13\dbch\af13\loch\f13 returns  the  endmarker  token  and  the parser accepts.  In this
+\par \hich\af13\dbch\af13\loch\f13 case, yyparse returns the value 0.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The user must provide a certain amount  of  environment  for
+\par \hich\af13\dbch\af13\loch\f13 this  parser  in order to obtain a working program.  For example,
+\par \hich\af13\dbch\af13\loch\f13 as with every C progra\hich\af13\dbch\af13\loch\f13 m, a program called main must  be  defined,
+\par \hich\af13\dbch\af13\loch\f13 that  eventually  calls  yyparse.   In addition, a routine called
+\par \hich\af13\dbch\af13\loch\f13 yyerror prints a message when a syntax error is detected.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      These two routines must be supplied in one form  or  another
+\par \hich\af13\dbch\af13\loch\f13 by the user.  To ease\hich\af13\dbch\af13\loch\f13  the initial effort of using Yacc, a library
+\par \hich\af13\dbch\af13\loch\f13 has been provided with default versions of main and yyerror.  The
+\par \hich\af13\dbch\af13\loch\f13 name  of  this  library  is system dependent; on many systems the
+\par \hich\af13\dbch\af13\loch\f13 library is accessed by a -ly argument to the loader.  To show the
+\par \hich\af13\dbch\af13\loch\f13 triviality of\hich\af13\dbch\af13\loch\f13  these default programs, the source is given below:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         main()\{
+\par \hich\af13\dbch\af13\loch\f13                 return( yyparse() );
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and
+\par 
+\par \hich\af13\dbch\af13\loch\f13         # include <stdio.h>
+\par 
+\par \hich\af13\dbch\af13\loch\f13         yyerror(s) char *s; \{
+\par \hich\af13\dbch\af13\loch\f13                 fprintf( stderr, "%s\\n", s );
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-26                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 The argument to yyerror is a string containing an error  message,
+\par \hich\af13\dbch\af13\loch\f13 usually  the  string  ``syntax  error''.  The average application
+\par \hich\af13\dbch\af13\loch\f13 will want to do better than this.  Ordinarily, the\hich\af13\dbch\af13\loch\f13  program should
+\par \hich\af13\dbch\af13\loch\f13 keep  track of the input line number, and print it along with the
+\par \hich\af13\dbch\af13\loch\f13 message when a syntax error is detected.   The  external  integer
+\par \hich\af13\dbch\af13\loch\f13 variable  yychar  contains the lookahead token number at the time
+\par \hich\af13\dbch\af13\loch\f13 the error was detected; this may be of som\hich\af13\dbch\af13\loch\f13 e  interest  in  giving
+\par \hich\af13\dbch\af13\loch\f13 better  diagnostics.  Since the main program is probably supplied
+\par \hich\af13\dbch\af13\loch\f13 by the user (to read arguments, etc.) the Yacc library is  useful
+\par \hich\af13\dbch\af13\loch\f13 only in small projects, or in the earliest stages of larger ones.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The external integer variabl\hich\af13\dbch\af13\loch\f13 e yydebug is normally set to  0.
+\par \hich\af13\dbch\af13\loch\f13 If it is set to a nonzero value, the parser will output a verbose
+\par \hich\af13\dbch\af13\loch\f13 description of its actions, including a discussion of which input
+\par \hich\af13\dbch\af13\loch\f13 symbols have been read, and what the parser actions are.  Depend-
+\par \hich\af13\dbch\af13\loch\f13 ing on the operating envi\hich\af13\dbch\af13\loch\f13 ronment, it may be possible to set  this
+\par \hich\af13\dbch\af13\loch\f13 variable by using a debugging system.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 9: Hints for Preparing Specifications
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This section contains miscellaneous hints on preparing effi-
+\par \hich\af13\dbch\af13\loch\f13 cient,  easy to change, and clear specifications.  The individual
+\par \hich\af13\dbch\af13\loch\f13 subse\hich\af13\dbch\af13\loch\f13 ctions are more or less independent.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Input Style
+\par 
+\par \hich\af13\dbch\af13\loch\f13      It is difficult to provide rules  with  substantial  actions
+\par \hich\af13\dbch\af13\loch\f13 and  still  have  a  readable  specification file.  The following
+\par \hich\af13\dbch\af13\loch\f13 style hints owe much to Brian Kernighan.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 a.   Use all capital letters fo\hich\af13\dbch\af13\loch\f13 r  token  names,  all  lower  case
+\par \hich\af13\dbch\af13\loch\f13      letters  for  nonterminal  names.  This rule comes under the
+\par \hich\af13\dbch\af13\loch\f13      heading of ``knowing who to blame when things go wrong.''
+\par 
+\par \hich\af13\dbch\af13\loch\f13 b.   Put grammar rules  and  actions  on  separate  lines.   This
+\par \hich\af13\dbch\af13\loch\f13      allows  either  to  \ltrpar \hich\af13\dbch\af13\loch\f13 be  changed without an automatic need to
+\par \hich\af13\dbch\af13\loch\f13      change the other.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 c.   Put all rules with the same left hand  side  together.   Put
+\par \hich\af13\dbch\af13\loch\f13      the left hand side in only once, and let all following rules
+\par \hich\af13\dbch\af13\loch\f13      begin with a vertical bar.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 d.   Put a semicolon only \hich\af13\dbch\af13\loch\f13 after the last rule with a  given  left
+\par \hich\af13\dbch\af13\loch\f13      hand  side,  and put the semicolon on a separate line.  This
+\par \hich\af13\dbch\af13\loch\f13      allows new rules to be easily added.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 e.   Indent rule bodies by two tab stops, and  action  bodies  by
+\par \hich\af13\dbch\af13\loch\f13      three tab stops.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The example i\hich\af13\dbch\af13\loch\f13 n Appendix A is written following  this  style,
+\par \hich\af13\dbch\af13\loch\f13 as  are  the examples in the text of this paper (where space per-
+\par \hich\af13\dbch\af13\loch\f13 mits).  The user must make up his own mind about these  stylistic
+\par \hich\af13\dbch\af13\loch\f13 questions;  the  central  problem,  however, is to make the rules
+\par \hich\af13\dbch\af13\loch\f13 visible th\hich\af13\dbch\af13\loch\f13 rough the morass of action code.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-27
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Left Recursion
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The algorithm used by the Yacc parser encourages  so  called
+\par \hich\af13\dbch\af13\loch\f13 ``left recursive'' grammar rules: rules of the form
+\par 
+\par \hich\af13\dbch\af13\loch\f13         nam\hich\af13\dbch\af13\loch\f13 e    :       name  rest_of_rule  ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 These rules  frequently  arise  when  writing  specifications  of
+\par \hich\af13\dbch\af13\loch\f13 sequences and lists:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         list    :       item
+\par \hich\af13\dbch\af13\loch\f13                 |       list  ','  item
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and
+\par 
+\par \hich\af13\dbch\af13\loch\f13         seq     :       item
+\par \hich\af13\dbch\af13\loch\f13           \hich\af13\dbch\af13\loch\f13       |       seq  item
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 In each of these cases, the first rule will be  reduced  for  the
+\par \hich\af13\dbch\af13\loch\f13 first  item  only,  and  the  second rule will be reduced for the
+\par \hich\af13\dbch\af13\loch\f13 second and all succeeding items.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      With right recursive rules, such as
+\par 
+\par \hich\af13\dbch\af13\loch\f13      \hich\af13\dbch\af13\loch\f13    seq     :       item
+\par \hich\af13\dbch\af13\loch\f13                 |       item  seq
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 the parser would be a bit bigger, and the items  would  be  seen,
+\par \hich\af13\dbch\af13\loch\f13 and  reduced,  from  right  to left.  More seriously, an internal
+\par \hich\af13\dbch\af13\loch\f13 stack in the parser would be in danger of overf\hich\af13\dbch\af13\loch\f13 lowing if  a  very
+\par \hich\af13\dbch\af13\loch\f13 long  sequence  were read.  Thus, the user should use left recur-
+\par \hich\af13\dbch\af13\loch\f13 sion wherever reasonable.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      It is worth considering whether a sequence  with  zero  ele-
+\par \hich\af13\dbch\af13\loch\f13 ments  has  any meaning, and if so, consider writing the sequence
+\par \hich\af13\dbch\af13\loch\f13 specificatio\hich\af13\dbch\af13\loch\f13 n with an empty rule:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         seq     :       /* empty */
+\par \hich\af13\dbch\af13\loch\f13                 |       seq  item
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Once again, the first rule would always be reduced exactly  once,
+\par \hich\af13\dbch\af13\loch\f13 before the first item was read, and then the second rule would be
+\par \hich\af13\dbch\af13\loch\f13 reduced once\hich\af13\dbch\af13\loch\f13  for each  item  read.   Permitting  empty  sequences
+\par \hich\af13\dbch\af13\loch\f13 often  leads  to  increased generality.  However, conflicts might
+\par \hich\af13\dbch\af13\loch\f13 arise if Yacc is asked to decide  which  empty  sequence  it  has
+\par \hich\af13\dbch\af13\loch\f13 seen, when it hasn't seen enough to know!
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Lexical Tie-ins
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Some \hich\af13\dbch\af13\loch\f13 lexical decisions depend on context.  For example,  the
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-28                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 lexical  analyzer  might  want to delete blanks normally, but not
+\par \hich\af13\dbch\af13\loch\f13 within quoted strings.  Or names might be entered into  a\hich\af13\dbch\af13\loch\f13   symbol
+\par \hich\af13\dbch\af13\loch\f13 table in declarations, but not in expressions.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      One way of handling this situation is  to  create  a  global
+\par \hich\af13\dbch\af13\loch\f13 flag  that  is  examined  by  the  lexical  analyzer,  and set by
+\par \hich\af13\dbch\af13\loch\f13 actions.  For example, suppose a program consists of  0  or  more
+\par \hich\af13\dbch\af13\loch\f13 d\hich\af13\dbch\af13\loch\f13 eclarations, followed by 0 or more statements.  Consider:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %\{
+\par \hich\af13\dbch\af13\loch\f13                 int dflag;
+\par \hich\af13\dbch\af13\loch\f13         %\}
+\par \hich\af13\dbch\af13\loch\f13           ...  other declarations ...
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %%
+\par 
+\par \hich\af13\dbch\af13\loch\f13         prog    :       decls  stats
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13         decls   :       /* empty */
+\par \hich\af13\dbch\af13\loch\f13      \hich\af13\dbch\af13\loch\f13                            \{       dflag = 1;  \}
+\par \hich\af13\dbch\af13\loch\f13                 |       decls  declaration
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13         stats   :       /* empty */
+\par \hich\af13\dbch\af13\loch\f13                                 \{       dflag = 0;  \}
+\par \hich\af13\dbch\af13\loch\f13                 |       stats  statement
+\par \hich\af13\dbch\af13\loch\f13               \hich\af13\dbch\af13\loch\f13   ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13             ...  other rules ...
+\par 
+\par \hich\af13\dbch\af13\loch\f13 The flag dflag is now 0 when reading statements, and 1 when read-
+\par \hich\af13\dbch\af13\loch\f13 ing  declarations, except for the first token in the first state-
+\par \hich\af13\dbch\af13\loch\f13 ment.  This token must be seen by the parser before it  can  tell
+\par \hich\af13\dbch\af13\loch\f13 that  the  declarat\hich\af13\dbch\af13\loch\f13 ion  section has ended and the statements have
+\par \hich\af13\dbch\af13\loch\f13 begun.  In many cases,  this  single  token  exception  does  not
+\par \hich\af13\dbch\af13\loch\f13 affect the lexical scan.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This kind of ``backdoor'' approach can be  elaborated  to  a
+\par \hich\af13\dbch\af13\loch\f13 noxious  degree.  Nevertheless, it represents a way\hich\af13\dbch\af13\loch\f13  of doing some
+\par \hich\af13\dbch\af13\loch\f13 things that are difficult, if not impossible, to do otherwise.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Reserved Words
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Some programming languages permit the user to use words like
+\par \hich\af13\dbch\af13\loch\f13 ``if'',  which are normally reserved, as label or variable names,
+\par \hich\af13\dbch\af13\loch\f13 provided that such use does n\hich\af13\dbch\af13\loch\f13 ot conflict with the  legal  use  of
+\par \hich\af13\dbch\af13\loch\f13 these  names in the programming language.  This is extremely hard
+\par \hich\af13\dbch\af13\loch\f13 to do in the framework of Yacc; it is difficult to pass  informa-
+\par \hich\af13\dbch\af13\loch\f13 tion  to  the lexical analyzer telling it ``this instance of `if'
+\par \hich\af13\dbch\af13\loch\f13 is a keyword, and tha\hich\af13\dbch\af13\loch\f13 t instance is a variable''.   The  user  can
+\par \hich\af13\dbch\af13\loch\f13 make a stab at it, using the mechanism described in the last sub-
+\par \hich\af13\dbch\af13\loch\f13 section, but it is difficult.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-29
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      A number of ways of making this \hich\af13\dbch\af13\loch\f13 easier are under advisement.
+\par \hich\af13\dbch\af13\loch\f13 Until  then, it is better that the keywords be reserved; that is,
+\par \hich\af13\dbch\af13\loch\f13 be forbidden for use  as  variable  names.   There  are  powerful
+\par \hich\af13\dbch\af13\loch\f13 stylistic reasons for preferring this, anyway.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 10: Advanced Topics
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This section discusse\hich\af13\dbch\af13\loch\f13 s a  number  of  advanced  features  of
+\par \hich\af13\dbch\af13\loch\f13 Yacc.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Simulating Error and Accept in Actions
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The parsing actions of error and accept can be simulated  in
+\par \hich\af13\dbch\af13\loch\f13 an action by use of macros YYACCEPT and YYERROR.  YYACCEPT causes
+\par \hich\af13\dbch\af13\loch\f13 yyparse to return the value  0;  YYER\hich\af13\dbch\af13\loch\f13 ROR  causes  the  parser  to
+\par \hich\af13\dbch\af13\loch\f13 behave  as  if  the current input symbol had been a syntax error;
+\par \hich\af13\dbch\af13\loch\f13 yyerror is called, and error recovery takes place.  These mechan-
+\par \hich\af13\dbch\af13\loch\f13 isms  can be used to simulate parsers with multiple endmarkers or
+\par \hich\af13\dbch\af13\loch\f13 context-sensitive syntax chec\hich\af13\dbch\af13\loch\f13 king.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Accessing Values in Enclosing Rules.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      An action may refer to values returned  by  actions  to  the
+\par \hich\af13\dbch\af13\loch\f13 left  of  the  current rule.  The mechanism is simply the same as
+\par \hich\af13\dbch\af13\loch\f13 with ordinary actions, a dollar sign followed by a digit, but  in
+\par \hich\af13\dbch\af13\loch\f13 this case the\hich\af13\dbch\af13\loch\f13  digit may be 0 or negative.  Consider
+\par 
+\par \hich\af13\dbch\af13\loch\f13         sent    :       adj  noun  verb  adj  noun
+\par \hich\af13\dbch\af13\loch\f13                                 \{  look at the sentence . . .  \}
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13         adj     :       THE             \{       $$ = THE;  \}
+\par \hich\af13\dbch\af13\loch\f13                 |   \hich\af13\dbch\af13\loch\f13     YOUNG   \{       $$ = YOUNG;  \}
+\par \hich\af13\dbch\af13\loch\f13                 . . .
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13         noun    :       DOG
+\par \hich\af13\dbch\af13\loch\f13                                 \{       $$ = DOG;  \}
+\par \hich\af13\dbch\af13\loch\f13                 |       CRONE
+\par \hich\af13\dbch\af13\loch\f13                                 \{       if( $0 == YOUNG )\{
+\par \hich\af13\dbch\af13\loch\f13           \hich\af13\dbch\af13\loch\f13                                       printf( "what?\\n" );
+\par \hich\af13\dbch\af13\loch\f13                                                 \}
+\par \hich\af13\dbch\af13\loch\f13                                         $$ = CRONE;
+\par \hich\af13\dbch\af13\loch\f13                                         \}
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par \hich\af13\dbch\af13\loch\f13                 . . .
+\par 
+\par \hich\af13\dbch\af13\loch\f13 In the actio\hich\af13\dbch\af13\loch\f13 n following the word CRONE, a check is made that  the
+\par \hich\af13\dbch\af13\loch\f13 preceding  token  shifted was not YOUNG.  Obviously, this is only
+\par \hich\af13\dbch\af13\loch\f13 possible when a great deal is known about what might precede  the
+\par \hich\af13\dbch\af13\loch\f13 symbol  noun  in  the input.  There is also a distinctly unstruc-
+\par \hich\af13\dbch\af13\loch\f13 ture\hich\af13\dbch\af13\loch\f13 d flavor about this.  Nevertheless, at times  this  mechanism
+\par \hich\af13\dbch\af13\loch\f13 will save a great deal of trouble, especially when a few combina-
+\par \hich\af13\dbch\af13\loch\f13 tions are to be excluded from an otherwise regular structure.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-30                     Yacc: Yet Another Compiler-\hich\af13\dbch\af13\loch\f13 Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Support for Arbitrary Value Types
+\par 
+\par \hich\af13\dbch\af13\loch\f13      By default, the values returned by actions and  the  lexical
+\par \hich\af13\dbch\af13\loch\f13 analyzer  are  integers.   Yacc  can also support values of other
+\par \hich\af13\dbch\af13\loch\f13 types, including structures.  In addition, Yacc  keeps  track  of
+\par \hich\af13\dbch\af13\loch\f13 the types, a\hich\af13\dbch\af13\loch\f13 nd inserts appropriate union member names so that the
+\par \hich\af13\dbch\af13\loch\f13 resulting parser will be strictly type checked.  The  Yacc  value
+\par \hich\af13\dbch\af13\loch\f13 stack  (see  Section  4) is declared to be a union of the various
+\par \hich\af13\dbch\af13\loch\f13 types of values desired.  The user declares the union, and  asso-
+\par \hich\af13\dbch\af13\loch\f13 ciat\hich\af13\dbch\af13\loch\f13 es  union  member  names to each token and nonterminal symbol
+\par \hich\af13\dbch\af13\loch\f13 having a value.  When the value is referenced through a $$ or  $n
+\par \hich\af13\dbch\af13\loch\f13 construction,  Yacc  will  automatically  insert  the appropriate
+\par \hich\af13\dbch\af13\loch\f13 union name, so that no unwanted conversions will take place.  \hich\af13\dbch\af13\loch\f13  In
+\par \hich\af13\dbch\af13\loch\f13 addition, type checking commands such as Lint[5] will be far more
+\par \hich\af13\dbch\af13\loch\f13 silent.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      There are three mechanisms used to provide for this  typing.
+\par \hich\af13\dbch\af13\loch\f13 First, there is a way of defining the union; this must be done by
+\par \hich\af13\dbch\af13\loch\f13 the user since other programs, notably the le\ltrpar \hich\af13\dbch\af13\loch\f13 xical analyzer, must
+\par \hich\af13\dbch\af13\loch\f13 know  about  the  union  member names.  Second, there is a way of
+\par \hich\af13\dbch\af13\loch\f13 associating a union member name  with  tokens  and  nonterminals.
+\par \hich\af13\dbch\af13\loch\f13 Finally,  there  is  a mechanism for describing the type of those
+\par \hich\af13\dbch\af13\loch\f13 few values where Yacc can not easily \hich\af13\dbch\af13\loch\f13 determine the type.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      To declare the union, the user includes in  the  declaration
+\par \hich\af13\dbch\af13\loch\f13 section:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %union  \{
+\par \hich\af13\dbch\af13\loch\f13                 body of union ...
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 This declares the Yacc value stack, and  the  external  variables
+\par \hich\af13\dbch\af13\loch\f13 yylval  and yyval, to \hich\af13\dbch\af13\loch\f13 have type equal to this union.  If Yacc was
+\par \hich\af13\dbch\af13\loch\f13 invoked with the -d option, the union declaration is copied  onto
+\par \hich\af13\dbch\af13\loch\f13 the  y.tab.h file.  Alternatively, the union may be declared in a
+\par \hich\af13\dbch\af13\loch\f13 header file, and a typedef used to define the variable YYSTYPE to
+\par \hich\af13\dbch\af13\loch\f13 represent  thi\hich\af13\dbch\af13\loch\f13 s  union.   Thus,  the  header file might also have
+\par \hich\af13\dbch\af13\loch\f13 said:
+\par 
+\par \hich\af13\dbch\af13\loch\f13         typedef union \{
+\par \hich\af13\dbch\af13\loch\f13                 body of union ...
+\par \hich\af13\dbch\af13\loch\f13                 \} YYSTYPE;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 The header file must be included in the declarations section,  by
+\par \hich\af13\dbch\af13\loch\f13 use of %\{ and %\}.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Once YYSTYPE is defin\hich\af13\dbch\af13\loch\f13 ed, the  union  member  names  must  be
+\par \hich\af13\dbch\af13\loch\f13 associated  with the various terminal and nonterminal names.  The
+\par \hich\af13\dbch\af13\loch\f13 construction
+\par 
+\par \hich\af13\dbch\af13\loch\f13         < name >
+\par 
+\par \hich\af13\dbch\af13\loch\f13 is used to indicate a union member name.  If this follows one  of
+\par \hich\af13\dbch\af13\loch\f13 the  keywords  %token,  %left,  %right,  and %nonass\hich\af13\dbch\af13\loch\f13 oc, the union
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-31
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 member name is associated with the tokens listed.  Thus, saying
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %left  <optype>  '+'  '-'
+\par 
+\par \hich\af13\dbch\af13\loch\f13 will cause any reference to values returned by these  two  tokens
+\par \hich\af13\dbch\af13\loch\f13 to be tagged with the union member name optype.  Another keyword,
+\par \hich\af13\dbch\af13\loch\f13 %type, is used similarly to associate  union  member  names  with
+\par \hich\af13\dbch\af13\loch\f13 nonterminals.  Thus, one might say
+\par 
+\par \hich\af13\dbch\af13\loch\f13         %type  <nodetype>  expr  stat
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13      There remain a couple of cases where  thes\hich\af13\dbch\af13\loch\f13 e  mechanisms  are
+\par \hich\af13\dbch\af13\loch\f13 insufficient.   If  there  is  an action within a rule, the value
+\par \hich\af13\dbch\af13\loch\f13 returned by this action has no a priori type.  Similarly,  refer-
+\par \hich\af13\dbch\af13\loch\f13 ence  to  left context values (such as $0 - see the previous sub-
+\par \hich\af13\dbch\af13\loch\f13 section ) leaves Yacc with no easy way \hich\af13\dbch\af13\loch\f13 of knowing the  type.   In
+\par \hich\af13\dbch\af13\loch\f13 this  case, a type can be imposed on the reference by inserting a
+\par \hich\af13\dbch\af13\loch\f13 union member name, between < and >, immediately after  the  first
+\par \hich\af13\dbch\af13\loch\f13 $.  An example of this usage is
+\par 
+\par \hich\af13\dbch\af13\loch\f13         rule    :       aaa  \{  $<intval>$  =  3;  \} bbb
+\par \hich\af13\dbch\af13\loch\f13        \hich\af13\dbch\af13\loch\f13                          \{       fun( $<intval>2, $<other>0 );  \}
+\par \hich\af13\dbch\af13\loch\f13                 ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 This syntax has little to recommend it, but the situation  arises
+\par \hich\af13\dbch\af13\loch\f13 rarely.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      A sample specification is given in Appendix C.  The  facili-
+\par \hich\af13\dbch\af13\loch\f13 ties in this subsection are no\hich\af13\dbch\af13\loch\f13 t triggered until they are used: in
+\par \hich\af13\dbch\af13\loch\f13 particular, the use of %type will turn on these mechanisms.  When
+\par \hich\af13\dbch\af13\loch\f13 they  are  used, there is a fairly strict level of checking.  For
+\par \hich\af13\dbch\af13\loch\f13 example, use of $n or $$ to refer to something  with  no  defined
+\par \hich\af13\dbch\af13\loch\f13 type  is  diagnosed.  \hich\af13\dbch\af13\loch\f13  If these facilities are not triggered, the
+\par \hich\af13\dbch\af13\loch\f13 Yacc value stack is used to hold int's, as was true historically.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 11: Acknowledgements
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Yacc owes much to a most stimulating  collection  of  users,
+\par \hich\af13\dbch\af13\loch\f13 who  have  goaded me beyond my inclination, and frequentl\hich\af13\dbch\af13\loch\f13 y beyond
+\par \hich\af13\dbch\af13\loch\f13 my ability, in their endless search  for  ``one  more  feature''.
+\par \hich\af13\dbch\af13\loch\f13 Their  irritating  unwillingness to learn how to do things my way
+\par \hich\af13\dbch\af13\loch\f13 has usually led to my doing things their way; most of  the  time,
+\par \hich\af13\dbch\af13\loch\f13 they  have  been  right.   B.  W. Kernighan, P. J\hich\af13\dbch\af13\loch\f13 . Plauger, S. I.
+\par \hich\af13\dbch\af13\loch\f13 Feldman, C. Imagna, M. E. Lesk, and A. Snyder will recognize some
+\par \hich\af13\dbch\af13\loch\f13 of  their ideas in the current version of Yacc.  C. B. Haley con-
+\par \hich\af13\dbch\af13\loch\f13 tributed to the error recovery algorithm.  D. M. Ritchie,  B.  W.
+\par \hich\af13\dbch\af13\loch\f13 Kernighan,  and  M. O. Harris helped tran\hich\af13\dbch\af13\loch\f13 slate this document into
+\par \hich\af13\dbch\af13\loch\f13 English.  Al Aho also deserves special credit  for  bringing  the
+\par \hich\af13\dbch\af13\loch\f13 mountain to Mohammed, and other favors.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-32                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 References
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1.   B. W.  Kernighan  and  D. \hich\af13\dbch\af13\loch\f13  M.  Ritchie,  The  C  Programming
+\par \hich\af13\dbch\af13\loch\f13      Language, Prentice-Hall, Englewood Cliffs, New Jersey, 1978.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2.   A. V. Aho and S. C. Johnson, "LR  Parsing,"  Comp.  Surveys,
+\par \hich\af13\dbch\af13\loch\f13      vol. 6, no. 2, pp. 99-124, June 1974.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 3.   A. V. Aho, S. C. Johnson, and J. D.  Ul\hich\af13\dbch\af13\loch\f13 lman,  "Deterministic
+\par \hich\af13\dbch\af13\loch\f13      Parsing  of  Ambiguous  Grammars," Comm. Assoc. Comp. Mach.,
+\par \hich\af13\dbch\af13\loch\f13      vol. 18, no. 8, pp. 441-452, August 1975.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 4.   A. V. Aho and J. D. Ullman, Principles of  Compiler  Design,
+\par \hich\af13\dbch\af13\loch\f13      Addison-Wesley, Reading, Mass., 1977.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 5.   S. C.\hich\af13\dbch\af13\loch\f13  Johnson, "Lint, a C Program Checker," Comp. Sci. Tech.
+\par \hich\af13\dbch\af13\loch\f13      Rep. No. 65, 1978 .].  updated version TM 78-1273-3
+\par 
+\par \hich\af13\dbch\af13\loch\f13 6.   S. C. Johnson, "A Portable Compiler: Theory  and  Practice,"
+\par \hich\af13\dbch\af13\loch\f13      Proc.  5th ACM Symp. on Principles of Programming Languages,
+\par \hich\af13\dbch\af13\loch\f13      pp. 9\hich\af13\dbch\af13\loch\f13 7-104, January 1978.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 7.   B. W. Kernighan and L. L. Cherry, "A System for  Typesetting
+\par \hich\af13\dbch\af13\loch\f13      Mathematics,"  Comm.  Assoc.  Comp. Mach., vol. 18, pp. 151-
+\par \hich\af13\dbch\af13\loch\f13      157, Bell Laboratories, Murray Hill, New Jersey, March  1975
+\par \hich\af13\dbch\af13\loch\f13      .].
+\par 
+\par \hich\af13\dbch\af13\loch\f13 8.   M. E. Lesk, "Lex - A \hich\af13\dbch\af13\loch\f13 Lexical Analyzer Generator," Comp. Sci.
+\par \hich\af13\dbch\af13\loch\f13      Tech.  Rep. No. 39, Bell Laboratories, Murray Hill, New Jer-
+\par \hich\af13\dbch\af13\loch\f13      sey, October 1975 .].
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-33
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Appendix A:  A Simple E\hich\af13\dbch\af13\loch\f13 xample
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This example gives the complete  Yacc  specification  for  a
+\par \hich\af13\dbch\af13\loch\f13 small  desk  calculator;  the  desk  calculator has 26 registers,
+\par \hich\af13\dbch\af13\loch\f13 labeled ``a'' through ``z'', and accepts  arithmetic  expressions
+\par \hich\af13\dbch\af13\loch\f13 made up of the operators +, -, *, /, % (mod operat\hich\af13\dbch\af13\loch\f13 or), & (bitwise
+\par \hich\af13\dbch\af13\loch\f13 and), | (bitwise or), and assignment.  If an  expression  at  the
+\par \hich\af13\dbch\af13\loch\f13 top  level  is an assignment, the value is not printed; otherwise
+\par \hich\af13\dbch\af13\loch\f13 it is.  As in C, an integer that begins with 0 (zero) is  assumed
+\par \hich\af13\dbch\af13\loch\f13 to be octal; otherwise, it is assumed to b\hich\af13\dbch\af13\loch\f13 e decimal.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      As an example of a Yacc specification, the  desk  calculator
+\par \hich\af13\dbch\af13\loch\f13 does  a reasonable job of showing how precedences and ambiguities
+\par \hich\af13\dbch\af13\loch\f13 are used, and demonstrating simple  error  recovery.   The  major
+\par \hich\af13\dbch\af13\loch\f13 oversimplifications  are  that the lexical ana\hich\af13\dbch\af13\loch\f13 lysis phase is much
+\par \hich\af13\dbch\af13\loch\f13 simpler than for most applications, and the  output  is  produced
+\par \hich\af13\dbch\af13\loch\f13 immediately,  line  by line.  Note the way that decimal and octal
+\par \hich\af13\dbch\af13\loch\f13 integers are read in by the grammar rules; This job  is  probably
+\par \hich\af13\dbch\af13\loch\f13 better done by the lexical analyzer.
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %\{
+\par \hich\af13\dbch\af13\loch\f13 #  include  <stdio.h>
+\par \hich\af13\dbch\af13\loch\f13 #  include  <ctype.h>
+\par 
+\par \hich\af13\dbch\af13\loch\f13 int  regs[26];
+\par \hich\af13\dbch\af13\loch\f13 int  base;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %\}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %start  list
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %token  DIGIT  LETTER
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %left  '|'
+\par \hich\af13\dbch\af13\loch\f13 %left  '&'
+\par \hich\af13\dbch\af13\loch\f13 %left  '+'  '-'
+\par \hich\af13\dbch\af13\loch\f13 %left  '*'  '/'  '%'
+\par \hich\af13\dbch\af13\loch\f13 %left  UMINUS      /*  supplies  precedence  for  unary  minus  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %%      /*  \hich\af13\dbch\af13\loch\f13 beginning  of  rules  section  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 list :    /*  empty  */
+\par \hich\af13\dbch\af13\loch\f13      |    list  stat  '\\n'
+\par \hich\af13\dbch\af13\loch\f13      |    list  error  '\\n'
+\par \hich\af13\dbch\af13\loch\f13                \{    yyerrok;  \}
+\par \hich\af13\dbch\af13\loch\f13      ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 stat :    expr
+\par \hich\af13\dbch\af13\loch\f13                \{    printf( "%d\\n", $1 );  \}
+\par \hich\af13\dbch\af13\loch\f13      |    LETTER  '='  expr
+\par \hich\af13\dbch\af13\loch\f13               \hich\af13\dbch\af13\loch\f13  \{    regs[$1]  =  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13      ;
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-34                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \hich\af13\dbch\af13\loch\f13 expr :    '('  expr  ')'
+\par \hich\af13\dbch\af13\loch\f13                \{\hich\af13\dbch\af13\loch\f13     $$  =  $2;  \}
+\par \hich\af13\dbch\af13\loch\f13      |    expr  '+'  expr
+\par \hich\af13\dbch\af13\loch\f13                \{    $$  =  $1  +  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13      |    expr  '-'\hich\af13\dbch\af13\loch\f13   expr
+\par \hich\af13\dbch\af13\loch\f13                \{\hich\af13\dbch\af13\loch\f13     $$  =  $1  -  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13      |    expr  '*'  expr
+\par \hich\af13\dbch\af13\loch\f13                \{    $$  =  $1  *  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13      |    expr  '/'  expr
+\par \hich\af13\dbch\af13\loch\f13                \{\hich\af13\dbch\af13\loch\f13     $$  =  $1  /  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13      |    expr  '%'  expr
+\par \hich\af13\dbch\af13\loch\f13                \{    $$  =  $1  %  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13      | \hich\af13\dbch\af13\loch\f13    expr  '&'  expr
+\par \hich\af13\dbch\af13\loch\f13                \{\hich\af13\dbch\af13\loch\f13     $$  =  $1  &  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13      |    expr  '|'  expr
+\par \hich\af13\dbch\af13\loch\f13                \{    $$  =  $1  |  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13      |    '-'  expr        %prec  UMINUS
+\par \hich\af13\dbch\af13\loch\f13                }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \{\hich\af13\dbch\af13\loch\f13     $$  =  -  $2;  \}
+\par \hich\af13\dbch\af13\loch\f13      |    LETTER
+\par \hich\af13\dbch\af13\loch\f13                \{    $$  =  regs[$1\hich\af13\dbch\af13\loch\f13 ];  \}
+\par \hich\af13\dbch\af13\loch\f13      |    number
+\par \hich\af13\dbch\af13\loch\f13      ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 number    :    DIGIT
+\par \hich\af13\dbch\af13\loch\f13                \{    $$ = $1;    base  =  ($1==0)  ?  8  :  10;  \}
+\par \hich\af13\dbch\af13\loch\f13      |    number  DIGIT
+\par \hich\af13\dbch\af13\loch\f13                \{    $$  =  base * $1  +  $2;  \}
+\par \hich\af13\dbch\af13\loch\f13      ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %%      /*  start  of  programs  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 yylex() \{      /*  le\hich\af13\dbch\af13\loch\f13 xical  analysis  routine  */
+\par \hich\af13\dbch\af13\loch\f13               /*  returns  LETTER  for  a  lower  case  letter,  yylval = 0  through  25  */
+\par \hich\af13\dbch\af13\loch\f13               /*  return  DIGIT  for  a  digit,  yylval = 0  through  9  */
+\par \hich\af13\dbch\af13\loch\f13               /*  all  other  characters  are  returned  i\hich\af13\dbch\af13\loch\f13 mmediately  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13      int  c;
+\par 
+\par \hich\af13\dbch\af13\loch\f13      while(  (c=getchar())  ==  ' '  )  \{/*  skip  blanks  */  \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13      /*  c  is  now  nonblank  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13      if(  islower(  c  )  )  \{
+\par \hich\af13\dbch\af13\loch\f13           yylval  =  c  -  'a';
+\par \hich\af13\dbch\af13\loch\f13           return  (  LETTER  );
+\par \hich\af13\dbch\af13\loch\f13           \}
+\par \hich\af13\dbch\af13\loch\f13      if(  isdigit(\ltrpar \hich\af13\dbch\af13\loch\f13   c  )  )  \{
+\par \hich\af13\dbch\af13\loch\f13           yylval  =  c  -  '0';
+\par \hich\af13\dbch\af13\loch\f13           return(  DIGIT  );
+\par \hich\af13\dbch\af13\loch\f13           \}
+\par \hich\af13\dbch\af13\loch\f13      return(  c  );
+\par \hich\af13\dbch\af13\loch\f13      \}
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-35
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Appendix B: Yacc Input Syntax
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This Appendix has a descript\hich\af13\dbch\af13\loch\f13 ion of the Yacc input syntax, as
+\par \hich\af13\dbch\af13\loch\f13 a  Yacc  specification.  Context dependencies, etc., are not con-
+\par \hich\af13\dbch\af13\loch\f13 sidered.  Ironically, the Yacc input  specification  language  is
+\par \hich\af13\dbch\af13\loch\f13 most  naturally  specified  as  an LR(2) grammar; the sticky part
+\par \hich\af13\dbch\af13\loch\f13 comes when an identifier \hich\af13\dbch\af13\loch\f13 is seen in a rule, immediately following
+\par \hich\af13\dbch\af13\loch\f13 an  action.  If this identifier is followed by a colon, it is the
+\par \hich\af13\dbch\af13\loch\f13 start of the next rule; otherwise it is  a  continuation  of  the
+\par \hich\af13\dbch\af13\loch\f13 current  rule,  which  just happens to have an action embedded in
+\par \hich\af13\dbch\af13\loch\f13 it.  As implement\hich\af13\dbch\af13\loch\f13 ed, the lexical analyzer looks ahead after  see-
+\par \hich\af13\dbch\af13\loch\f13 ing  an  identifier,  and decide whether the next token (skipping
+\par \hich\af13\dbch\af13\loch\f13 blanks, newlines, comments, etc.) is a colon.  If so, it  returns
+\par \hich\af13\dbch\af13\loch\f13 the   token  C_IDENTIFIER.   Otherwise,  it  returns  IDENTIFIER.
+\par \hich\af13\dbch\af13\loch\f13 Literals \hich\af13\dbch\af13\loch\f13 (quoted strings) are also returned as  IDENTIFIERS,  but
+\par \hich\af13\dbch\af13\loch\f13 never as part of C_IDENTIFIERs.
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13             /*  grammar  for  the  input  to  Yacc  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13       /*  basic  entities  */
+\par \hich\af13\dbch\af13\loch\f13 %token      IDENTIFIER  /*   includes  identifiers   and  literals  */
+\par \hich\af13\dbch\af13\loch\f13 %token  \hich\af13\dbch\af13\loch\f13     C_IDENTIFIER      /*    identifier  (but  not  literal)  followed  by  colon    */
+\par \hich\af13\dbch\af13\loch\f13 %token      NUMBER            /*    [0-9]+    */
+\par 
+\par \hich\af13\dbch\af13\loch\f13       /*  reserved  words:    %type  =>  TYPE,  %left  =>  LEFT,  etc.  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %token      LEFT  RIGHT  NONASSOC  TOKEN  P\hich\af13\dbch\af13\loch\f13 REC  TYPE  START  UNION
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %token      MARK  /*  the  %%  mark  */
+\par \hich\af13\dbch\af13\loch\f13 %token      LCURL /*  the  %\{  mark  */
+\par \hich\af13\dbch\af13\loch\f13 %token      RCURL /*  the  %\}  mark  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13       /*  ascii  character  literals  stand  for  themselves  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %start      spec
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %%
+\par 
+\par \hich\af13\dbch\af13\loch\f13 spec  :     defs  MARK\hich\af13\dbch\af13\loch\f13   rules  tail
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 tail  :     MARK  \{    In  this  action,  eat  up  the  rest  of  the  file    \}
+\par \hich\af13\dbch\af13\loch\f13       |     /*  empty:  the  second  MARK  is  optional  */
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 defs  :     /*  empty  */
+\par \hich\af13\dbch\af13\loch\f13       |     defs  def
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 def   :     START  IDENTIF\hich\af13\dbch\af13\loch\f13 IER
+\par \hich\af13\dbch\af13\loch\f13       |     UNION  \{  Copy union  definition  to  output  \}
+\par \hich\af13\dbch\af13\loch\f13       |     LCURL  \{  Copy  C  code  to  output  file   \}  RCURL
+\par \hich\af13\dbch\af13\loch\f13       |     ndefs  rword  tag  nlist
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-36                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 rwor\hich\af13\dbch\af13\loch\f13 d :     TOKEN
+\par \hich\af13\dbch\af13\loch\f13       |     LEFT
+\par \hich\af13\dbch\af13\loch\f13       |     RIGHT
+\par \hich\af13\dbch\af13\loch\f13       |     NONASSOC
+\par \hich\af13\dbch\af13\loch\f13       |     TYPE
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 tag   :     /*  empty:  union  tag  is  optional  */
+\par \hich\af13\dbch\af13\loch\f13       |     '<'  IDENTIFIER  '>'
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 nlist :     nmno
+\par \hich\af13\dbch\af13\loch\f13       |     nlist  nmno
+\par \hich\af13\dbch\af13\loch\f13       |     nlist  ','  \hich\af13\dbch\af13\loch\f13 nmno
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 nmno  :     IDENTIFIER        /*  NOTE:  literal  illegal  with  %type  */
+\par \hich\af13\dbch\af13\loch\f13       |     IDENTIFIER  NUMBER      /*  NOTE:  illegal  with  %type  */
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13       /*  rules  section  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 rules :     C_IDENTIFIER  rbody  prec
+\par \hich\af13\dbch\af13\loch\f13       |     rules \hich\af13\dbch\af13\loch\f13  rule
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 rule  :     C_IDENTIFIER  rbody  prec
+\par \hich\af13\dbch\af13\loch\f13       |     '|'  rbody  prec
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 rbody :     /*  empty  */
+\par \hich\af13\dbch\af13\loch\f13       |     rbody  IDENTIFIER
+\par \hich\af13\dbch\af13\loch\f13       |     rbody  act
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 act   :     '\{'  \{  Copy  action,  translate  $$,  etc.  \}  '\}'
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 prec\hich\af13\dbch\af13\loch\f13   :     /*  empty  */
+\par \hich\af13\dbch\af13\loch\f13       |     PREC  IDENTIFIER
+\par \hich\af13\dbch\af13\loch\f13       |     PREC  IDENTIFIER  act
+\par \hich\af13\dbch\af13\loch\f13       |     prec  ';'
+\par \hich\af13\dbch\af13\loch\f13       ;
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-37
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Appendix C: An Advanced Example
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This Appendix giv\hich\af13\dbch\af13\loch\f13 es an example of a grammar  using  some  of
+\par \hich\af13\dbch\af13\loch\f13 the advanced features discussed in Section 10.  The desk calcula-
+\par \hich\af13\dbch\af13\loch\f13 tor example in Appendix A is modified to provide a desk  calcula-
+\par \hich\af13\dbch\af13\loch\f13 tor that does floating point interval arithmetic.  The calculator
+\par \hich\af13\dbch\af13\loch\f13 understands fl\hich\af13\dbch\af13\loch\f13 oating point constants, the  arithmetic  operations
+\par \hich\af13\dbch\af13\loch\f13 +,  -,  *,  /,  unary  -, and = (assignment), and has 26 floating
+\par \hich\af13\dbch\af13\loch\f13 point variables, ``a'' through ``z''.  Moreover, it  also  under-
+\par \hich\af13\dbch\af13\loch\f13 stands intervals, written
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 ( x , y )
+\par 
+\par \hich\af13\dbch\af13\loch\f13 where x is less th\hich\af13\dbch\af13\loch\f13 an or equal to y.  There are 26 interval valued
+\par \hich\af13\dbch\af13\loch\f13 variables  ``A''  through ``Z'' that may also be used.  The usage
+\par \hich\af13\dbch\af13\loch\f13 is similar to that in Appendix A; assignments  return  no  value,
+\par \hich\af13\dbch\af13\loch\f13 and  print  nothing,  while  expressions  print  the (floating or
+\par \hich\af13\dbch\af13\loch\f13 interval) \hich\af13\dbch\af13\loch\f13 value.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This example explores a number of  interesting  features  of
+\par \hich\af13\dbch\af13\loch\f13 Yacc and C.  Intervals are represented by a structure, consisting
+\par \hich\af13\dbch\af13\loch\f13 of the left and right endpoint values, stored as double's.   This
+\par \hich\af13\dbch\af13\loch\f13 structure  is given a type name, INTERVAL, by usin\hich\af13\dbch\af13\loch\f13 g typedef.  The
+\par \hich\af13\dbch\af13\loch\f13 Yacc value stack can also contain  floating  point  scalars,  and
+\par \hich\af13\dbch\af13\loch\f13 integers  (used  to  index  into  the arrays holding the variable
+\par \hich\af13\dbch\af13\loch\f13 values).  Notice that this entire strategy  depends  strongly  on
+\par \hich\af13\dbch\af13\loch\f13 being  able  to assign structures and unio\hich\af13\dbch\af13\loch\f13 ns in C.  In fact, many
+\par \hich\af13\dbch\af13\loch\f13 of the actions call functions that return structures as well.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      It is also worth noting the use of YYERROR to  handle  error
+\par \hich\af13\dbch\af13\loch\f13 conditions: division by an interval containing 0, and an interval
+\par \hich\af13\dbch\af13\loch\f13 presented in the wrong order.   In  e\hich\af13\dbch\af13\loch\f13 ffect,  the  error  recovery
+\par \hich\af13\dbch\af13\loch\f13 mechanism of Yacc is used to throw away the rest of the offending
+\par \hich\af13\dbch\af13\loch\f13 line.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In addition to the mixing of types on the value stack,  this
+\par \hich\af13\dbch\af13\loch\f13 grammar  also  demonstrates  an interesting use of syntax to keep
+\par \hich\af13\dbch\af13\loch\f13 track of the type  (e.\hich\af13\dbch\af13\loch\f13 g.  scalar  or  interval)  of  intermediate
+\par \hich\af13\dbch\af13\loch\f13 expressions.  Note that a scalar can be automatically promoted to
+\par \hich\af13\dbch\af13\loch\f13 an interval if the  context  demands  an  interval  value.   This
+\par \hich\af13\dbch\af13\loch\f13 causes  a  large  number  of  conflicts  when  the grammar is run
+\par \hich\af13\dbch\af13\loch\f13 through Yacc: \hich\af13\dbch\af13\loch\f13 18 Shift/Reduce and 26 Reduce/Reduce.  The  problem
+\par \hich\af13\dbch\af13\loch\f13 can be seen by looking at the two input lines:
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 2.5 + ( 3.5 - 4. )
+\par 
+\par \hich\af13\dbch\af13\loch\f13 and
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 2.5 + ( 3.5 , 4. )
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Notice that the 2.5 is to be used in an interval  valued  expres-
+\par \hich\af13\dbch\af13\loch\f13 sion  in the \hich\af13\dbch\af13\loch\f13 second example, but this fact is not known until the
+\par \hich\af13\dbch\af13\loch\f13 ``,'' is read; by this time, 2.5 is finished, and the parser can-
+\par \hich\af13\dbch\af13\loch\f13 not  go  back  and  change its mind.  More generally, it might be
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-38                     Yacc: Yet Another Compiler-Compi\hich\af13\dbch\af13\loch\f13 ler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 necessary to look ahead an arbitrary number of tokens  to  decide
+\par \hich\af13\dbch\af13\loch\f13 whether  to  convert  a  scalar  to an interval.  This problem is
+\par \hich\af13\dbch\af13\loch\f13 evaded by having two rules for each binary interval valued opera-
+\par \hich\af13\dbch\af13\loch\f13 tor: one when the left operand is a scalar, and one \hich\af13\dbch\af13\loch\f13 when the left
+\par \hich\af13\dbch\af13\loch\f13 operand is an interval.  In the second case,  the  right  operand
+\par \hich\af13\dbch\af13\loch\f13 must  be an interval, so the conversion will be applied automati-
+\par \hich\af13\dbch\af13\loch\f13 cally.  Despite this evasion, there are still  many  cases  where
+\par \hich\af13\dbch\af13\loch\f13 the  conversion  may be applied or not, lead\hich\af13\dbch\af13\loch\f13 ing to the above con-
+\par \hich\af13\dbch\af13\loch\f13 flicts.  They are  resolved  by  listing  the  rules  that  yield
+\par \hich\af13\dbch\af13\loch\f13 scalars  first  in  the specification file; in this way, the con-
+\par \hich\af13\dbch\af13\loch\f13 flicts will be resolved in the direction of keeping scalar valued
+\par \hich\af13\dbch\af13\loch\f13 expressions  scalar valued until the\hich\af13\dbch\af13\loch\f13 y are forced to become inter-
+\par \hich\af13\dbch\af13\loch\f13 vals.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This way of handling multiple types is very instructive, but
+\par \hich\af13\dbch\af13\loch\f13 not  very general.  If there were many kinds of expression types,
+\par \hich\af13\dbch\af13\loch\f13 instead of just two, the number of rules  needed  would  increase
+\par \hich\af13\dbch\af13\loch\f13 dramatically,  and  t\hich\af13\dbch\af13\loch\f13 he  conflicts even more dramatically.  Thus,
+\par \hich\af13\dbch\af13\loch\f13 while this example is instructive, it is  better  practice  in  a
+\par \hich\af13\dbch\af13\loch\f13 more  normal  programming  language  environment to keep the type
+\par \hich\af13\dbch\af13\loch\f13 information as part of the value, and not as part of the grammar.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Finally\hich\af13\dbch\af13\loch\f13 , a  word  about  the  lexical  analysis.   The  only
+\par \hich\af13\dbch\af13\loch\f13 unusual  feature  is  the  treatment of floating point constants.
+\par \hich\af13\dbch\af13\loch\f13 The C library routine atof is used to do  the  actual  conversion
+\par \hich\af13\dbch\af13\loch\f13 from a character string to a double precision value.  If the lex-
+\par \hich\af13\dbch\af13\loch\f13 ical\hich\af13\dbch\af13\loch\f13  analyzer detects an error, it responds by returning a  token
+\par \hich\af13\dbch\af13\loch\f13 that  is  illegal in the grammar, provoking a syntax error in the
+\par \hich\af13\dbch\af13\loch\f13 parser, and thence error recovery.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1\hich\af13\dbch\af13\loch\f13 :15-39
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %\{
+\par 
+\par \hich\af13\dbch\af13\loch\f13 #  include  <stdio.h>
+\par \hich\af13\dbch\af13\loch\f13 #  include  <ctype.h>
+\par 
+\par \hich\af13\dbch\af13\loch\f13 typedef  struct  interval  \{
+\par \hich\af13\dbch\af13\loch\f13         double  lo,  hi;
+\par \hich\af13\dbch\af13\loch\f13         \}  INTERVAL;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 INTERVAL  vmul(),  vdiv();
+\par 
+\par \hich\af13\dbch\af13\loch\f13 double  atof();
+\par 
+\par \hich\af13\dbch\af13\loch\f13 double  dreg[ 26 ];
+\par \hich\af13\dbch\af13\loch\f13 INTERVAL  vreg[ 26 ];
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %\}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %start    lines
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %union    \{
+\par \hich\af13\dbch\af13\loch\f13         int  ival;
+\par \hich\af13\dbch\af13\loch\f13         double  dval;
+\par \hich\af13\dbch\af13\loch\f13         INTERVAL  vval;
+\par \hich\af13\dbch\af13\loch\f13         \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %token  <ival>  DREG  VREG      /*  indices  into  dreg,  vreg  arrays  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %token  <dval>  CONST           /*  floating  point  constant  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %type  <dval>  dexp             /*  \ltrpar \hich\af13\dbch\af13\loch\f13 expression  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %type  <vval>  vexp             /*  interval  expression  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13         /*  precedence  information  about  the  operators  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %left   '+'  '-'
+\par \hich\af13\dbch\af13\loch\f13 %left   '*'  '/'
+\par \hich\af13\dbch\af13\loch\f13 %left   UMINUS        /*  precedence  for  unary  minus  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %%
+\par 
+\par \hich\af13\dbch\af13\loch\f13 lines   :      \hich\af13\dbch\af13\loch\f13  /*  empty  */
+\par \hich\af13\dbch\af13\loch\f13         |       lines  line
+\par \hich\af13\dbch\af13\loch\f13         ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 line    :       dexp  '\\n'
+\par \hich\af13\dbch\af13\loch\f13                         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \{\hich\af13\dbch\af13\loch\f13        printf(  "%15.8f\\n",  $1  );  \}
+\par \hich\af13\dbch\af13\loch\f13         |       vexp  '\\n'
+\par \hich\af13\dbch\af13\loch\f13                         \{\hich\af13\dbch\af13\loch\f13        printf(  "(%15.8f  ,  %15.8f  )\\n",  $1.lo,  $1.hi  \hich\af13\dbch\af13\loch\f13 );  \}
+\par \hich\af13\dbch\af13\loch\f13         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \hich\af13\dbch\af13\loch\f13 |       DREG  '='  dexp  '\\n'
+\par \hich\af13\dbch\af13\loch\f13                         \{       dreg[$1]  =  $3;  \}
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-40                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13         |       VREG  '='  vexp  '\\n'
+\par \hich\af13\dbch\af13\loch\f13                         \{       vreg[$1]  =  \hich\af13\dbch\af13\loch\f13 $3;  \}
+\par \hich\af13\dbch\af13\loch\f13         |       error  '\\n'
+\par \hich\af13\dbch\af13\loch\f13                         \{       yyerrok;  \}
+\par \hich\af13\dbch\af13\loch\f13         ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 dexp    :       CONST
+\par \hich\af13\dbch\af13\loch\f13         |       DREG
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$  =  dreg[$1];  \}
+\par \hich\af13\dbch\af13\loch\f13         |       dexp  '+'  dexp
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$  =  \hich\af13\dbch\af13\loch\f13 $1  +  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13         |       dexp  '-'  dexp
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$  =  $1  -  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13         |       dexp  '*'  dexp
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$  =  $1  *  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13         |       dexp  '/'  dexp
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$  =  $\hich\af13\dbch\af13\loch\f13 1  /  $3;  \}
+\par \hich\af13\dbch\af13\loch\f13         |       '-'  dexp       %prec  UMINUS
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$  =  - $2;  \}
+\par \hich\af13\dbch\af13\loch\f13         |       '('  dexp  ')'
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$  =  $2;  \}
+\par \hich\af13\dbch\af13\loch\f13         ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 vexp    :       dexp
+\par \hich\af13\dbch\af13\loch\f13                         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \{\hich\af13\dbch\af13\loch\f13        $$.hi  =\hich\af13\dbch\af13\loch\f13   $$.lo  =  $1;  
+\}
+\par \hich\af13\dbch\af13\loch\f13         |       '('  dexp  ','  dexp  ')'
+\par \hich\af13\dbch\af13\loch\f13                         \{
+\par \hich\af13\dbch\af13\loch\f13                         $$.lo  =  $2;
+\par \hich\af13\dbch\af13\loch\f13                         $$.hi  =  $4;
+\par \hich\af13\dbch\af13\loch\f13                         if(  $$.lo  >  $$.hi  )\{
+\par \hich\af13\dbch\af13\loch\f13                                 }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \hich\af13\dbch\af13\loch\f13 printf(  "in\hich\af13\dbch\af13\loch\f13 terval  out  of  order\\n"  );
+\par \hich\af13\dbch\af13\loch\f13                                 YYERROR;
+\par \hich\af13\dbch\af13\loch\f13                                 \}
+\par \hich\af13\dbch\af13\loch\f13                         \}
+\par \hich\af13\dbch\af13\loch\f13         |       VREG
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$  =  vreg[$1];    \}
+\par \hich\af13\dbch\af13\loch\f13         |       vexp  '+'  vexp
+\par \hich\af13\dbch\af13\loch\f13                   \hich\af13\dbch\af13\loch\f13       }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \{\hich\af13\dbch\af13\loch\f13        $$.hi  =  $1.hi  +  $3.hi;
+
+\par \hich\af13\dbch\af13\loch\f13                                 $$.lo  =  $1.lo  +  $3.lo;    \}
+\par \hich\af13\dbch\af13\loch\f13         \hich\af13\dbch\af13\loch\f13 |       dexp  '+'  vexp
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$.hi  =  $1  +  $3.hi;
+\par \hich\af13\dbch\af13\loch\f13                                 \hich\af13\dbch\af13\loch\f13 $$.lo  =  $1  +  $3.lo;    \}
+\par \hich\af13\dbch\af13\loch\f13   \hich\af13\dbch\af13\loch\f13       |       vexp  '-'  vexp
+\par \hich\af13\dbch\af13\loch\f13                         \{\hich\af13\dbch\af13\loch\f13        $$.hi  =  $1.hi  -  $3.lo;
+\par \hich\af13\dbch\af13\loch\f13                                 $$.lo  =  $1.lo  -  $3.hi;    \}
+\par \hich\af13\dbch\af13\loch\f13         \hich\af13\dbch\af13\loch\f13 |       dexp  '-'  vexp
+\par \hich\af13\dbch\af13\loch\f13                         \{       $$.hi  =  $1  -  $3.lo;
+\par \hich\af13\dbch\af13\loch\f13                \hich\af13\dbch\af13\loch\f13                  \hich\af13\dbch\af13\loch\f13 $$.lo  =  $1  -  $3.hi;    \}
+\par \hich\af13\dbch\af13\loch\f13         |       vexp  '*'  vexp
+\par \hich\af13\dbch\af13\loch\f13                         \{\hich\af13\dbch\af13\loch\f13        $$  =  vmul(  $1.lo,  $1.hi,  $3  );  \}
+\par \hich\af13\dbch\af13\loch\f13         |       dexp  '*'  vexp
+\par \hich\af13\dbch\af13\loch\f13                         \{\hich\af13\dbch\af13\loch\f13        $$  =  vmul(  $1,  $1,  $3  );  \}
+\par \hich\af13\dbch\af13\loch\f13         \hich\af13\dbch\af13\loch\f13 |       vexp  '/'  vexp
+\par \hich\af13\dbch\af13\loch\f13                         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \{\hich\af13\dbch\af13\loch\f13        if(  dcheck(  $3  )  )  YYERROR;
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler                     PS1:15-41
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13                                 }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \hich\af13\dbch\af13\loch\f13 $$  =  vdiv(  $1.lo,  $1.hi,  $3  );  \}
+\par \hich\af13\dbch\af13\loch\f13         |       de\hich\af13\dbch\af13\loch\f13 xp  '/'  vexp
+\par \hich\af13\dbch\af13\loch\f13                         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \{\hich\af13\dbch\af13\loch\f13        if(  dcheck(  $3  )  )  YYERROR;
+\par \hich\af13\dbch\af13\loch\f13                                 $$  =  vdiv(  $1,  $1,  $3  );  \}
+\par \hich\af13\dbch\af13\loch\f13         |       '-'  vexp       %prec  UMINUS
+\par \hich\af13\dbch\af13\loch\f13                         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid11300697\charrsid6620057 \{\hich\af13\dbch\af13\loch\f13        $$.hi  =  -$2.lo;    $$.lo  =  -$
+\hich\af13\dbch\af13\loch\f13 2.hi;    \}
+\par \hich\af13\dbch\af13\loch\f13         |       '('  vexp  ')'
+\par \hich\af13\dbch\af13\loch\f13                         }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid11300697\charrsid11300697 \{\hich\af13\dbch\af13\loch\f13        $$  =  $2;  \}
+\par \hich\af13\dbch\af13\loch\f13         ;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 %%
+\par 
+\par \hich\af13\dbch\af13\loch\f13 #  define  BSZ  50        /*  buffer  size  for  floating  point  numbers  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13         /*  lexical  analysis  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13 yylex()\{
+\par \hich\af13\dbch\af13\loch\f13         register  c;
+\par 
+\par \hich\af13\dbch\af13\loch\f13         \hich\af13\dbch\af13\loch\f13 while(  (c=getchar())  ==  ' '  )\{  /*  skip  over  blanks  */  \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13         if(  isupper(  c  )  )\{
+\par \hich\af13\dbch\af13\loch\f13                 yylval.ival  =  c  -  'A';
+\par \hich\af13\dbch\af13\loch\f13                 return(  VREG  );
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par \hich\af13\dbch\af13\loch\f13         if(  islower(  c  )  )\{
+\par \hich\af13\dbch\af13\loch\f13                 yylval.ival  =\hich\af13\dbch\af13\loch\f13   c  -  'a';
+\par \hich\af13\dbch\af13\loch\f13                 return(  DREG  );
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13         if(  isdigit(  c  )  ||  c=='.'  )\{
+\par \hich\af13\dbch\af13\loch\f13                 /*  gobble  up  digits,  points,  exponents  */
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 char  buf[BSZ+1],  *cp  =  buf;
+\par \hich\af13\dbch\af13\loch\f13                 int  dot  =  0,  \hich\af13\dbch\af13\loch\f13 exp  =  0;
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 for(  ;  (cp-buf)<BSZ  ;  ++cp,c=getchar()  )\{
+\par 
+\par \hich\af13\dbch\af13\loch\f13                         *cp  =  c;
+\par \hich\af13\dbch\af13\loch\f13                         if(  isdigit(  c  )  )  continue;
+\par \hich\af13\dbch\af13\loch\f13                         if(  c  ==  '.'  )\{
+\par \hich\af13\dbch\af13\loch\f13                                 if(  dot++ \hich\af13\dbch\af13\loch\f13  ||  exp  )  return(  '.'  );    /*  will  cause  syntax  error  */
+\par \hich\af13\dbch\af13\loch\f13                                 continue;
+\par \hich\af13\dbch\af13\loch\f13                                 \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13                         if(  c  ==  'e'  )\{
+\par \hich\af13\dbch\af13\loch\f13                                 if(  exp++  )  return(  'e'  );    \hich\af13\dbch\af13\loch\f13 /*  will  cause  syntax  error  */
+\par \hich\af13\dbch\af13\loch\f13                                 continue;
+\par \hich\af13\dbch\af13\loch\f13                                 \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13                         /*  end  of  number  */
+\par \hich\af13\dbch\af13\loch\f13                         break;
+\par \hich\af13\dbch\af13\loch\f13                         \}
+\par \hich\af13\dbch\af13\loch\f13                 *cp  =  '\\0';
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 PS1:15-42                     Yacc: Yet Another Compiler-Compiler
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13                 if(  (cp-buf)  >=  BSZ  )  printf(  "constant  too  long:  truncated\\n"  );
+\par \hich\af13\dbch\af13\loch\f13                 else  ungetc(  c,  stdin  );    /*  push  back  last  char  read  */
+\par \hich\af13\dbch\af13\loch\f13            \hich\af13\dbch\af13\loch\f13      yylval.dval  =  atof(  buf  );
+\par \hich\af13\dbch\af13\loch\f13                 return(  CONST  );
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par \hich\af13\dbch\af13\loch\f13         return(  c  );
+\par \hich\af13\dbch\af13\loch\f13         \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 INTERVAL  hilo(  a,  b,  c,  d  )  double  a,  b,  c,  d;  \{
+\par \hich\af13\dbch\af13\loch\f13         /*  returns  the  smallest  interval  containing  a,  b,  c,  an\hich\af13\dbch\af13\loch\f13 d  d  */
+\par \hich\af13\dbch\af13\loch\f13         /*  used  by  *,  /  routines  */
+\par \hich\af13\dbch\af13\loch\f13         INTERVAL  v;
+\par 
+\par \hich\af13\dbch\af13\loch\f13         if(  a>b  )  \{  v.hi  =  a;    v.lo  =  b;  \}
+\par \hich\af13\dbch\af13\loch\f13         else  \{  v.hi  =  b;    v.lo  =  a;  \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13         if(  c>d  )  \{
+\par \hich\af13\dbch\af13\loch\f13                 if(  c>v.hi  )  v.hi  =  c;
+\par \hich\af13\dbch\af13\loch\f13               \hich\af13\dbch\af13\loch\f13   if(  d<v.lo  )  v.lo  =  d;
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par \hich\af13\dbch\af13\loch\f13         else  \{
+\par \hich\af13\dbch\af13\loch\f13                 if(  d>v.hi  )  v.hi  =  d;
+\par \hich\af13\dbch\af13\loch\f13                 if(  c<v.lo  )  v.lo  =  c;
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par \hich\af13\dbch\af13\loch\f13         return(  v  );
+\par \hich\af13\dbch\af13\loch\f13         \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 INTERVAL  vmul(  a,  b,  v  )  double  a,  b;    INT\hich\af13\dbch\af13\loch\f13 ERVAL  v;  \{
+\par \hich\af13\dbch\af13\loch\f13         return(  hilo(  a*v.hi,  a*v.lo,  b*v.hi,  b*v.lo  )  );
+\par \hich\af13\dbch\af13\loch\f13         \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 dcheck(  v  )  INTERVAL  v;  \{
+\par \hich\af13\dbch\af13\loch\f13         if(  v.hi  >=  0.  &&  v.lo  <=  0.  )\{
+\par \hich\af13\dbch\af13\loch\f13                 printf(  "divisor  interval  contains  0.\\n"  );
+\par \hich\af13\dbch\af13\loch\f13                 return(\hich\af13\dbch\af13\loch\f13   1  );
+\par \hich\af13\dbch\af13\loch\f13                 \}
+\par \hich\af13\dbch\af13\loch\f13         return(  0  );
+\par \hich\af13\dbch\af13\loch\f13         \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13 INTERVAL  vdiv(  a,  b,  v  )  double  a,  b;    INTERVAL  v;  \{
+\par \hich\af13\dbch\af13\loch\f13         return(  hilo(  a/v.hi,  a/v.lo,  b/v.hi,  b/v.lo  )  );
+\par \hich\af13\dbch\af13\loch\f13         \}
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Yacc: Yet Another Compiler-Compiler\hich\af13\dbch\af13\loch\f13                      PS1:15-43
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Appendix D: Old Features Supported but not Encouraged
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This Appendix mentions synonyms and features which are  sup-
+\par \hich\af13\dbch\af13\loch\f13 ported  for  historical continuity, but, for various reasons, are
+\par \hich\af13\dbch\af13\loch\f13 not encouraged.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1.   Literals may a\hich\af13\dbch\af13\loch\f13 lso be delimited by double quotes ``"''.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2.   Literals may be more than one character long.   If  all  the
+\par \hich\af13\dbch\af13\loch\f13      characters are alphabetic, numeric, or _, the type number of
+\par \hich\af13\dbch\af13\loch\f13      the literal is defined, just as if the literal did not  have
+\par \hich\af13\dbch\af13\loch\f13      the  quotes\hich\af13\dbch\af13\loch\f13   around  it.  Otherwise, it is difficult to find
+\par \hich\af13\dbch\af13\loch\f13      the value for such literals.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The use of multi-character literals  is  likely  to  mislead
+\par \hich\af13\dbch\af13\loch\f13      those  unfamiliar  with Yacc, since it suggests that Yacc is
+\par \hich\af13\dbch\af13\loch\f13      doing a job which must  be  actual\hich\af13\dbch\af13\loch\f13 ly  done  by  the  lexical
+\par \hich\af13\dbch\af13\loch\f13      analyzer.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 3.   Most places where % is legal, backslash ``\\'' may  be  used.
+\par \hich\af13\dbch\af13\loch\f13      In  particular,  \\\\  is  the  same  as %%, \\left the same as
+\par \hich\af13\dbch\af13\loch\f13      %left, etc.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 4.   There are a number of other synonyms:
+\par 
+\par \hich\af13\dbch\af13\loch\f13              %< is \hich\af13\dbch\af13\loch\f13 the same as %left
+\par \hich\af13\dbch\af13\loch\f13              %> is the same as %right
+\par \hich\af13\dbch\af13\loch\f13              %binary and %2 are the same as %nonassoc
+\par \hich\af13\dbch\af13\loch\f13              %0 and %term are the same as %token
+\par \hich\af13\dbch\af13\loch\f13              %= is the same as %prec
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 5.   Actions may also have the form
+\par 
+\par \hich\af13\dbch\af13\loch\f13              =\{ . . .\hich\af13\dbch\af13\loch\f13  \}
+\par 
+\par \hich\af13\dbch\af13\loch\f13      and the curly braces can be dropped if the action is a  sin-
+\par \hich\af13\dbch\af13\loch\f13      gle C statement.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 6.   C code between %\{ and %\} used to be permitted at the head of
+\par \hich\af13\dbch\af13\loch\f13      the rules section, as well as in the declaration section.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }}

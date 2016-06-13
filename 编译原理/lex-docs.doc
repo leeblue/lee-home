@@ -1,0 +1,1231 @@
+{\rtf1\adeflang1025\ansi\ansicpg936\uc2\adeff0\deff0\stshfdbch13\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe2052{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
+{\f13\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}\'cb\'ce\'cc\'e5{\*\falt SimSun};}{\f36\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}@\'cb\'ce\'cc\'e5;}{\f37\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f38\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman Greek;}{\f41\froman\fcharset162\fprq2 Times New Roman Tur;}{\f42\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f43\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f57\fmodern\fcharset238\fprq1 Courier New CE;}
+{\f58\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f60\fmodern\fcharset161\fprq1 Courier New Greek;}{\f61\fmodern\fcharset162\fprq1 Courier New Tur;}{\f62\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f63\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f64\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f65\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f169\fnil\fcharset0\fprq2 SimSun Western{\*\falt SimSun};}
+{\f399\fnil\fcharset0\fprq2 @\'cb\'ce\'cc\'e5 Western;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs21\lang1033\langfe2052\kerning2\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \snext0 Normal;}{\*\cs10 
+\additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\loch\f0\hich\af0\dbch\af13\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af2\afs21\alang1025 \ltrch\fcs0 \fs21\lang1033\langfe2052\kerning2\loch\f13\hich\af2\dbch\af13\cgrid\langnp1033\langfenp2052 \sbasedon0 \snext15 
+Plain Text;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\rsidtbl \rsid4368\rsid10184\rsid16129\rsid19885\rsid26678\rsid72526\rsid76856\rsid79638\rsid82801\rsid86886\rsid95626\rsid136628\rsid143703\rsid206954\rsid207921\rsid219664\rsid266061\rsid270113
+\rsid274458\rsid279903\rsid284117\rsid291909\rsid350489\rsid401843\rsid404076\rsid417440\rsid421333\rsid462303\rsid462719\rsid471083\rsid488472\rsid525463\rsid526955\rsid546379\rsid554029\rsid555970\rsid591406\rsid605471\rsid616320\rsid618204\rsid721427
+\rsid729841\rsid734942\rsid741957\rsid749176\rsid800708\rsid802264\rsid807162\rsid809705\rsid864473\rsid870183\rsid871031\rsid918080\rsid921744\rsid930092\rsid1050962\rsid1051860\rsid1054146\rsid1054522\rsid1058166\rsid1079739\rsid1080082\rsid1128380
+\rsid1275055\rsid1326344\rsid1337157\rsid1339743\rsid1378852\rsid1379045\rsid1380067\rsid1383994\rsid1393738\rsid1399226\rsid1405803\rsid1406536\rsid1462194\rsid1516626\rsid1517586\rsid1520877\rsid1522015\rsid1530870\rsid1536003\rsid1596188\rsid1639210
+\rsid1641791\rsid1643766\rsid1662973\rsid1718610\rsid1721594\rsid1735527\rsid1778110\rsid1789953\rsid1852158\rsid1855752\rsid1861677\rsid1915979\rsid1916519\rsid1919035\rsid1921447\rsid1923724\rsid1931298\rsid1967857\rsid1976787\rsid1977795\rsid1998784
+\rsid2037072\rsid2038547\rsid2101602\rsid2102379\rsid2110387\rsid2111120\rsid2163617\rsid2172281\rsid2185339\rsid2189476\rsid2247441\rsid2248916\rsid2302100\rsid2312107\rsid2317564\rsid2363273\rsid2365475\rsid2436657\rsid2449072\rsid2455600\rsid2498704
+\rsid2508610\rsid2517844\rsid2560858\rsid2569993\rsid2583138\rsid2628279\rsid2688120\rsid2717674\rsid2769556\rsid2783683\rsid2893655\rsid2902207\rsid2909158\rsid2952831\rsid2953855\rsid2981670\rsid3015630\rsid3024194\rsid3032538\rsid3090143\rsid3172095
+\rsid3222520\rsid3231233\rsid3233547\rsid3236328\rsid3238661\rsid3280596\rsid3287130\rsid3289703\rsid3291441\rsid3297996\rsid3299816\rsid3303030\rsid3305909\rsid3308686\rsid3345113\rsid3346478\rsid3359002\rsid3359074\rsid3362445\rsid3364641\rsid3373727
+\rsid3373984\rsid3409925\rsid3412346\rsid3414898\rsid3421077\rsid3425521\rsid3432750\rsid3476234\rsid3477290\rsid3479522\rsid3483548\rsid3501865\rsid3502581\rsid3607247\rsid3608930\rsid3613274\rsid3625211\rsid3628957\rsid3671088\rsid3674906\rsid3696581
+\rsid3698272\rsid3739154\rsid3751161\rsid3761682\rsid3801812\rsid3810890\rsid3824088\rsid3877185\rsid3879038\rsid3897843\rsid3934518\rsid3935781\rsid3937137\rsid3943365\rsid3944276\rsid3953276\rsid3956077\rsid3960758\rsid4008484\rsid4019777\rsid4020731
+\rsid4024022\rsid4027690\rsid4069607\rsid4073467\rsid4076512\rsid4078821\rsid4093272\rsid4129059\rsid4144705\rsid4149367\rsid4150019\rsid4195311\rsid4212684\rsid4213755\rsid4216670\rsid4218266\rsid4223002\rsid4276033\rsid4282482\rsid4335917\rsid4349043
+\rsid4353002\rsid4395920\rsid4456652\rsid4460711\rsid4467080\rsid4484600\rsid4523638\rsid4525850\rsid4552226\rsid4591737\rsid4603347\rsid4606598\rsid4607899\rsid4613934\rsid4663003\rsid4669993\rsid4719839\rsid4730111\rsid4734064\rsid4737598\rsid4741400
+\rsid4788804\rsid4790900\rsid4797236\rsid4800164\rsid4812588\rsid4855360\rsid4856341\rsid4872344\rsid4934551\rsid4991412\rsid5112324\rsid5114568\rsid5132746\rsid5144141\rsid5181592\rsid5184951\rsid5252186\rsid5253498\rsid5260471\rsid5264105\rsid5265033
+\rsid5274058\rsid5311818\rsid5323554\rsid5326020\rsid5332699\rsid5333512\rsid5335217\rsid5336722\rsid5378942\rsid5394519\rsid5405255\rsid5454894\rsid5462114\rsid5509845\rsid5513760\rsid5521416\rsid5524657\rsid5525375\rsid5525968\rsid5529599\rsid5579036
+\rsid5580862\rsid5580943\rsid5600799\rsid5650781\rsid5704301\rsid5710007\rsid5711405\rsid5720797\rsid5725598\rsid5779391\rsid5784873\rsid5794663\rsid5799801\rsid5857099\rsid5924589\rsid5980165\rsid5980638\rsid5987715\rsid6029644\rsid6039616\rsid6050604
+\rsid6053445\rsid6096154\rsid6107054\rsid6110369\rsid6181842\rsid6185633\rsid6226672\rsid6229203\rsid6243317\rsid6249706\rsid6297283\rsid6317794\rsid6320743\rsid6323321\rsid6360655\rsid6360830\rsid6367719\rsid6371170\rsid6377655\rsid6426843\rsid6431967
+\rsid6436587\rsid6437944\rsid6444638\rsid6445772\rsid6448315\rsid6455089\rsid6512203\rsid6517884\rsid6555108\rsid6567332\rsid6576164\rsid6645805\rsid6650326\rsid6692512\rsid6698147\rsid6698415\rsid6701488\rsid6703997\rsid6709090\rsid6710141\rsid6757654
+\rsid6759000\rsid6829408\rsid6831285\rsid6833673\rsid6841777\rsid6844004\rsid6846657\rsid6895312\rsid6910181\rsid6947141\rsid7034174\rsid7034918\rsid7093574\rsid7106536\rsid7108658\rsid7109817\rsid7150668\rsid7166083\rsid7168380\rsid7173828\rsid7210523
+\rsid7291383\rsid7296836\rsid7297446\rsid7298409\rsid7343314\rsid7350613\rsid7360856\rsid7361706\rsid7363798\rsid7368643\rsid7416563\rsid7435030\rsid7490608\rsid7495844\rsid7542467\rsid7555262\rsid7561218\rsid7562340\rsid7564073\rsid7564997\rsid7604938
+\rsid7672329\rsid7677715\rsid7685493\rsid7688238\rsid7738508\rsid7755008\rsid7816750\rsid7817486\rsid7878417\rsid7879226\rsid7934615\rsid7934741\rsid8000276\rsid8004365\rsid8023270\rsid8027304\rsid8065039\rsid8067807\rsid8068995\rsid8086735\rsid8088317
+\rsid8130386\rsid8140652\rsid8146073\rsid8153125\rsid8195363\rsid8198481\rsid8206890\rsid8213039\rsid8263443\rsid8264636\rsid8326877\rsid8336010\rsid8343204\rsid8343407\rsid8393593\rsid8396380\rsid8400693\rsid8412866\rsid8469802\rsid8482079\rsid8482666
+\rsid8486071\rsid8519709\rsid8549859\rsid8588525\rsid8588592\rsid8607115\rsid8657220\rsid8657417\rsid8719938\rsid8721937\rsid8732589\rsid8745437\rsid8786538\rsid8786557\rsid8788755\rsid8795616\rsid8804106\rsid8805594\rsid8875093\rsid8989571\rsid8991062
+\rsid9065210\rsid9066415\rsid9068239\rsid9069760\rsid9070423\rsid9112624\rsid9128792\rsid9134607\rsid9135762\rsid9135867\rsid9136466\rsid9175601\rsid9180903\rsid9201792\rsid9240707\rsid9247767\rsid9251607\rsid9269771\rsid9271163\rsid9320368\rsid9337462
+\rsid9389787\rsid9447398\rsid9450381\rsid9458013\rsid9458304\rsid9459924\rsid9572173\rsid9587706\rsid9595576\rsid9598215\rsid9599810\rsid9600841\rsid9634353\rsid9634829\rsid9656696\rsid9705232\rsid9709362\rsid9711081\rsid9720415\rsid9832409\rsid9861115
+\rsid9900011\rsid9903337\rsid9908911\rsid9915420\rsid9921432\rsid9925079\rsid9966891\rsid9975124\rsid9988800\rsid10037638\rsid10095438\rsid10097702\rsid10098810\rsid10103297\rsid10118703\rsid10120460\rsid10123907\rsid10162515\rsid10174960\rsid10180479
+\rsid10185561\rsid10190201\rsid10247986\rsid10291071\rsid10299616\rsid10305339\rsid10318771\rsid10366460\rsid10376142\rsid10377081\rsid10420359\rsid10449196\rsid10488421\rsid10492913\rsid10494609\rsid10515410\rsid10515886\rsid10558505\rsid10562456
+\rsid10567164\rsid10580475\rsid10628062\rsid10643502\rsid10682432\rsid10699870\rsid10705810\rsid10754465\rsid10773587\rsid10778480\rsid10818581\rsid10829172\rsid10838755\rsid10881256\rsid10882158\rsid10896472\rsid10896931\rsid10911579\rsid10956438
+\rsid10969644\rsid11033554\rsid11075614\rsid11095020\rsid11096659\rsid11104712\rsid11150551\rsid11163236\rsid11216045\rsid11225555\rsid11232806\rsid11232819\rsid11283748\rsid11290813\rsid11291172\rsid11361319\rsid11409392\rsid11414408\rsid11414601
+\rsid11423054\rsid11435505\rsid11477497\rsid11484484\rsid11491195\rsid11538758\rsid11610805\rsid11617095\rsid11619618\rsid11669482\rsid11676390\rsid11690642\rsid11749612\rsid11759598\rsid11761216\rsid11808402\rsid11811525\rsid11812039\rsid11820972
+\rsid11863440\rsid11870981\rsid11890605\rsid11928178\rsid11933959\rsid11994803\rsid12001039\rsid12005665\rsid12006060\rsid12023735\rsid12059374\rsid12087221\rsid12136178\rsid12139334\rsid12145057\rsid12145486\rsid12189842\rsid12196321\rsid12257011
+\rsid12259832\rsid12280630\rsid12281626\rsid12339650\rsid12342545\rsid12348054\rsid12399467\rsid12413370\rsid12465018\rsid12523612\rsid12529075\rsid12533842\rsid12597104\rsid12612420\rsid12661323\rsid12662630\rsid12665893\rsid12665977\rsid12670156
+\rsid12672536\rsid12678175\rsid12678780\rsid12680153\rsid12726644\rsid12737183\rsid12740252\rsid12741777\rsid12793504\rsid12811609\rsid12846105\rsid12854912\rsid12864986\rsid12869911\rsid12872757\rsid12913385\rsid12916506\rsid12926740\rsid12977454
+\rsid12992281\rsid12996526\rsid12998646\rsid13002851\rsid13072198\rsid13107293\rsid13132705\rsid13135126\rsid13176220\rsid13194922\rsid13195566\rsid13264478\rsid13319603\rsid13327622\rsid13329730\rsid13330498\rsid13371237\rsid13375070\rsid13448658
+\rsid13462021\rsid13514085\rsid13521343\rsid13528957\rsid13568559\rsid13572940\rsid13592346\rsid13594537\rsid13639208\rsid13656153\rsid13697725\rsid13704524\rsid13725929\rsid13768760\rsid13777231\rsid13790368\rsid13829804\rsid13831028\rsid13831127
+\rsid13841783\rsid13895501\rsid13905854\rsid13923238\rsid13923290\rsid13961001\rsid13971250\rsid13986887\rsid14027793\rsid14038389\rsid14046046\rsid14050677\rsid14053309\rsid14055837\rsid14161433\rsid14163435\rsid14184708\rsid14245658\rsid14248351
+\rsid14289590\rsid14290495\rsid14290732\rsid14319425\rsid14366769\rsid14376864\rsid14377807\rsid14424092\rsid14441608\rsid14441886\rsid14445512\rsid14485185\rsid14485653\rsid14486700\rsid14491674\rsid14512370\rsid14514640\rsid14568805\rsid14568892
+\rsid14573138\rsid14576249\rsid14621162\rsid14629243\rsid14629943\rsid14634409\rsid14637526\rsid14646707\rsid14646897\rsid14689859\rsid14695313\rsid14753200\rsid14753816\rsid14760043\rsid14762167\rsid14762590\rsid14769368\rsid14813880\rsid14815979
+\rsid14831283\rsid14840708\rsid14881465\rsid14888091\rsid14891236\rsid14893619\rsid14894459\rsid14906845\rsid14946069\rsid14947964\rsid14961201\rsid14972387\rsid15020888\rsid15023843\rsid15030366\rsid15073423\rsid15076033\rsid15088691\rsid15141889
+\rsid15148898\rsid15153834\rsid15154177\rsid15157843\rsid15170464\rsid15170835\rsid15210683\rsid15221071\rsid15275198\rsid15286864\rsid15469969\rsid15470789\rsid15483159\rsid15537812\rsid15544114\rsid15547166\rsid15548653\rsid15555102\rsid15562310
+\rsid15599848\rsid15603255\rsid15621665\rsid15691320\rsid15728886\rsid15746502\rsid15751069\rsid15801354\rsid15818519\rsid15873031\rsid15875165\rsid15891124\rsid15927281\rsid15933378\rsid15945057\rsid15992416\rsid16000626\rsid16008245\rsid16010788
+\rsid16070144\rsid16070239\rsid16125404\rsid16127486\rsid16129227\rsid16135242\rsid16135364\rsid16143940\rsid16198335\rsid16204104\rsid16266834\rsid16268728\rsid16284283\rsid16323022\rsid16393583\rsid16408645\rsid16459456\rsid16466674\rsid16470357
+\rsid16475548\rsid16516219\rsid16522132\rsid16533586\rsid16534881\rsid16540605\rsid16601095\rsid16601983\rsid16658530\rsid16661153\rsid16720094\rsid16729350\rsid16742059}{\*\generator Microsoft Word 11.0.0000;}{\info{\title www}{\author lenovo}
+{\operator lenovo}{\creatim\yr2012\mo4\dy25\hr10\min1}{\revtim\yr2012\mo4\dy25\hr10\min1}{\version2}{\edmins1}{\nofpages27}{\nofwords8220}{\nofchars46860}{\*\company HUST}{\nofcharsws54971}{\vern24615}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 http://sc
+hemas.microsoft.com/office/word/2003/wordml}}\paperw11906\paperh16838\margl1753\margr1753\margt1440\margb1440\gutter0\ltrsect 
+\deftab420\ftnbj\aenddoc\donotembedsysfont0\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\formshade\horzdoc\dgmargin\dghspace180\dgvspace156\dghorigin1701\dgvorigin1984\dghshow0
+\dgvshow2\jcompress\lnongrid\viewkind4\viewscale100\splytwnine\ftnlytwnine\htmautsp\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\rsidroot11617095\newtblstyruls\nogrowautofit 
+{\*\fchars 
+!),.:\'3b?]\'7d\'a1\'a7\'a1\'a4\'a1\'a6\'a1\'a5\'a8\'44\'a1\'ac\'a1\'af\'a1\'b1\'a1\'ad\'a1\'c3\'a1\'a2\'a1\'a3\'a1\'a8\'a1\'a9\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bf\'a1\'b3\'a1\'bd\'a3\'a1\'a3\'a2\'a3\'a7\'a3\'a9\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'dd\'a3\'e0\'a3\'fc\'a3\'fd\'a1\'ab\'a1\'e9
+}{\*\lchars ([\'7b\'a1\'a4\'a1\'ae\'a1\'b0\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'be\'a1\'b2\'a1\'bc\'a3\'a8\'a3\'ae\'a3\'db\'a3\'fb\'a1\'ea\'a3\'a4}\fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup0\ltrpar \sectd \ltrsect
+\linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid3236848\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl3
+\pndec\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta \dbch )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb \dbch (}{\pntxta \dbch )}}\pard\plain \ltrpar\s15\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3236848 \rtlch\fcs1 \af2\afs21\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af13\hich\af2\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid10162515\charrsid10162515 \hich\af13\dbch\af13\loch\f13 http://www.cs.ucsb.edu/~cs160/machines/lex-docs.txt
+
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13                      Lex - A Lexical Analyzer Generator
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13                           M. E. Lesk and E. Schmidt
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13                                   ABSTRACT
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13        Lex helps write programs whose contr\hich\af13\dbch\af13\loch\f13 ol flow is  directed  by
+\par \hich\af13\dbch\af13\loch\f13   instances of regular expressions in the input stream.  It is well
+\par \hich\af13\dbch\af13\loch\f13   suited for editor-script type transformations and for  segmenting
+\par \hich\af13\dbch\af13\loch\f13   input in preparation for a parsing routine.
+\par 
+\par \hich\af13\dbch\af13\loch\f13        Lex source is a table of regular expressi\hich\af13\dbch\af13\loch\f13 ons and correspond-
+\par \hich\af13\dbch\af13\loch\f13   ing  program  fragments.   The  table  is translated to a program
+\par \hich\af13\dbch\af13\loch\f13   which reads an input stream, copying it to an output  stream  and
+\par \hich\af13\dbch\af13\loch\f13   partitioning the input into strings which match the given expres-
+\par \hich\af13\dbch\af13\loch\f13   sions.  As each such string is\hich\af13\dbch\af13\loch\f13  recognized the corresponding  pro-
+\par \hich\af13\dbch\af13\loch\f13   gram fragment is executed.  The recognition of the expressions is
+\par \hich\af13\dbch\af13\loch\f13   performed by a deterministic finite automaton generated  by  Lex.
+\par \hich\af13\dbch\af13\loch\f13   The  program  fragments  written  by the user are executed in the
+\par \hich\af13\dbch\af13\loch\f13   order in which\hich\af13\dbch\af13\loch\f13  the corresponding regular expressions occur in the
+\par \hich\af13\dbch\af13\loch\f13   input stream.
+\par 
+\par \hich\af13\dbch\af13\loch\f13        The lexical analysis programs written with Lex accept  ambi-
+\par \hich\af13\dbch\af13\loch\f13   guous  specifications  and  choose  the longest match possible at
+\par \hich\af13\dbch\af13\loch\f13   each input point.  If necessary, substantial  loo\hich\af13\dbch\af13\loch\f13 kahead  is  per-
+\par \hich\af13\dbch\af13\loch\f13   formed  on  the  input, but the input stream will be backed up to
+\par \hich\af13\dbch\af13\loch\f13   the end of the current partition, so that the  user  has  general
+\par \hich\af13\dbch\af13\loch\f13   freedom to manipulate it.
+\par 
+\par \hich\af13\dbch\af13\loch\f13        Lex can generate analyzers in either C or Ratfor, a language
+\par \hich\af13\dbch\af13\loch\f13   whic\hich\af13\dbch\af13\loch\f13 h can be translated automatically to portable Fortran.  It is
+\par \hich\af13\dbch\af13\loch\f13   available on the PDP-11 UNIX, Honeywell GCOS, and IBM OS systems.
+\par \hich\af13\dbch\af13\loch\f13   This manual, however, will only discuss generating analyzers in C
+\par \hich\af13\dbch\af13\loch\f13   on the UNIX system, which is the only supported form of \hich\af13\dbch\af13\loch\f13 Lex under
+\par \hich\af13\dbch\af13\loch\f13   UNIX  Version  7.   Lex  is designed to simplify interfacing with
+\par \hich\af13\dbch\af13\loch\f13   Yacc, for those with access to this compiler-compiler system.
+\par 
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1.  Introduction.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Lex is a program generator designed for lexical processing of
+\par \hich\af13\dbch\af13\loch\f13 character input streams. \hich\af13\dbch\af13\loch\f13  It accepts a high-level, problem
+\par \hich\af13\dbch\af13\loch\f13 oriented specification for character string matching, and produces
+\par \hich\af13\dbch\af13\loch\f13 a program in a general purpose language which recognizes regular
+\par \hich\af13\dbch\af13\loch\f13 expressions.  The regular expressions are specified by the user in
+\par \hich\af13\dbch\af13\loch\f13 the source specificatio\hich\af13\dbch\af13\loch\f13 ns given to Lex.  The Lex written code
+\par \hich\af13\dbch\af13\loch\f13 recognizes these expressions in an input stream and partitions the
+\par \hich\af13\dbch\af13\loch\f13 input stream into strings matching the expressions.  At the
+\par \hich\af13\dbch\af13\loch\f13 boundaries between strings program sections provided by the user
+\par \hich\af13\dbch\af13\loch\f13 are executed.  The Lex so\hich\af13\dbch\af13\loch\f13 urce file associates the regular
+\par \hich\af13\dbch\af13\loch\f13 expressions and the program fragments.  As each expression appears
+\par \hich\af13\dbch\af13\loch\f13 in the input to the program written by Lex, the corresponding
+\par \hich\af13\dbch\af13\loch\f13 fragment is executed.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The user supplies the additional code beyond expression
+\par \hich\af13\dbch\af13\loch\f13 matching n\hich\af13\dbch\af13\loch\f13 eeded to complete his tasks, possibly including code
+\par \hich\af13\dbch\af13\loch\f13 written by other generators.  The program that recognizes the
+\par \hich\af13\dbch\af13\loch\f13 expressions is generated in the general purpose programming
+\par \hich\af13\dbch\af13\loch\f13 language employed for the user's program fragments.  Thus, a high
+\par \hich\af13\dbch\af13\loch\f13 level expressio\hich\af13\dbch\af13\loch\f13 n language is provided to write the string
+\par \hich\af13\dbch\af13\loch\f13 expressions to be matched while the user's freedom to write
+\par \hich\af13\dbch\af13\loch\f13 actions is unimpaired.  This avoids forcing the user who wishes to
+\par \hich\af13\dbch\af13\loch\f13 use a string manipulation language for input analysis to write
+\par \hich\af13\dbch\af13\loch\f13 processing programs in \hich\af13\dbch\af13\loch\f13 the same and often inappropriate string
+\par \hich\af13\dbch\af13\loch\f13 handling language.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Lex is not a complete language, but rather a generator
+\par \hich\af13\dbch\af13\loch\f13 representing a new language feature which can be added to
+\par \hich\af13\dbch\af13\loch\f13 different programming languages, called ``host languages.'' Just
+\par \hich\af13\dbch\af13\loch\f13 as general pu\hich\af13\dbch\af13\loch\f13 rpose languages can produce code to run on different
+\par \hich\af13\dbch\af13\loch\f13 computer hardware, Lex can write code in different host languages.
+\par \hich\af13\dbch\af13\loch\f13 The host language is used for the output code generated by Lex and
+\par \hich\af13\dbch\af13\loch\f13 also for the program fragments added by the user.  Compatible
+\par \hich\af13\dbch\af13\loch\f13 run-tim\hich\af13\dbch\af13\loch\f13 e libraries for the different host languages are also
+\par \hich\af13\dbch\af13\loch\f13 provided.  This makes Lex adaptable to different environments and
+\par \hich\af13\dbch\af13\loch\f13 different users.  Each application may be directed to the
+\par \hich\af13\dbch\af13\loch\f13 combination of hardware and host language appropriate to the task,
+\par \hich\af13\dbch\af13\loch\f13 the user's \hich\af13\dbch\af13\loch\f13 background, and the properties of local implementa-
+\par \hich\af13\dbch\af13\loch\f13 tions.  At present, the only supported host language is C,
+\par \hich\af13\dbch\af13\loch\f13 although Fortran (in the form of Ratfor [2] has been available in
+\par \hich\af13\dbch\af13\loch\f13 the past.  Lex itself exists on UNIX, GCOS, and OS/370; but the
+\par \hich\af13\dbch\af13\loch\f13 code generated \hich\af13\dbch\af13\loch\f13 by Lex may be taken anywhere the appropriate
+\par \hich\af13\dbch\af13\loch\f13 compilers exist.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Lex turns the user's expressions and actions (called source
+\par \hich\af13\dbch\af13\loch\f13 in this memo) into the host general-purpose language; the
+\par \hich\af13\dbch\af13\loch\f13 generated program is named yylex.  The yylex program will
+\par \hich\af13\dbch\af13\loch\f13 recognize ex\hich\af13\dbch\af13\loch\f13 pressions in a stream (called input in this memo) and
+\par \hich\af13\dbch\af13\loch\f13 perform the specified actions for each expression as it is
+\par \hich\af13\dbch\af13\loch\f13 detected.  See Figure 1.
+\par \hich\af13\dbch\af13\loch\f13                                   +-------+
+\par \hich\af13\dbch\af13\loch\f13                         Source -> |  Lex  |  -> yylex
+\par \hich\af13\dbch\af13\loch\f13                     \hich\af13\dbch\af13\loch\f13               +-------+
+\par 
+\par \hich\af13\dbch\af13\loch\f13                                   +-------+
+\par \hich\af13\dbch\af13\loch\f13                         Input ->  | yylex | -> Output
+\par \hich\af13\dbch\af13\loch\f13                                   +-------+
+\par 
+\par \hich\af13\dbch\af13\loch\f13                              An overview of Lex
+\par \hich\af13\dbch\af13\loch\f13                                   Figure\hich\af13\dbch\af13\loch\f13  1
+\par 
+\par \hich\af13\dbch\af13\loch\f13      For a trivial example, consider a program to delete from the
+\par \hich\af13\dbch\af13\loch\f13 input all blanks or tabs at the ends of lines.
+\par \hich\af13\dbch\af13\loch\f13                                  %%
+\par \hich\af13\dbch\af13\loch\f13                                  [ \\t]+$   ;
+\par \hich\af13\dbch\af13\loch\f13 is all that is required.  The program contains a %% delimi\hich\af13\dbch\af13\loch\f13 ter to
+\par \hich\af13\dbch\af13\loch\f13 mark the beginning of the rules, and one rule.  This rule contains
+\par \hich\af13\dbch\af13\loch\f13 a regular expression which matches one or more instances of the
+\par \hich\af13\dbch\af13\loch\f13 characters blank or tab (written \\t for visibility, in accordance
+\par \hich\af13\dbch\af13\loch\f13 with the C language convention) just prior to the en\hich\af13\dbch\af13\loch\f13 d of a line.
+\par \hich\af13\dbch\af13\loch\f13 The brackets indicate the character class made of blank and tab;
+\par \hich\af13\dbch\af13\loch\f13 the + indicates ``one or more ...''; and the $ indicates ``end
+\par \hich\af13\dbch\af13\loch\f13 of line,'' as in QED.  No action is specified, so the program
+\par \hich\af13\dbch\af13\loch\f13 generated by Lex (yylex) will ignore these characters\hich\af13\dbch\af13\loch\f13 .  Everything
+\par \hich\af13\dbch\af13\loch\f13 else will be copied.  To change any remaining string of blanks or
+\par \hich\af13\dbch\af13\loch\f13 tabs to a single blank, add another rule:
+\par \hich\af13\dbch\af13\loch\f13                            %%
+\par \hich\af13\dbch\af13\loch\f13                            [ \\t]+$   ;
+\par \hich\af13\dbch\af13\loch\f13                            [ \\t]+    printf(" ");
+\par \hich\af13\dbch\af13\loch\f13 The finite auto\hich\af13\dbch\af13\loch\f13 maton generated for this source will scan for both
+\par \hich\af13\dbch\af13\loch\f13 rules at once, observing at the termination of the string of
+\par \hich\af13\dbch\af13\loch\f13 blanks or tabs whether or not there is a newline character, and
+\par \hich\af13\dbch\af13\loch\f13 executing the desired rule action.  The first rule matches all
+\par \hich\af13\dbch\af13\loch\f13 strings of blanks\hich\af13\dbch\af13\loch\f13  or tabs at the end of lines, and the second rule
+\par \hich\af13\dbch\af13\loch\f13 all remaining strings of blanks or tabs.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Lex can be used alone for simple transformations, or for
+\par \hich\af13\dbch\af13\loch\f13 analysis and statistics gathering on a lexical level.  Lex can
+\par \hich\af13\dbch\af13\loch\f13 also be used with a parser generator to\hich\af13\dbch\af13\loch\f13  perform the lexical
+\par \hich\af13\dbch\af13\loch\f13 analysis phase; it is particularly easy to interface Lex and Yacc
+\par \hich\af13\dbch\af13\loch\f13 [3].  Lex programs recognize only regular expressions; Yacc writes
+\par \hich\af13\dbch\af13\loch\f13 parsers that accept a large class of context free grammars, but
+\par \hich\af13\dbch\af13\loch\f13 require a lower level analyzer to reco\hich\af13\dbch\af13\loch\f13 gnize input tokens.  Thus, a
+\par \hich\af13\dbch\af13\loch\f13 combination of Lex and Yacc is often appropriate.  When used as
+\par \hich\af13\dbch\af13\loch\f13 a preprocessor for a later parser generator, Lex is used to
+\par \hich\af13\dbch\af13\loch\f13 partition the input stream, and the parser generator assigns
+\par \hich\af13\dbch\af13\loch\f13 structure to the resulting pieces.  The fl\hich\af13\dbch\af13\loch\f13 ow of control in such
+\par \hich\af13\dbch\af13\loch\f13 a case (which might be the first half of a compiler, for exam-
+\par \hich\af13\dbch\af13\loch\f13 ple) is shown in Figure 2.  Additional programs, written by other
+\par \hich\af13\dbch\af13\loch\f13 generators or by hand, can be added easily to programs written by
+\par \hich\af13\dbch\af13\loch\f13 Lex.
+\par \hich\af13\dbch\af13\loch\f13                         lexical   \hich\af13\dbch\af13\loch\f13      grammar
+\par \hich\af13\dbch\af13\loch\f13                          rules          rules
+\par \hich\af13\dbch\af13\loch\f13                            |              |
+\par \hich\af13\dbch\af13\loch\f13                            v              v
+\par \hich\af13\dbch\af13\loch\f13                       +---------+    +---------+
+\par \hich\af13\dbch\af13\loch\f13                       |   Lex   |    |  Yacc   |
+\par \hich\af13\dbch\af13\loch\f13            \hich\af13\dbch\af13\loch\f13            +---------+    +---------+
+\par \hich\af13\dbch\af13\loch\f13                            |              |
+\par \hich\af13\dbch\af13\loch\f13                            v              v
+\par \hich\af13\dbch\af13\loch\f13                       +---------+    +---------+
+\par \hich\af13\dbch\af13\loch\f13              Input -> |  yylex  | -> | yyparse | -> Parsed input
+\par \hich\af13\dbch\af13\loch\f13                 \hich\af13\dbch\af13\loch\f13       +---------+    +---------+
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13                             Lex with Yacc
+\par \hich\af13\dbch\af13\loch\f13                                Figure 2
+\par \hich\af13\dbch\af13\loch\f13 Yacc users will realize that the name yylex is what Yacc expects
+\par \hich\af13\dbch\af13\loch\f13 its lexical analyzer to be named, so that the use of this name by
+\par \hich\af13\dbch\af13\loch\f13 Lex simp\ltrpar \hich\af13\dbch\af13\loch\f13 lifies interfacing.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Lex generates a deterministic finite automaton from the
+\par \hich\af13\dbch\af13\loch\f13 regular expressions in the source [4].  The automaton is
+\par \hich\af13\dbch\af13\loch\f13 interpreted, rather than compiled, in order to save space.  The
+\par \hich\af13\dbch\af13\loch\f13 result is still a fast analyzer.  In particular, the \hich\af13\dbch\af13\loch\f13 time taken by
+\par \hich\af13\dbch\af13\loch\f13 a Lex program to recognize and partition an input stream is
+\par \hich\af13\dbch\af13\loch\f13 proportional to the length of the input.  The number of Lex rules
+\par \hich\af13\dbch\af13\loch\f13 or the complexity of the rules is not important in determining
+\par \hich\af13\dbch\af13\loch\f13 speed, unless rules which include forward context req\hich\af13\dbch\af13\loch\f13 uire a
+\par \hich\af13\dbch\af13\loch\f13 significant amount of rescanning.  What does increase with the
+\par \hich\af13\dbch\af13\loch\f13 number and complexity of rules is the size of the finite
+\par \hich\af13\dbch\af13\loch\f13 automaton, and therefore the size of the program generated by Lex.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In the program written by Lex, the user's fragments
+\par \hich\af13\dbch\af13\loch\f13 (rep\hich\af13\dbch\af13\loch\f13 resenting the actions to be performed as each regular
+\par \hich\af13\dbch\af13\loch\f13 expression is found) are gathered as cases of a switch.  The
+\par \hich\af13\dbch\af13\loch\f13 automaton interpreter directs the control flow.  Opportunity is
+\par \hich\af13\dbch\af13\loch\f13 provided for the user to insert either declarations or addi-
+\par \hich\af13\dbch\af13\loch\f13 tional statement\hich\af13\dbch\af13\loch\f13 s in the routine containing the actions, or to add
+\par \hich\af13\dbch\af13\loch\f13 subroutines outside this action routine.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Lex is not limited to source which can be interpreted on the
+\par \hich\af13\dbch\af13\loch\f13 basis of one character lookahead.  For example, if there are two
+\par \hich\af13\dbch\af13\loch\f13 rules, one looking for ab and an\hich\af13\dbch\af13\loch\f13 other for abcdefg, and the input
+\par \hich\af13\dbch\af13\loch\f13 stream is abcdefh, Lex will recognize ab and leave the input
+\par \hich\af13\dbch\af13\loch\f13 pointer just before cd. . .  Such backup is more costly than the
+\par \hich\af13\dbch\af13\loch\f13 processing of simpler languages.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2.  Lex Source.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The general format of Lex source is:
+\par \hich\af13\dbch\af13\loch\f13     \hich\af13\dbch\af13\loch\f13                          \{definitions\}
+\par \hich\af13\dbch\af13\loch\f13                              %%
+\par \hich\af13\dbch\af13\loch\f13                              \{rules\}
+\par \hich\af13\dbch\af13\loch\f13                              %%
+\par \hich\af13\dbch\af13\loch\f13                              \{user subroutines\}
+\par \hich\af13\dbch\af13\loch\f13 where the definitions and the user subroutines are often omitted.
+\par \hich\af13\dbch\af13\loch\f13 Th\hich\af13\dbch\af13\loch\f13 e second %% is optional, but the first is required to mark the
+\par \hich\af13\dbch\af13\loch\f13 beginning of the rules.  The absolute minimum Lex program is thus
+\par \hich\af13\dbch\af13\loch\f13                                      %%
+\par \hich\af13\dbch\af13\loch\f13 (no definitions, no rules) which translates into a program which
+\par \hich\af13\dbch\af13\loch\f13 copies the input to th\hich\af13\dbch\af13\loch\f13 e output unchanged.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In the outline of Lex programs shown above, the rules
+\par \hich\af13\dbch\af13\loch\f13 represent the user's control decisions; they are a table, in which
+\par \hich\af13\dbch\af13\loch\f13 the left column contains regular expressions (see section 3) and
+\par \hich\af13\dbch\af13\loch\f13 the right column contains actions, program f\hich\af13\dbch\af13\loch\f13 ragments to be
+\par \hich\af13\dbch\af13\loch\f13 executed when the expressions are recognized.  Thus an individual
+\par \hich\af13\dbch\af13\loch\f13 rule might appear
+\par \hich\af13\dbch\af13\loch\f13                    integer   printf("found keyword INT");
+\par \hich\af13\dbch\af13\loch\f13 to look for the string integer in the input stream and print the
+\par \hich\af13\dbch\af13\loch\f13 message ``found keyword INT'' when\hich\af13\dbch\af13\loch\f13 ever it appears.  In this
+\par \hich\af13\dbch\af13\loch\f13 example the host procedural language is C and the C library
+\par \hich\af13\dbch\af13\loch\f13 function printf is used to print the string.  The end of the
+\par \hich\af13\dbch\af13\loch\f13 expression is indicated by the first blank or tab character.  If
+\par \hich\af13\dbch\af13\loch\f13 the action is merely a single C expression, \hich\af13\dbch\af13\loch\f13 it can just be given
+\par \hich\af13\dbch\af13\loch\f13 on the right side of the line; if it is compound, or takes more
+\par \hich\af13\dbch\af13\loch\f13 than a line, it should be enclosed in braces.  As a slightly more
+\par \hich\af13\dbch\af13\loch\f13 useful example, suppose it is desired to change a number of words
+\par \hich\af13\dbch\af13\loch\f13 from British to American spelling.  Lex\hich\af13\dbch\af13\loch\f13  rules such as
+\par \hich\af13\dbch\af13\loch\f13                       colour      printf("color");
+\par \hich\af13\dbch\af13\loch\f13                       mechanise   printf("mechanize");
+\par \hich\af13\dbch\af13\loch\f13                       petrol      printf("gas");
+\par \hich\af13\dbch\af13\loch\f13 would be a start.  These rules are not quite enough, since the
+\par \hich\af13\dbch\af13\loch\f13 word petroleum would be\hich\af13\dbch\af13\loch\f13 come gaseum; a way of dealing with this
+\par \hich\af13\dbch\af13\loch\f13 will be described later.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 3.  Lex Regular Expressions.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The definitions of regular expressions are very similar to
+\par \hich\af13\dbch\af13\loch\f13 those in QED [5].  A regular expression specifies a set of strings
+\par \hich\af13\dbch\af13\loch\f13 to be matched.  It contains t\hich\af13\dbch\af13\loch\f13 ext characters (which match the
+\par \hich\af13\dbch\af13\loch\f13 corresponding characters in the strings being compared) and
+\par \hich\af13\dbch\af13\loch\f13 operator characters (which specify repetitions, choices, and other
+\par \hich\af13\dbch\af13\loch\f13 features).  The letters of the alphabet and the digits are always
+\par \hich\af13\dbch\af13\loch\f13 text characters; thus the regul\hich\af13\dbch\af13\loch\f13 ar expression
+\par \hich\af13\dbch\af13\loch\f13                                  integer
+\par \hich\af13\dbch\af13\loch\f13 matches the string integer wherever it appears and the expression
+\par \hich\af13\dbch\af13\loch\f13                                     a57D
+\par \hich\af13\dbch\af13\loch\f13 looks for the string a57D.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Operators.  The operator characters are
+\par \hich\af13\dbch\af13\loch\f13                    " \\\hich\af13\dbch\af13\loch\f13  [ ] ^ - ? . * + | ( ) $ / \{ \} % < >
+\par \hich\af13\dbch\af13\loch\f13 and if they are to be used as text characters, an escape should be
+\par \hich\af13\dbch\af13\loch\f13 used.  The quotation mark operator (") indicates that whatever is
+\par \hich\af13\dbch\af13\loch\f13 contained between a pair of quotes is to be taken as text
+\par \hich\af13\dbch\af13\loch\f13 characters.  Thus
+\par \hich\af13\dbch\af13\loch\f13          \hich\af13\dbch\af13\loch\f13                           xyz"++"
+\par \hich\af13\dbch\af13\loch\f13 matches the string xyz++ when it appears.  Note that a part of a
+\par \hich\af13\dbch\af13\loch\f13 string may be quoted.  It is harmless but unnecessary to quote an
+\par \hich\af13\dbch\af13\loch\f13 ordinary text character; the expression
+\par \hich\af13\dbch\af13\loch\f13                                    "xyz++"
+\par \hich\af13\dbch\af13\loch\f13 is the s\hich\af13\dbch\af13\loch\f13 ame as the one above.  Thus by quoting every
+\par \hich\af13\dbch\af13\loch\f13 non-alphanumeric character being used as a text character, the
+\par \hich\af13\dbch\af13\loch\f13 user can avoid remembering the list above of current operator
+\par \hich\af13\dbch\af13\loch\f13 characters, and is safe should further extensions to Lex lengthen
+\par \hich\af13\dbch\af13\loch\f13 the list.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      An o\hich\af13\dbch\af13\loch\f13 perator character may also be turned into a text
+\par \hich\af13\dbch\af13\loch\f13 character by preceding it with \\ as in
+\par \hich\af13\dbch\af13\loch\f13                                    xyz\\+\\+
+\par \hich\af13\dbch\af13\loch\f13 which is another, less readable, equivalent of the above
+\par \hich\af13\dbch\af13\loch\f13 expressions.  Another use of the quoting mechanism is to get a
+\par \hich\af13\dbch\af13\loch\f13 blank\hich\af13\dbch\af13\loch\f13  into an expression; normally, as explained above, blanks or
+\par \hich\af13\dbch\af13\loch\f13 tabs end a rule.  Any blank character not contained within [] (see
+\par \hich\af13\dbch\af13\loch\f13 below) must be quoted.  Several normal C escapes with \\ are
+\par \hich\af13\dbch\af13\loch\f13 recognized: \\n is newline, \\t is tab, and \\b is backspace.  To
+\par \hich\af13\dbch\af13\loch\f13 enter\hich\af13\dbch\af13\loch\f13  \\ itself, use \\\\.  Since newline is illegal in an
+\par \hich\af13\dbch\af13\loch\f13 expression, \\n must be used; it is not required to escape tab and
+\par \hich\af13\dbch\af13\loch\f13 backspace.  Every character but blank, tab, newline and the list
+\par \hich\af13\dbch\af13\loch\f13 above is always a text character.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Character classes.  Classes of cha\hich\af13\dbch\af13\loch\f13 racters can be specified
+\par \hich\af13\dbch\af13\loch\f13 using the operator pair [].  The construction [abc] matches a
+\par \hich\af13\dbch\af13\loch\f13 single character, which may be a, b, or c.  Within square
+\par \hich\af13\dbch\af13\loch\f13 brackets, most operator meanings are ignored.  Only three
+\par \hich\af13\dbch\af13\loch\f13 characters are special: these are \\ - and ^.  The - c\hich\af13\dbch\af13\loch\f13 haracter
+\par \hich\af13\dbch\af13\loch\f13 indicates ranges.  For example,
+\par \hich\af13\dbch\af13\loch\f13                                  [a-z0-9<>_]
+\par \hich\af13\dbch\af13\loch\f13 indicates the character class containing all the lower case
+\par \hich\af13\dbch\af13\loch\f13 letters, the digits, the angle brackets, and underline.  Ranges
+\par \hich\af13\dbch\af13\loch\f13 may be given in either order.  Using - between\hich\af13\dbch\af13\loch\f13  any pair of
+\par \hich\af13\dbch\af13\loch\f13 characters which are not both upper case letters, both lower case
+\par \hich\af13\dbch\af13\loch\f13 letters, or both digits is implementation dependent and will get a
+\par \hich\af13\dbch\af13\loch\f13 warning message.  (E.g., [0-z] in ASCII is many more characters
+\par \hich\af13\dbch\af13\loch\f13 than it is in EBCDIC).  If it is desired to in\hich\af13\dbch\af13\loch\f13 clude the character
+\par \hich\af13\dbch\af13\loch\f13 - in a character class, it should be first or last; thus
+\par \hich\af13\dbch\af13\loch\f13                                    [-+0-9]
+\par \hich\af13\dbch\af13\loch\f13 matches all the digits and the two signs.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In character classes, the ^ operator must appear as the first
+\par \hich\af13\dbch\af13\loch\f13 character after the left b\hich\af13\dbch\af13\loch\f13 racket; it indicates that the resulting
+\par \hich\af13\dbch\af13\loch\f13 string is to be complemented with respect to the computer
+\par \hich\af13\dbch\af13\loch\f13 character set.  Thus
+\par \hich\af13\dbch\af13\loch\f13                                    [^abc]
+\par \hich\af13\dbch\af13\loch\f13 matches all characters except a, b, or c, including all special or
+\par \hich\af13\dbch\af13\loch\f13 control characters; or
+\par \hich\af13\dbch\af13\loch\f13      \hich\af13\dbch\af13\loch\f13                              [^a-zA-Z]
+\par \hich\af13\dbch\af13\loch\f13 is any character which is not a letter.  The \\ character provides
+\par \hich\af13\dbch\af13\loch\f13 the usual escapes within character class brackets.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Arbitrary character.  To match almost any character, the
+\par \hich\af13\dbch\af13\loch\f13 operator character
+\par \hich\af13\dbch\af13\loch\f13                   \hich\af13\dbch\af13\loch\f13                     .
+\par \hich\af13\dbch\af13\loch\f13 is the class of all characters except newline.  Escaping into
+\par \hich\af13\dbch\af13\loch\f13 octal is possible although non-portable:
+\par \hich\af13\dbch\af13\loch\f13                                  [\\40-\\176]
+\par \hich\af13\dbch\af13\loch\f13 matches all printable characters in the ASCII character set, from
+\par \hich\af13\dbch\af13\loch\f13 octal 40 (blank) to o\hich\af13\dbch\af13\loch\f13 ctal 176 (tilde).
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Optional expressions.  The operator ?  indicates an optional
+\par \hich\af13\dbch\af13\loch\f13 element of an expression.  Thus
+\par \hich\af13\dbch\af13\loch\f13                                     ab?c
+\par \hich\af13\dbch\af13\loch\f13 matches either ac or abc.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Repeated expressions.  Repetitions of classes are indicated
+\par \hich\af13\dbch\af13\loch\f13 by the\hich\af13\dbch\af13\loch\f13  operators * and +.
+\par \hich\af13\dbch\af13\loch\f13                                      a*
+\par \hich\af13\dbch\af13\loch\f13 is any number of consecutive a characters, including zero; while
+\par \hich\af13\dbch\af13\loch\f13                                      a+
+\par \hich\af13\dbch\af13\loch\f13 is one or more instances of a.  For example,
+\par \hich\af13\dbch\af13\loch\f13                                    [a-z]+
+\par \hich\af13\dbch\af13\loch\f13 is a\hich\af13\dbch\af13\loch\f13 ll strings of lower case letters.  }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid10162515\charrsid11232819 \hich\af13\dbch\af13\loch\f13 And
+\par \hich\af13\dbch\af13\loch\f13                             [A-Za-z][A-Za-z0-9]*
+\par }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid10162515\charrsid10162515 \hich\af13\dbch\af13\loch\f13 indicates all alphanumeric strings with a leading alphabetic
+\par \hich\af13\dbch\af13\loch\f13 character.  This is a typical expression for recognizing
+\par \hich\af13\dbch\af13\loch\f13 identifiers in computer languages.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Alternati\ltrpar \hich\af13\dbch\af13\loch\f13 on and Grouping.  The operator | indicates
+\par \hich\af13\dbch\af13\loch\f13 alternation:
+\par \hich\af13\dbch\af13\loch\f13                                    (ab|cd)
+\par \hich\af13\dbch\af13\loch\f13 matches either ab or cd.  Note that parentheses are used for
+\par \hich\af13\dbch\af13\loch\f13 grouping, although they are not necessary on the outside level;
+\par \hich\af13\dbch\af13\loch\f13                                 \hich\af13\dbch\af13\loch\f13     ab|cd
+\par \hich\af13\dbch\af13\loch\f13 would have sufficed.  Parentheses can be used for more complex
+\par \hich\af13\dbch\af13\loch\f13 expressions:
+\par \hich\af13\dbch\af13\loch\f13                                (ab|cd+)?(ef)*
+\par \hich\af13\dbch\af13\loch\f13 matches such strings as abefef, efefef, cdef, or cddd; but not
+\par \hich\af13\dbch\af13\loch\f13 abc, abcd, or abcdef.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Context sensitivity.  Lex will re\hich\af13\dbch\af13\loch\f13 cognize a small amount of
+\par \hich\af13\dbch\af13\loch\f13 surrounding context.  The two simplest operators for this are ^
+\par \hich\af13\dbch\af13\loch\f13 and $.  If the first character of an expression is ^, the
+\par \hich\af13\dbch\af13\loch\f13 expression will only be matched at the beginning of a line (after
+\par \hich\af13\dbch\af13\loch\f13 a newline character, or at the beginning o\hich\af13\dbch\af13\loch\f13 f the input stream).
+\par \hich\af13\dbch\af13\loch\f13 This can never conflict with the other meaning of ^, comple-
+\par \hich\af13\dbch\af13\loch\f13 mentation of character classes, since that only applies within the
+\par \hich\af13\dbch\af13\loch\f13 [] operators.  If the very last character is $, the expression
+\par \hich\af13\dbch\af13\loch\f13 will only be matched at the end of a line (w\hich\af13\dbch\af13\loch\f13 hen immediately
+\par \hich\af13\dbch\af13\loch\f13 followed by newline).  The latter operator is a special case of
+\par \hich\af13\dbch\af13\loch\f13 the / operator character, which indicates trailing context.  The
+\par \hich\af13\dbch\af13\loch\f13 expression
+\par \hich\af13\dbch\af13\loch\f13                                     ab/cd
+\par \hich\af13\dbch\af13\loch\f13 matches the string ab, but only if followed by cd.  Thus
+\par \hich\af13\dbch\af13\loch\f13  \hich\af13\dbch\af13\loch\f13                                     ab$
+\par \hich\af13\dbch\af13\loch\f13 is the same as
+\par \hich\af13\dbch\af13\loch\f13                                     ab/\\n
+\par \hich\af13\dbch\af13\loch\f13 Left context is handled in Lex by start conditions as explained in
+\par \hich\af13\dbch\af13\loch\f13 section 10.  If a rule is only to be executed when the Lex
+\par \hich\af13\dbch\af13\loch\f13 automaton interpreter is in start\hich\af13\dbch\af13\loch\f13  condition x, the rule should be
+\par \hich\af13\dbch\af13\loch\f13 prefixed by
+\par \hich\af13\dbch\af13\loch\f13                                      <x>
+\par \hich\af13\dbch\af13\loch\f13 using the angle bracket operator characters.  If we considered
+\par \hich\af13\dbch\af13\loch\f13 ``being at the beginning of a line'' to be start condition ONE,
+\par \hich\af13\dbch\af13\loch\f13 then the ^ operator would be equivalent to
+\par \hich\af13\dbch\af13\loch\f13                                     <ONE>
+\par \hich\af13\dbch\af13\loch\f13 Start conditions are explained more fully later.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Repetitions and Definitions.  The operators \{\} specify either
+\par \hich\af13\dbch\af13\loch\f13 repetitions (if they enclose numbers) or definition expansion
+\par \hich\af13\dbch\af13\loch\f13 (if they enclose a name).  For exam\hich\af13\dbch\af13\loch\f13 ple
+\par \hich\af13\dbch\af13\loch\f13                                    \{digit\}
+\par \hich\af13\dbch\af13\loch\f13 looks for a predefined string named digit and inserts it at that
+\par \hich\af13\dbch\af13\loch\f13 point in the expression.  The definitions are given in the first
+\par \hich\af13\dbch\af13\loch\f13 part of the Lex input, before the rules.  In contrast,
+\par \hich\af13\dbch\af13\loch\f13                         \hich\af13\dbch\af13\loch\f13            a\{1,5\}
+\par \hich\af13\dbch\af13\loch\f13 looks for 1 to 5 occurrences of a.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Finally, initial % is special, being the separator for Lex
+\par \hich\af13\dbch\af13\loch\f13 source segments.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 4.  Lex Actions.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      When an expression written as above is matched, Lex executes
+\par \hich\af13\dbch\af13\loch\f13 the corresponding action.  This sect\hich\af13\dbch\af13\loch\f13 ion describes some features of
+\par \hich\af13\dbch\af13\loch\f13 Lex which aid in writing actions.  Note that there is a default
+\par \hich\af13\dbch\af13\loch\f13 action, which consists of copying the input to the output.  This
+\par \hich\af13\dbch\af13\loch\f13 is performed on all strings not otherwise matched.  Thus the Lex
+\par \hich\af13\dbch\af13\loch\f13 user who wishes to absorb the e\hich\af13\dbch\af13\loch\f13 ntire input, without producing any
+\par \hich\af13\dbch\af13\loch\f13 output, must provide rules to match everything.  When Lex is being
+\par \hich\af13\dbch\af13\loch\f13 used with Yacc, this is the normal situation.  One may consider
+\par \hich\af13\dbch\af13\loch\f13 that actions are what is done instead of copying the input to the
+\par \hich\af13\dbch\af13\loch\f13 output; thus, in general\hich\af13\dbch\af13\loch\f13 , a rule which merely copies can be
+\par \hich\af13\dbch\af13\loch\f13 omitted.  Also, a character combination which is omitted from
+\par \hich\af13\dbch\af13\loch\f13 the rules and which appears as input is likely to be printed on
+\par \hich\af13\dbch\af13\loch\f13 the output, thus calling attention to the gap in the rules.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      One of the simplest things t\hich\af13\dbch\af13\loch\f13 hat can be done is to ignore the
+\par \hich\af13\dbch\af13\loch\f13 input.  Specifying a C null statement, ; as an action causes this
+\par \hich\af13\dbch\af13\loch\f13 result.  A frequent rule is
+\par \hich\af13\dbch\af13\loch\f13                                  [ \\t\\n]   ;
+\par \hich\af13\dbch\af13\loch\f13 which causes the three spacing characters (blank, tab, and
+\par \hich\af13\dbch\af13\loch\f13 newline) to be ignored.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Another easy way to avoid writing actions is the action
+\par \hich\af13\dbch\af13\loch\f13 character |, which indicates that the action for this rule is the
+\par \hich\af13\dbch\af13\loch\f13 action for the next rule.  The previous example could also have
+\par \hich\af13\dbch\af13\loch\f13 been written
+\par \hich\af13\dbch\af13\loch\f13                                    " "
+\par \hich\af13\dbch\af13\loch\f13              \hich\af13\dbch\af13\loch\f13                       "\\t"
+\par \hich\af13\dbch\af13\loch\f13                                    "\\n"
+\par \hich\af13\dbch\af13\loch\f13 with the same result, although in different style.  The quotes
+\par \hich\af13\dbch\af13\loch\f13 around \\n and \\t are not required.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In more complex actions, the user will often want to know the
+\par \hich\af13\dbch\af13\loch\f13 actual text that matche\hich\af13\dbch\af13\loch\f13 d some expression like [a-z]+.  Lex leaves
+\par \hich\af13\dbch\af13\loch\f13 this text in an external character array named yytext.  Thus, to
+\par \hich\af13\dbch\af13\loch\f13 print the name found, a rule like
+\par \hich\af13\dbch\af13\loch\f13                        [a-z]+   printf("%s", yytext);
+\par \hich\af13\dbch\af13\loch\f13 will print the string in yytext.  The C function printf acce\hich\af13\dbch\af13\loch\f13 pts a
+\par \hich\af13\dbch\af13\loch\f13 format argument and data to be printed; in this case, the format
+\par \hich\af13\dbch\af13\loch\f13 is ``print string'' (% indicating data conversion, and s
+\par \hich\af13\dbch\af13\loch\f13 indicating string type), and the data are the characters in
+\par \hich\af13\dbch\af13\loch\f13 yytext.  So this just places the matched string on the output.
+\par \hich\af13\dbch\af13\loch\f13 This \hich\af13\dbch\af13\loch\f13 action is so common that it may be written as ECHO:
+\par \hich\af13\dbch\af13\loch\f13                                [a-z]+   ECHO;
+\par \hich\af13\dbch\af13\loch\f13 is the same as the above.  Since the default action is just to
+\par \hich\af13\dbch\af13\loch\f13 print the characters found, one might ask why give a rule, like
+\par \hich\af13\dbch\af13\loch\f13 this one, which merely specifie\hich\af13\dbch\af13\loch\f13 s the default action?  Such rules
+\par \hich\af13\dbch\af13\loch\f13 are often required to avoid matching some other rule which is
+\par \hich\af13\dbch\af13\loch\f13 not desired.  For example, if there is a rule which matches read
+\par \hich\af13\dbch\af13\loch\f13 it will normally match the instances of read contained in bread or
+\par \hich\af13\dbch\af13\loch\f13 readjust; to avoid this, a r\hich\af13\dbch\af13\loch\f13 ule of the form [a-z]+ is needed.
+\par \hich\af13\dbch\af13\loch\f13 This is explained further below.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Sometimes it is more convenient to know the end of what has
+\par \hich\af13\dbch\af13\loch\f13 been found; hence Lex also provides a count yyleng of the number
+\par \hich\af13\dbch\af13\loch\f13 of characters matched.  To count both the number of words \hich\af13\dbch\af13\loch\f13 and the
+\par \hich\af13\dbch\af13\loch\f13 number of characters in words in the input, the user might write
+\par \hich\af13\dbch\af13\loch\f13                    [a-zA-Z]+   \{words++; chars += yyleng;\}
+\par \hich\af13\dbch\af13\loch\f13 which accumulates in chars the number of characters in the words
+\par \hich\af13\dbch\af13\loch\f13 recognized.  The last character in the string matched can b\hich\af13\dbch\af13\loch\f13 e
+\par \hich\af13\dbch\af13\loch\f13 accessed by
+\par \hich\af13\dbch\af13\loch\f13                               yytext[yyleng-1]
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Occasionally, a Lex action may decide that a rule has not
+\par \hich\af13\dbch\af13\loch\f13 recognized the correct span of characters.  Two routines are
+\par \hich\af13\dbch\af13\loch\f13 provided to aid with this situation.  First, yymore() can be
+\par \hich\af13\dbch\af13\loch\f13 called to\hich\af13\dbch\af13\loch\f13  indicate that the next input expression recognized is to
+\par \hich\af13\dbch\af13\loch\f13 be tacked on to the end of this input.  Normally, the next input
+\par \hich\af13\dbch\af13\loch\f13 string would overwrite the current entry in yytext.  Second,
+\par \hich\af13\dbch\af13\loch\f13 yyless (n) may be called to indicate that not all the characters
+\par \hich\af13\dbch\af13\loch\f13 matched\hich\af13\dbch\af13\loch\f13  by the currently successful expression are wanted right
+\par \hich\af13\dbch\af13\loch\f13 now.  The argument n indicates the number of characters in yytext
+\par \hich\af13\dbch\af13\loch\f13 to be retained.  Further characters previously matched are
+\par \hich\af13\dbch\af13\loch\f13 returned to the input.  This provides the same sort of lookahead
+\par \hich\af13\dbch\af13\loch\f13 offered b\hich\af13\dbch\af13\loch\f13 y the / operator, but in a different form.
+\par 
+\par \hich\af13\dbch\af13\loch\f13     Example: Consider a language which defines a string as a set
+\par \hich\af13\dbch\af13\loch\f13 of characters between quotation (") marks, and provides that to
+\par \hich\af13\dbch\af13\loch\f13 include a " in a string it must be preceded by a \\.  The regular
+\par \hich\af13\dbch\af13\loch\f13 expression which m\hich\af13\dbch\af13\loch\f13 atches that is somewhat confusing, so that it
+\par \hich\af13\dbch\af13\loch\f13 might be preferable to write
+\par \hich\af13\dbch\af13\loch\f13                   \\"[^"]*   \{
+\par \hich\af13\dbch\af13\loch\f13                             if (yytext[yyleng-1] == '\\\\')
+\par \hich\af13\dbch\af13\loch\f13                                  yymore();
+\par \hich\af13\dbch\af13\loch\f13                             else
+\par \hich\af13\dbch\af13\loch\f13                  \hich\af13\dbch\af13\loch\f13                 ... normal user processing
+\par \hich\af13\dbch\af13\loch\f13                             \}
+\par \hich\af13\dbch\af13\loch\f13 which will, when faced with a string such as "abc\\"def" first
+\par \hich\af13\dbch\af13\loch\f13 match the five characters "abc\\; then the call to yymore() will
+\par \hich\af13\dbch\af13\loch\f13 cause the next part of the string, "def, to be tacked on \hich\af13\dbch\af13\loch\f13 the end.
+\par \hich\af13\dbch\af13\loch\f13 Note that the final quote terminating the string should be picked
+\par \hich\af13\dbch\af13\loch\f13 up in the code labeled ``normal processing''.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The function yyless() might be used to reprocess text in
+\par \hich\af13\dbch\af13\loch\f13 various circumstances.  Consider the C problem of distinguishing
+\par \hich\af13\dbch\af13\loch\f13 the amb\hich\af13\dbch\af13\loch\f13 iguity of ``=-a''.  Suppose it is desired to treat this as
+\par \hich\af13\dbch\af13\loch\f13 ``=- a'' but print a message.  A rule might be
+\par \hich\af13\dbch\af13\loch\f13                  =-[a-zA-Z]   \{
+\par \hich\af13\dbch\af13\loch\f13                               printf("Op (=-) ambiguous\\n");
+\par \hich\af13\dbch\af13\loch\f13                               yyless(yyleng-1);
+\par \hich\af13\dbch\af13\loch\f13          \hich\af13\dbch\af13\loch\f13                      ... action for =- ...
+\par \hich\af13\dbch\af13\loch\f13                               \}
+\par \hich\af13\dbch\af13\loch\f13 which prints a message, returns the letter after the operator to
+\par \hich\af13\dbch\af13\loch\f13 the input stream, and treats the operator as ``=-''.
+\par \hich\af13\dbch\af13\loch\f13 Alternatively it might be desired to treat this as ``= -a''.  T\hich\af13\dbch\af13\loch\f13 o
+\par \hich\af13\dbch\af13\loch\f13 do this, just return the minus sign as well as the letter to the
+\par \hich\af13\dbch\af13\loch\f13 input:
+\par \hich\af13\dbch\af13\loch\f13                  =-[a-zA-Z]   \{
+\par \hich\af13\dbch\af13\loch\f13                               printf("Op (=-) ambiguous\\n");
+\par \hich\af13\dbch\af13\loch\f13                               yyless(yyleng-2);
+\par \hich\af13\dbch\af13\loch\f13                               ... action \ltrpar \hich\af13\dbch\af13\loch\f13 for = ...
+\par \hich\af13\dbch\af13\loch\f13                               \}
+\par \hich\af13\dbch\af13\loch\f13 will perform the other interpretation.  Note that the expressions
+\par \hich\af13\dbch\af13\loch\f13 for the two cases might more easily be written
+\par \hich\af13\dbch\af13\loch\f13                                =-/[A-Za-z]
+\par \hich\af13\dbch\af13\loch\f13 in the first case and
+\par \hich\af13\dbch\af13\loch\f13                                  =/-\hich\af13\dbch\af13\loch\f13 [A-Za-z]
+\par \hich\af13\dbch\af13\loch\f13 in the second; no backup would be required in the rule action.  It
+\par \hich\af13\dbch\af13\loch\f13 is not necessary to recognize the whole identifier to observe the
+\par \hich\af13\dbch\af13\loch\f13 ambiguity.  The possibility of ``=-3'', however, makes
+\par \hich\af13\dbch\af13\loch\f13                                  =-/[^ \\t\\n]
+\par \hich\af13\dbch\af13\loch\f13 a still better\hich\af13\dbch\af13\loch\f13  rule.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In addition to these routines, Lex also permits access to the
+\par \hich\af13\dbch\af13\loch\f13 I/O routines it uses.  They are:
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1)   input() which returns the next input character;
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2)   output(c) which writes the character c on the output; and
+\par 
+\par \hich\af13\dbch\af13\loch\f13 3) unput(c) pushes the charac\hich\af13\dbch\af13\loch\f13 ter c back onto the input stream to
+\par \hich\af13\dbch\af13\loch\f13    be read later by input().
+\par 
+\par \hich\af13\dbch\af13\loch\f13 By default these routines are provided as macro definitions, but
+\par \hich\af13\dbch\af13\loch\f13 the user can override them and supply private versions.  These
+\par \hich\af13\dbch\af13\loch\f13 routines define the relationship between external files and
+\par \hich\af13\dbch\af13\loch\f13 in\hich\af13\dbch\af13\loch\f13 ternal characters, and must all be retained or modified
+\par \hich\af13\dbch\af13\loch\f13 consistently.  They may be redefined, to cause input or output to
+\par \hich\af13\dbch\af13\loch\f13 be transmitted to or from strange places, including other programs
+\par \hich\af13\dbch\af13\loch\f13 or internal memory; but the character set used must be consistent
+\par \hich\af13\dbch\af13\loch\f13 i\hich\af13\dbch\af13\loch\f13 n all routines; a value of zero returned by input must mean end
+\par \hich\af13\dbch\af13\loch\f13 of file; and the relationship between unput and input must be
+\par \hich\af13\dbch\af13\loch\f13 retained or the Lex lookahead will not work.  Lex does not look
+\par \hich\af13\dbch\af13\loch\f13 ahead at all if it does not have to, but every rule ending in + *
+\par \hich\af13\dbch\af13\loch\f13 ?  or $ or containing / implies lookahead.  Lookahead is also
+\par \hich\af13\dbch\af13\loch\f13 necessary to match an expression that is a prefix of another
+\par \hich\af13\dbch\af13\loch\f13 expression.  See below for a discussion of the character set used
+\par \hich\af13\dbch\af13\loch\f13 by Lex.  The standard Lex library imposes a 100 character limit on
+\par \hich\af13\dbch\af13\loch\f13 backup.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Another Lex library routine that the user will sometimes want
+\par \hich\af13\dbch\af13\loch\f13 to redefine is yywrap() which is called whenever Lex reaches an
+\par \hich\af13\dbch\af13\loch\f13 end-of-file.  If yywrap returns a 1, Lex continues with the normal
+\par \hich\af13\dbch\af13\loch\f13 wrapup on end of input.  Sometimes, however, it i\hich\af13\dbch\af13\loch\f13 s convenient to
+\par \hich\af13\dbch\af13\loch\f13 arrange for more input to arrive from a new source.  In this case,
+\par \hich\af13\dbch\af13\loch\f13 the user should provide a yywrap which arranges for new input and
+\par \hich\af13\dbch\af13\loch\f13 returns 0.  This instructs Lex to continue processing.  The
+\par \hich\af13\dbch\af13\loch\f13 default yywrap always returns 1.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This rou\hich\af13\dbch\af13\loch\f13 tine is also a convenient place to print tables,
+\par \hich\af13\dbch\af13\loch\f13 summaries, etc.  at the end of a program.  Note that it is not
+\par \hich\af13\dbch\af13\loch\f13 possible to write a normal rule which recognizes end-of-file; the
+\par \hich\af13\dbch\af13\loch\f13 only access to this condition is through yywrap.  In fact, unless
+\par \hich\af13\dbch\af13\loch\f13 a private ve\hich\af13\dbch\af13\loch\f13 rsion of input() is supplied a file containing nulls
+\par \hich\af13\dbch\af13\loch\f13 cannot be handled, since a value of 0 returned by input is taken
+\par \hich\af13\dbch\af13\loch\f13 to be end-of-file.
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 5.  Ambiguous Source Rules.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Lex can handle ambiguous specifications.  When more than one
+\par \hich\af13\dbch\af13\loch\f13 expression can match t\hich\af13\dbch\af13\loch\f13 he current input, Lex chooses as follows:
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1)   The longest match is preferred.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2)   Among rules which matched the same number of characters, the
+\par \hich\af13\dbch\af13\loch\f13      rule given first is preferred.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Thus, suppose the rules
+\par \hich\af13\dbch\af13\loch\f13                       integer   keyword action .\hich\af13\dbch\af13\loch\f13 ..;
+\par \hich\af13\dbch\af13\loch\f13                       [a-z]+    identifier action ...;
+\par \hich\af13\dbch\af13\loch\f13 to be given in that order.  If the input is integers, it is taken
+\par \hich\af13\dbch\af13\loch\f13 as an identifier, because [a-z]+ matches 8 characters while
+\par \hich\af13\dbch\af13\loch\f13 integer matches only 7.  If the input is integer, both rules match
+\par \hich\af13\dbch\af13\loch\f13 7 ch\hich\af13\dbch\af13\loch\f13 aracters, and the keyword rule is selected because it was
+\par \hich\af13\dbch\af13\loch\f13 given first.  Anything shorter (e.g. int) will not match the
+\par \hich\af13\dbch\af13\loch\f13 expression integer and so the identifier interpretation is used.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The principle of preferring the longest match makes rules
+\par \hich\af13\dbch\af13\loch\f13 containi\hich\af13\dbch\af13\loch\f13 ng expressions like .* dangerous.  For example,
+\par \hich\af13\dbch\af13\loch\f13                                     '.*'
+\par \hich\af13\dbch\af13\loch\f13 might seem a good way of recognizing a string in single quotes.
+\par \hich\af13\dbch\af13\loch\f13 But it is an invitation for the program to read far ahead, looking
+\par \hich\af13\dbch\af13\loch\f13 for a distant single quote.  Present\hich\af13\dbch\af13\loch\f13 ed with the input
+\par \hich\af13\dbch\af13\loch\f13                 'first' quoted string here, 'second' here
+\par \hich\af13\dbch\af13\loch\f13 the above expression will match
+\par \hich\af13\dbch\af13\loch\f13                    'first' quoted string here, 'second'
+\par \hich\af13\dbch\af13\loch\f13 which is probably not what was wanted.  A better rule is of the
+\par \hich\af13\dbch\af13\loch\f13 form
+\par \hich\af13\dbch\af13\loch\f13                        \hich\af13\dbch\af13\loch\f13            '[^'\\n]*'
+\par \hich\af13\dbch\af13\loch\f13 which, on the above input, will stop after 'first'.  The
+\par \hich\af13\dbch\af13\loch\f13 consequences of errors like this are mitigated by the fact that
+\par \hich\af13\dbch\af13\loch\f13 the .  operator will not match newline.  Thus expressions like .*
+\par \hich\af13\dbch\af13\loch\f13 stop on the current line.  Don't try to defeat t\hich\af13\dbch\af13\loch\f13 his with
+\par \hich\af13\dbch\af13\loch\f13 expressions like (.|\\n)+ or equivalents; the Lex generated
+\par \hich\af13\dbch\af13\loch\f13 program will try to read the entire input file, causing internal
+\par \hich\af13\dbch\af13\loch\f13 buffer overflows.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Note that Lex is normally partitioning the input stream, not
+\par \hich\af13\dbch\af13\loch\f13 searching for all possible matches of \hich\af13\dbch\af13\loch\f13 each expression.  This means
+\par \hich\af13\dbch\af13\loch\f13 that each character is accounted for once and only once.  For
+\par \hich\af13\dbch\af13\loch\f13 example, suppose it is desired to count occurrences of both she
+\par \hich\af13\dbch\af13\loch\f13 and he in an input text.  Some Lex rules to do this might be
+\par \hich\af13\dbch\af13\loch\f13                                  she   s\hich\af13\dbch\af13\loch\f13 ++;
+\par \hich\af13\dbch\af13\loch\f13                                  he    h++;
+\par \hich\af13\dbch\af13\loch\f13                                  \\n    |
+\par \hich\af13\dbch\af13\loch\f13                                  .     ;
+\par \hich\af13\dbch\af13\loch\f13 where the last two rules ignore everything besides he and she.
+\par \hich\af13\dbch\af13\loch\f13 Remember that .  does not include newline.  Since she includes \hich\af13\dbch\af13\loch\f13 he,
+\par \hich\af13\dbch\af13\loch\f13 Lex will normally not recognize the instances of he included in
+\par \hich\af13\dbch\af13\loch\f13 she, since once it has passed a she those characters are gone.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Sometimes the user would like to override this choice.  The
+\par \hich\af13\dbch\af13\loch\f13 action REJECT means ``go do the next alternative.'' It caus\hich\af13\dbch\af13\loch\f13 es
+\par \hich\af13\dbch\af13\loch\f13 whatever rule was second choice after the current rule to be
+\par \hich\af13\dbch\af13\loch\f13 executed.  The position of the input pointer is adjusted
+\par \hich\af13\dbch\af13\loch\f13 accordingly.  Suppose the user really wants to count the included
+\par \hich\af13\dbch\af13\loch\f13 instances of he:
+\par \hich\af13\dbch\af13\loch\f13                             she   \{s++; REJECT;\}
+\par \hich\af13\dbch\af13\loch\f13    \hich\af13\dbch\af13\loch\f13                          he    \{h++; REJECT;\}
+\par \hich\af13\dbch\af13\loch\f13                             \\n    |
+\par \hich\af13\dbch\af13\loch\f13                             .     ;
+\par \hich\af13\dbch\af13\loch\f13 these rules are one way of changing the previous example to do
+\par \hich\af13\dbch\af13\loch\f13 just that.  After counting each expression, it is rejected;
+\par \hich\af13\dbch\af13\loch\f13 whenever approp\hich\af13\dbch\af13\loch\f13 riate, the other expression will then be counted.
+\par \hich\af13\dbch\af13\loch\f13 In this example, of course, the user could note that she includes
+\par \hich\af13\dbch\af13\loch\f13 he but not vice versa, and omit the REJECT action on he; in other
+\par \hich\af13\dbch\af13\loch\f13 cases, however, it would not be possible a priori to tell which
+\par \hich\af13\dbch\af13\loch\f13 input char\hich\af13\dbch\af13\loch\f13 acters were in both classes.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Consider the two rules
+\par \hich\af13\dbch\af13\loch\f13                           a[bc]+   \{ ... ; REJECT;\}
+\par \hich\af13\dbch\af13\loch\f13                           a[cd]+   \{ ... ; REJECT;\}
+\par \hich\af13\dbch\af13\loch\f13 If the input is ab, only the first rule matches, and on ad only
+\par \hich\af13\dbch\af13\loch\f13 the second matches.  The input\hich\af13\dbch\af13\loch\f13  string accb matches the first rule
+\par \hich\af13\dbch\af13\loch\f13 for four characters and then the second rule for three characters.
+\par \hich\af13\dbch\af13\loch\f13 In contrast, the input accd agrees with the second rule for four
+\par \hich\af13\dbch\af13\loch\f13 characters and then the first rule for three.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      In general, REJECT is useful wheneve\hich\af13\dbch\af13\loch\f13 r the purpose of Lex is
+\par \hich\af13\dbch\af13\loch\f13 not to partition the input stream but to detect all examples of
+\par \hich\af13\dbch\af13\loch\f13 some items in the input, and the instances of these items may
+\par \hich\af13\dbch\af13\loch\f13 overlap or include each other.  Suppose a digram table of the
+\par \hich\af13\dbch\af13\loch\f13 input is desired; normally the digrams overl\hich\af13\dbch\af13\loch\f13 ap, that is the word
+\par \hich\af13\dbch\af13\loch\f13 the is considered to contain both th and he.  Assuming a
+\par \hich\af13\dbch\af13\loch\f13 two-dimensional array named digram to be incremented, the
+\par \hich\af13\dbch\af13\loch\f13 appropriate source is
+\par \hich\af13\dbch\af13\loch\f13                 %%
+\par \hich\af13\dbch\af13\loch\f13                 [a-z][a-z]   \{
+\par \hich\af13\dbch\af13\loch\f13                              digram[yytext[0]][y\hich\af13\dbch\af13\loch\f13 ytext[1]]++;
+\par \hich\af13\dbch\af13\loch\f13                              REJECT;
+\par \hich\af13\dbch\af13\loch\f13                              \}
+\par \hich\af13\dbch\af13\loch\f13                 .            ;
+\par \hich\af13\dbch\af13\loch\f13                 \\n           ;
+\par \hich\af13\dbch\af13\loch\f13 where the REJECT is necessary to pick up a letter pair beginning
+\par \hich\af13\dbch\af13\loch\f13 at every character, rather than at every other c\hich\af13\dbch\af13\loch\f13 haracter.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 6.  Lex Source Definitions.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Remember the format of the Lex source:
+\par \hich\af13\dbch\af13\loch\f13                                \{definitions\}
+\par \hich\af13\dbch\af13\loch\f13                                %%
+\par \hich\af13\dbch\af13\loch\f13                                \{rules\}
+\par \hich\af13\dbch\af13\loch\f13                                %%
+\par \hich\af13\dbch\af13\loch\f13                     \hich\af13\dbch\af13\loch\f13            \{user routines\}
+\par \hich\af13\dbch\af13\loch\f13 So far only the rules have been described.  The user needs
+\par \hich\af13\dbch\af13\loch\f13 additional options, though, to define variables for use in his
+\par \hich\af13\dbch\af13\loch\f13 program and for use by Lex.  These can go either in the
+\par \hich\af13\dbch\af13\loch\f13 definitions section or in the rules section.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      \hich\af13\dbch\af13\loch\f13 Remember that Lex is turning the rules into a program.  Any
+\par \hich\af13\dbch\af13\loch\f13 source not intercepted by Lex is copied into the generated
+\par \hich\af13\dbch\af13\loch\f13 program.  There are three classes of such things.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1)   Any line which is not part of a Lex rule or action which
+\par \hich\af13\dbch\af13\loch\f13 begins with a blank or t\ltrpar \hich\af13\dbch\af13\loch\f13 ab is copied into the Lex generated
+\par \hich\af13\dbch\af13\loch\f13 program.  Such source input prior to the first %% delimiter will
+\par \hich\af13\dbch\af13\loch\f13 be external to any function in the code; if it appears immediately
+\par \hich\af13\dbch\af13\loch\f13 after the first %%, it appears in an appropriate place for
+\par \hich\af13\dbch\af13\loch\f13 declarations in the function \hich\af13\dbch\af13\loch\f13 written by Lex which contains the
+\par \hich\af13\dbch\af13\loch\f13 actions.  This material must look like program fragments, and
+\par \hich\af13\dbch\af13\loch\f13 should precede the first Lex rule. As a side effect of the above,
+\par \hich\af13\dbch\af13\loch\f13 lines which begin with a blank or tab, and which contain a
+\par \hich\af13\dbch\af13\loch\f13 comment, are passed through to the \hich\af13\dbch\af13\loch\f13 generated program.  This can be
+\par \hich\af13\dbch\af13\loch\f13 used to include comments in either the Lex source or the generated
+\par \hich\af13\dbch\af13\loch\f13 code.  The comments should follow the host language convention.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2) Anything included between lines containing only %\{ and %\} is
+\par \hich\af13\dbch\af13\loch\f13 copied out as above.  The de\hich\af13\dbch\af13\loch\f13 limiters are discarded.  This format
+\par \hich\af13\dbch\af13\loch\f13 permits entering text like preprocessor statements that must begin
+\par \hich\af13\dbch\af13\loch\f13 in column 1, or copying lines that do not look like programs.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 3) Anything after the third %% delimiter, regardless of formats,
+\par \hich\af13\dbch\af13\loch\f13 etc., is copied out afte\hich\af13\dbch\af13\loch\f13 r the Lex output.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Definitions intended for Lex are given before the first %%
+\par \hich\af13\dbch\af13\loch\f13 delimiter.  Any line in this section not contained between %\{ and
+\par \hich\af13\dbch\af13\loch\f13 %\}, and begining in column 1, is assumed to define Lex
+\par \hich\af13\dbch\af13\loch\f13 substitution strings.  The format of such lines is
+\par \hich\af13\dbch\af13\loch\f13  \hich\af13\dbch\af13\loch\f13                             name translation
+\par \hich\af13\dbch\af13\loch\f13 and it causes the string given as a translation to be associated
+\par \hich\af13\dbch\af13\loch\f13 with the name.  The name and translation must be separated by at
+\par \hich\af13\dbch\af13\loch\f13 least one blank or tab, and the name must begin with a letter.
+\par \hich\af13\dbch\af13\loch\f13 The translation ca\hich\af13\dbch\af13\loch\f13 n then be called out by the \{name\} syntax in a
+\par \hich\af13\dbch\af13\loch\f13 rule.  Using \{D\} for the digits and \{E\} for an exponent field, for
+\par \hich\af13\dbch\af13\loch\f13 example, might abbreviate rules to recognize numbers:
+\par \hich\af13\dbch\af13\loch\f13                    }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid10162515\charrsid11232819 \hich\af13\dbch\af13\loch\f13 D                   [0-9]
+\par \hich\af13\dbch\af13\loch\f13                    E                   [DEd\hich\af13\dbch\af13\loch\f13 e][-+]?\{D\}+
+\par \hich\af13\dbch\af13\loch\f13                    %%
+\par \hich\af13\dbch\af13\loch\f13                    \{D\}+                printf("integer");
+\par \hich\af13\dbch\af13\loch\f13                    }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid10162515\charrsid10162515 \{\hich\af13\dbch\af13\loch\f13 D\}+"."\{D\}*(\{E\})?   |
+\par \hich\af13\dbch\af13\loch\f13                    \{D\}*"."\{D\}+(\{E\})?   |
+\par \hich\af13\dbch\af13\loch\f13                    \{D\}+\{E\}
+\par \hich\af13\dbch\af13\loch\f13 Note the first two rules for real numbers; both require\hich\af13\dbch\af13\loch\f13  a decimal
+\par \hich\af13\dbch\af13\loch\f13 point and contain an optional exponent field, but the first
+\par \hich\af13\dbch\af13\loch\f13 requires at least one digit before the decimal point and the
+\par \hich\af13\dbch\af13\loch\f13 second requires at least one digit after the decimal point.  To
+\par \hich\af13\dbch\af13\loch\f13 correctly handle the problem posed by a Fortran expression s\hich\af13\dbch\af13\loch\f13 uch as
+\par \hich\af13\dbch\af13\loch\f13 35.EQ.I, which does not contain a real number, a context-sensitive
+\par \hich\af13\dbch\af13\loch\f13 rule such as
+\par \hich\af13\dbch\af13\loch\f13                       [0-9]+/"."EQ   printf("integer");
+\par \hich\af13\dbch\af13\loch\f13 could be used in addition to the normal rule for integers.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The definitions section may also contain other c\hich\af13\dbch\af13\loch\f13 ommands,
+\par \hich\af13\dbch\af13\loch\f13 including the selection of a host language, a character set table,
+\par \hich\af13\dbch\af13\loch\f13 a list of start conditions, or adjustments to the default size
+\par \hich\af13\dbch\af13\loch\f13 of arrays within Lex itself for larger source programs.  These
+\par \hich\af13\dbch\af13\loch\f13 possibilities are discussed below under ``Summary of S\hich\af13\dbch\af13\loch\f13 ource
+\par \hich\af13\dbch\af13\loch\f13 Format,'' section 12.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 7.  Usage.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      There are two steps in compiling a Lex source program.
+\par \hich\af13\dbch\af13\loch\f13 First, the Lex source must be turned into a generated program in
+\par \hich\af13\dbch\af13\loch\f13 the host general purpose language.  Then this program must be
+\par \hich\af13\dbch\af13\loch\f13 compiled and loaded, usually\hich\af13\dbch\af13\loch\f13  with a library of Lex subroutines.
+\par \hich\af13\dbch\af13\loch\f13 The generated program is on a file named lex.yy.c.  The I/O
+\par \hich\af13\dbch\af13\loch\f13 library is defined in terms of the C standard library [6].
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The C programs generated by Lex are slightly different on
+\par \hich\af13\dbch\af13\loch\f13 OS/370, because the OS compiler is le\hich\af13\dbch\af13\loch\f13 ss powerful than the UNIX or
+\par \hich\af13\dbch\af13\loch\f13 GCOS compilers, and does less at compile time.  C programs
+\par \hich\af13\dbch\af13\loch\f13 generated on GCOS and UNIX are the same.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      UNIX.  The library is accessed by the loader flag -ll.  So an
+\par \hich\af13\dbch\af13\loch\f13 appropriate set of commands is
+\par \hich\af13\dbch\af13\loch\f13      lex source cc lex.yy.c \hich\af13\dbch\af13\loch\f13 -ll
+\par \hich\af13\dbch\af13\loch\f13 The resulting program is placed on the usual file a.out for later
+\par \hich\af13\dbch\af13\loch\f13 execution.  To use Lex with Yacc see below.  Although the default
+\par \hich\af13\dbch\af13\loch\f13 Lex I/O routines use the C standard library, the Lex automata
+\par \hich\af13\dbch\af13\loch\f13 themselves do not do so; if private versions of input, out\hich\af13\dbch\af13\loch\f13 put and
+\par \hich\af13\dbch\af13\loch\f13 unput are given, the library can be avoided.
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 8.  Lex and Yacc.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      If you want to use Lex with Yacc, note that what Lex writes
+\par \hich\af13\dbch\af13\loch\f13 is a program named yylex(), the name required by Yacc for its
+\par \hich\af13\dbch\af13\loch\f13 analyzer.  Normally, the default main program on the Le\hich\af13\dbch\af13\loch\f13 x library
+\par \hich\af13\dbch\af13\loch\f13 calls this routine, but if Yacc is loaded, and its main program is
+\par \hich\af13\dbch\af13\loch\f13 used, Yacc will call yylex().  In this case each Lex rule should
+\par \hich\af13\dbch\af13\loch\f13 end with
+\par \hich\af13\dbch\af13\loch\f13                                return(token);
+\par \hich\af13\dbch\af13\loch\f13 where the appropriate token value is returned.  An easy way\hich\af13\dbch\af13\loch\f13  to get
+\par \hich\af13\dbch\af13\loch\f13 access to Yacc's names for tokens is to compile the Lex output
+\par \hich\af13\dbch\af13\loch\f13 file as part of the Yacc output file by placing the line
+\par \hich\af13\dbch\af13\loch\f13                             # include "lex.yy.c"
+\par \hich\af13\dbch\af13\loch\f13 in the last section of Yacc input.  Supposing the grammar to be
+\par \hich\af13\dbch\af13\loch\f13 named ``good'' \hich\af13\dbch\af13\loch\f13 and the lexical rules to be named ``better'' the
+\par \hich\af13\dbch\af13\loch\f13 UNIX command sequence can just be:
+\par 
+\par \hich\af13\dbch\af13\loch\f13                              yacc good
+\par \hich\af13\dbch\af13\loch\f13                              lex better
+\par \hich\af13\dbch\af13\loch\f13                              cc y.tab.c -ly -ll
+\par \hich\af13\dbch\af13\loch\f13 The Yacc library (-ly) should be loaded befo\hich\af13\dbch\af13\loch\f13 re the Lex library, to
+\par \hich\af13\dbch\af13\loch\f13 obtain a main program which invokes the Yacc parser.  The
+\par \hich\af13\dbch\af13\loch\f13 generations of Lex and Yacc programs can be done in either order.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 9.  Examples.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      As a trivial problem, consider copying an input file while
+\par \hich\af13\dbch\af13\loch\f13 adding 3 to every positive nu\hich\af13\dbch\af13\loch\f13 mber divisible by 7.  Here is a
+\par \hich\af13\dbch\af13\loch\f13 suitable Lex source program
+\par \hich\af13\dbch\af13\loch\f13                       %%
+\par \hich\af13\dbch\af13\loch\f13                                int k;
+\par \hich\af13\dbch\af13\loch\f13                       [0-9]+   \{
+\par \hich\af13\dbch\af13\loch\f13                                k = atoi(yytext);
+\par \hich\af13\dbch\af13\loch\f13                                if (k%7 == 0)
+\par \hich\af13\dbch\af13\loch\f13       \hich\af13\dbch\af13\loch\f13                               printf("%d", k+3);
+\par \hich\af13\dbch\af13\loch\f13                                else
+\par \hich\af13\dbch\af13\loch\f13                                     printf("%d",k);
+\par \hich\af13\dbch\af13\loch\f13                                \}
+\par \hich\af13\dbch\af13\loch\f13 to do just that.  The rule [0-9]+ recognizes strings of digits;
+\par \hich\af13\dbch\af13\loch\f13 atoi converts the digi\hich\af13\dbch\af13\loch\f13 ts to binary and stores the result in k.
+\par \hich\af13\dbch\af13\loch\f13 The operator % (remainder) is used to check whether k is divisible
+\par \hich\af13\dbch\af13\loch\f13 by 7; if it is, it is incremented by 3 as it is written out.  It
+\par \hich\af13\dbch\af13\loch\f13 may be objected that this program will alter such input items as
+\par \hich\af13\dbch\af13\loch\f13 49.63 or X7.  Furt\hich\af13\dbch\af13\loch\f13 hermore, it increments the absolute value of all
+\par \hich\af13\dbch\af13\loch\f13 negative numbers divisible by 7.  To avoid this, just add a few
+\par \hich\af13\dbch\af13\loch\f13 more rules after the active one, as here:
+\par \hich\af13\dbch\af13\loch\f13                 %%
+\par \hich\af13\dbch\af13\loch\f13                                        int k;
+\par \hich\af13\dbch\af13\loch\f13                 -?[0-9]+            \hich\af13\dbch\af13\loch\f13    \{
+\par \hich\af13\dbch\af13\loch\f13                                        k = atoi(yytext);
+\par \hich\af13\dbch\af13\loch\f13                                        printf("%d",
+\par \hich\af13\dbch\af13\loch\f13                                          k%7 == 0 ? k+3 : k);
+\par \hich\af13\dbch\af13\loch\f13                                        }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid10162515\charrsid11232819 \}
+\par \hich\af13\dbch\af13\loch\f13                 -?[0-9.]+              \hich\af13\dbch\af13\loch\f13 ECHO;
+\par \hich\af13\dbch\af13\loch\f13                 [A-Za-z][A-Za-z0-9]+   ECHO;
+\par }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid10162515\charrsid10162515 \hich\af13\dbch\af13\loch\f13 Numerical strings containing a ``.'' or preceded by a letter will
+\par \hich\af13\dbch\af13\loch\f13 be picked up by one of the last two rules, and not changed.  The
+\par \hich\af13\dbch\af13\loch\f13 if-else has been replaced by a C conditional expression to save
+\par \hich\af13\dbch\af13\loch\f13 space; the\hich\af13\dbch\af13\loch\f13  form a?b:c means ``if a then b else c''.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      For an example of statistics gathering, here is a program
+\par \hich\af13\dbch\af13\loch\f13 which histograms the lengths of words, where a word is defined
+\par \hich\af13\dbch\af13\loch\f13 as a string of letters.
+\par \hich\af13\dbch\af13\loch\f13                            int lengs[100];
+\par \hich\af13\dbch\af13\loch\f13                   %%
+\par \hich\af13\dbch\af13\loch\f13                   [a-z]+   lengs[yyleng]++;
+\par \hich\af13\dbch\af13\loch\f13                   .        |
+\par \hich\af13\dbch\af13\loch\f13                   \\n       ;
+\par \hich\af13\dbch\af13\loch\f13                   %%
+\par \hich\af13\dbch\af13\loch\f13                   yywrap()
+\par \hich\af13\dbch\af13\loch\f13                   \{
+\par \hich\af13\dbch\af13\loch\f13                   int i;
+\par \hich\af13\dbch\af13\loch\f13                   printf("Length  No. words\\n");
+\par \hich\af13\dbch\af13\loch\f13            \hich\af13\dbch\af13\loch\f13        for(i=0; i<100; i++)
+\par \hich\af13\dbch\af13\loch\f13                        if (lengs[i] > 0)
+\par \hich\af13\dbch\af13\loch\f13                             printf("%5d%10d\\n",i,lengs[i]);
+\par \hich\af13\dbch\af13\loch\f13                   return(1);
+\par \hich\af13\dbch\af13\loch\f13                   \}
+\par \hich\af13\dbch\af13\loch\f13 This program accumulates the histogram, while producing no output.
+\par \hich\af13\dbch\af13\loch\f13 At the end \hich\af13\dbch\af13\loch\f13 of the input it prints the table.  The final statement
+\par \hich\af13\dbch\af13\loch\f13 return(1); indicates that Lex is to perform wrapup.  If yywrap
+\par \hich\af13\dbch\af13\loch\f13 returns zero (false) it implies that further input is available
+\par \hich\af13\dbch\af13\loch\f13 and the program is to continue reading and processing.  To
+\par \hich\af13\dbch\af13\loch\f13 provide a yywra\hich\af13\dbch\af13\loch\f13 p that never returns true causes an infinite loop.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      As a larger example, here are some parts of a program written
+\par \hich\af13\dbch\af13\loch\f13 by N.  L.  Schryer to convert double precision Fortran to single
+\par \hich\af13\dbch\af13\loch\f13 precision Fortran.  Because Fortran does not distinguish upper and
+\par \hich\af13\dbch\af13\loch\f13 lower\hich\af13\dbch\af13\loch\f13  case letters, this routine begins by defining a set of
+\par \hich\af13\dbch\af13\loch\f13 classes including both cases of each letter:
+\par \hich\af13\dbch\af13\loch\f13                                  a     [aA]
+\par \hich\af13\dbch\af13\loch\f13                                  b     [bB]
+\par \hich\af13\dbch\af13\loch\f13                                  c     [cC]
+\par \hich\af13\dbch\af13\loch\f13                        \ltrpar \hich\af13\dbch\af13\loch\f13           ...
+\par \hich\af13\dbch\af13\loch\f13                                  z     [zZ]
+\par \hich\af13\dbch\af13\loch\f13 An additional class recognizes white space:
+\par \hich\af13\dbch\af13\loch\f13                                  W   [ \\t]*
+\par \hich\af13\dbch\af13\loch\f13 The first rule changes ``double precision'' to ``real'', or
+\par \hich\af13\dbch\af13\loch\f13 ``DOUBLE PRECISION'' to ``REAL''.
+\par \hich\af13\dbch\af13\loch\f13              \{d\}\{\hich\af13\dbch\af13\loch\f13 o\}\{u\}\{b\}\{l\}\{e\}\{W\}\{p\}\{r\}\{e\}\{c\}\{i\}\{s\}\{i\}\{o\}\{n\} \{
+\par \hich\af13\dbch\af13\loch\f13                   printf(yytext[0]=='d'? "real" : "REAL");
+\par \hich\af13\dbch\af13\loch\f13                   \}
+\par \hich\af13\dbch\af13\loch\f13 Care is taken throughout this program to preserve the case (upper
+\par \hich\af13\dbch\af13\loch\f13 or lower) of the original program.  The conditional operator is
+\par \hich\af13\dbch\af13\loch\f13 used to select the proper form of the keyword.  The next rule
+\par \hich\af13\dbch\af13\loch\f13 copies continuation card indications to avoid confusing them
+\par \hich\af13\dbch\af13\loch\f13 with constants:
+\par \hich\af13\dbch\af13\loch\f13                             ^"     "[^ 0]   ECHO;
+\par \hich\af13\dbch\af13\loch\f13 In the regular expression, the quotes surround the blanks.  It is
+\par \hich\af13\dbch\af13\loch\f13 interpreted as ``beginning of line, then five blanks, then
+\par \hich\af13\dbch\af13\loch\f13 anything but blank or zero.''  Note the two different meanings of
+\par \hich\af13\dbch\af13\loch\f13 ^.  There follow some rules to change double precision constants
+\par \hich\af13\dbch\af13\loch\f13 to ordinary floating constants.
+\par \hich\af13\dbch\af13\loch\f13                   [0-9]+\{W\}\{d\}\{W\}[\hich\af13\dbch\af13\loch\f13 +-]?\{W\}[0-9]+     |
+\par \hich\af13\dbch\af13\loch\f13                   [0-9]+\{W\}"."\{W\}\{d\}\{W\}[+-]?\{W\}[0-9]+     |
+\par \hich\af13\dbch\af13\loch\f13                   "."\{W\}[0-9]+\{W\}\{d\}\{W\}[+-]?\{W\}[0-9]+     \{
+\par \hich\af13\dbch\af13\loch\f13                        /* convert constants */
+\par \hich\af13\dbch\af13\loch\f13                        for(p=yytext; *p != 0; p++)
+\par \hich\af13\dbch\af13\loch\f13                   \hich\af13\dbch\af13\loch\f13           \{
+\par \hich\af13\dbch\af13\loch\f13                             if (*p == 'd' || *p == 'D')
+\par \hich\af13\dbch\af13\loch\f13                                  *p=+ 'e'- 'd';
+\par \hich\af13\dbch\af13\loch\f13                             ECHO;
+\par \hich\af13\dbch\af13\loch\f13                             \}
+\par \hich\af13\dbch\af13\loch\f13 After the floating point constant is recognized, it is scanned by
+\par \hich\af13\dbch\af13\loch\f13 the for lo\hich\af13\dbch\af13\loch\f13 op to find the letter d or D.  The program than adds
+\par \hich\af13\dbch\af13\loch\f13 'e'-'d', which converts it to the next letter of the alphabet.
+\par \hich\af13\dbch\af13\loch\f13 The modified constant, now single-precision, is written out again.
+\par \hich\af13\dbch\af13\loch\f13 There follow a series of names which must be respelled to remove
+\par \hich\af13\dbch\af13\loch\f13 their in\hich\af13\dbch\af13\loch\f13 itial d.  By using the array yytext the same action
+\par \hich\af13\dbch\af13\loch\f13 suffices for all the names (only a sample of a rather long list is
+\par \hich\af13\dbch\af13\loch\f13 given here).
+\par \hich\af13\dbch\af13\loch\f13                  \{d\}\{s\}\{i\}\{n\}         |
+\par \hich\af13\dbch\af13\loch\f13                  \{d\}\{c\}\{o\}\{s\}         |
+\par \hich\af13\dbch\af13\loch\f13                  \{d\}\{s\}\{q\}\{r\}\{t\}      |
+\par \hich\af13\dbch\af13\loch\f13     \hich\af13\dbch\af13\loch\f13              \{d\}\{a\}\{t\}\{a\}\{n\}      |
+\par \hich\af13\dbch\af13\loch\f13                  ...
+\par \hich\af13\dbch\af13\loch\f13                  \{d\}\{f\}\{l\}\{o\}\{a\}\{t\}   printf("%s",yytext+1);
+\par \hich\af13\dbch\af13\loch\f13 Another list of names must have initial d changed to initial a:
+\par \hich\af13\dbch\af13\loch\f13                   \{d\}\{l\}\{o\}\{g\}     |
+\par \hich\af13\dbch\af13\loch\f13                   \{d\}\{l\}\{o\}\{g\}10   |
+\par \hich\af13\dbch\af13\loch\f13                   \{d\}\{m\}\{i\}\{n\}1    |
+\par \hich\af13\dbch\af13\loch\f13                   \{d\}\{m\}\{a\}\{x\}1    \{
+\par \hich\af13\dbch\af13\loch\f13                                    yytext[0] =+ 'a' - 'd';
+\par \hich\af13\dbch\af13\loch\f13                                    ECHO;
+\par \hich\af13\dbch\af13\loch\f13                                    \}
+\par \hich\af13\dbch\af13\loch\f13 And one routine must have initial d changed t\hich\af13\dbch\af13\loch\f13 o initial r:
+\par \hich\af13\dbch\af13\loch\f13                 \{d\}1\{m\}\{a\}\{c\}\{h\}   \{yytext[0] =+ 'r'  - 'd';
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 To avoid such names as dsinx being detected as instances of dsin,
+\par \hich\af13\dbch\af13\loch\f13 some final rules pick up longer words as identifiers and copy some
+\par }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid10162515\charrsid11232819 \hich\af13\dbch\af13\loch\f13 surviving characters:
+\par \hich\af13\dbch\af13\loch\f13                         [\hich\af13\dbch\af13\loch\f13 A-Za-z][A-Za-z0-9]*   |
+\par \hich\af13\dbch\af13\loch\f13                         [0-9]+                 |
+\par \hich\af13\dbch\af13\loch\f13                         \\n                     |
+\par \hich\af13\dbch\af13\loch\f13                         .                      ECHO;
+\par }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid10162515\charrsid10162515 \hich\af13\dbch\af13\loch\f13 Note that this program is not complete; it does not deal with the
+\par \hich\af13\dbch\af13\loch\f13 spacing problem\hich\af13\dbch\af13\loch\f13 s in Fortran or with the use of keywords as
+\par \hich\af13\dbch\af13\loch\f13 identifiers.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 10.  Left Context Sensitivity.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Sometimes it is desirable to have several sets of lexical
+\par \hich\af13\dbch\af13\loch\f13 rules to be applied at different times in the input.  For example,
+\par \hich\af13\dbch\af13\loch\f13 a compiler preprocessor might distin\hich\af13\dbch\af13\loch\f13 guish preprocessor
+\par \hich\af13\dbch\af13\loch\f13 statements and analyze them differently from ordinary statements.
+\par \hich\af13\dbch\af13\loch\f13 This requires sensitivity to prior context, and there are several
+\par \hich\af13\dbch\af13\loch\f13 ways of handling such problems.  The ^ operator, for example, is
+\par \hich\af13\dbch\af13\loch\f13 a prior context operator, recognizing im\hich\af13\dbch\af13\loch\f13 mediately preceding left
+\par \hich\af13\dbch\af13\loch\f13 context just as $ recognizes immediately following right
+\par \hich\af13\dbch\af13\loch\f13 context.  Adjacent left context could be extended, to produce a
+\par \hich\af13\dbch\af13\loch\f13 facility similar to that for adjacent right context, but it is
+\par \hich\af13\dbch\af13\loch\f13 unlikely to be as useful, since often the relev\hich\af13\dbch\af13\loch\f13 ant left context
+\par \hich\af13\dbch\af13\loch\f13 appeared some time earlier, such as at the beginning of a line.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      This section describes three means of dealing with different
+\par \hich\af13\dbch\af13\loch\f13 environments: a simple use of flags, when only a few rules
+\par \hich\af13\dbch\af13\loch\f13 change from one environment to another, the use o\hich\af13\dbch\af13\loch\f13 f start
+\par \hich\af13\dbch\af13\loch\f13 conditions on rules, and the possibility of making multiple
+\par \hich\af13\dbch\af13\loch\f13 lexical analyzers all run together.  In each case, there are rules
+\par \hich\af13\dbch\af13\loch\f13 which recognize the need to change the environment in which the
+\par \hich\af13\dbch\af13\loch\f13 following input text is analyzed, and set some parameter \hich\af13\dbch\af13\loch\f13 to
+\par \hich\af13\dbch\af13\loch\f13 reflect the change.  This may be a flag explicitly tested by the
+\par \hich\af13\dbch\af13\loch\f13 user's action code; such a flag is the simplest way of dealing
+\par \hich\af13\dbch\af13\loch\f13 with the problem, since Lex is not involved at all.  It may be
+\par \hich\af13\dbch\af13\loch\f13 more convenient, however, to have Lex remember the flags as
+\par \hich\af13\dbch\af13\loch\f13 in\hich\af13\dbch\af13\loch\f13 itial conditions on the rules.  Any rule may be associated with
+\par \hich\af13\dbch\af13\loch\f13 a start condition.  It will only be recognized when Lex is in that
+\par \hich\af13\dbch\af13\loch\f13 start condition.  The current start condition may be changed at
+\par \hich\af13\dbch\af13\loch\f13 any time.  Finally, if the sets of rules for the different
+\par \hich\af13\dbch\af13\loch\f13 en\hich\af13\dbch\af13\loch\f13 vironments are very dissimilar, clarity may be best achieved by
+\par \hich\af13\dbch\af13\loch\f13 writing several distinct lexical analyzers, and switching from one
+\par \hich\af13\dbch\af13\loch\f13 to another as desired.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Consider the following problem: copy the input to the output,
+\par \hich\af13\dbch\af13\loch\f13 changing the word magic to first o\hich\af13\dbch\af13\loch\f13 n every line which began with
+\par \hich\af13\dbch\af13\loch\f13 the letter a, changing magic to second on every line which began
+\par \hich\af13\dbch\af13\loch\f13 with the letter b, and changing magic to third on every line which
+\par \hich\af13\dbch\af13\loch\f13 began with the letter c.  All other words and all other lines are
+\par \hich\af13\dbch\af13\loch\f13 left unchanged.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      These \hich\af13\dbch\af13\loch\f13 rules are so simple that the easiest way to do this job
+\par \hich\af13\dbch\af13\loch\f13 is with a flag:
+\par \hich\af13\dbch\af13\loch\f13                          int flag;
+\par \hich\af13\dbch\af13\loch\f13                  }{\rtlch\fcs1 \af13 \ltrch\fcs0 \lang1046\langfe2052\hich\af13\langnp1046\insrsid10162515\charrsid11232819 \hich\af13\dbch\af13\loch\f13 %%
+\par \hich\af13\dbch\af13\loch\f13                  ^a      \{flag = 'a'; ECHO;\}
+\par \hich\af13\dbch\af13\loch\f13                  ^b      \{flag = 'b'; ECHO;\}
+\par \hich\af13\dbch\af13\loch\f13                  \hich\af13\dbch\af13\loch\f13 ^c      \{flag = 'c'; E\hich\af13\dbch\af13\loch\f13 CHO;\}
+\par \hich\af13\dbch\af13\loch\f13                  \\n      \{flag =  0 ; ECHO;\}
+\par \hich\af13\dbch\af13\loch\f13                  }{\rtlch\fcs1 \af13 \ltrch\fcs0 \hich\af13\insrsid10162515\charrsid10162515 \hich\af13\dbch\af13\loch\f13 magic   \{
+\par \hich\af13\dbch\af13\loch\f13                          switch (flag)
+\par \hich\af13\dbch\af13\loch\f13                          \{
+\par \hich\af13\dbch\af13\loch\f13                          case 'a': printf("first"); break;
+\par \hich\af13\dbch\af13\loch\f13                          case 'b': printf("second"); \hich\af13\dbch\af13\loch\f13 break;
+\par \hich\af13\dbch\af13\loch\f13                          case 'c': printf("third"); break;
+\par \hich\af13\dbch\af13\loch\f13                          default: ECHO; break;
+\par \hich\af13\dbch\af13\loch\f13                          \}
+\par \hich\af13\dbch\af13\loch\f13                          \}
+\par \hich\af13\dbch\af13\loch\f13 should be adequate.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      To handle the same problem with start conditions, each start
+\par \hich\af13\dbch\af13\loch\f13 co\hich\af13\dbch\af13\loch\f13 ndition must be introduced to Lex in the definitions section
+\par \hich\af13\dbch\af13\loch\f13 with a line reading
+\par \hich\af13\dbch\af13\loch\f13                           %Start   name1 name2 ...
+\par \hich\af13\dbch\af13\loch\f13 where the conditions may be named in any order.  The word Start
+\par \hich\af13\dbch\af13\loch\f13 may be abbreviated to s or S.  The conditions may be referen\hich\af13\dbch\af13\loch\f13 ced
+\par \hich\af13\dbch\af13\loch\f13 at the head of a rule with the <> brackets:
+\par \hich\af13\dbch\af13\loch\f13                               <name1>expression
+\par \hich\af13\dbch\af13\loch\f13 is a rule which is only recognized when Lex is in the start
+\par \hich\af13\dbch\af13\loch\f13 condition name1.  To enter a start condition, execute the action
+\par \hich\af13\dbch\af13\loch\f13 statement
+\par \hich\af13\dbch\af13\loch\f13                          \hich\af13\dbch\af13\loch\f13        BEGIN name1;
+\par \hich\af13\dbch\af13\loch\f13 which changes the start condition to name1.  To resume the normal
+\par \hich\af13\dbch\af13\loch\f13 state,
+\par \hich\af13\dbch\af13\loch\f13                                   BEGIN 0;
+\par \hich\af13\dbch\af13\loch\f13 resets the initial condition of the Lex automaton interpreter.  A
+\par \hich\af13\dbch\af13\loch\f13 rule may be active in several start conditions:
+\par \hich\af13\dbch\af13\loch\f13       \hich\af13\dbch\af13\loch\f13                        <name1,name2,name3>
+\par \hich\af13\dbch\af13\loch\f13 is a legal prefix.  Any rule not beginning with the <> prefix
+\par \hich\af13\dbch\af13\loch\f13 operator is always active.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The same example as before can be written:
+\par \hich\af13\dbch\af13\loch\f13                      %START AA BB CC
+\par \hich\af13\dbch\af13\loch\f13                      %%
+\par \hich\af13\dbch\af13\loch\f13               \hich\af13\dbch\af13\loch\f13        ^a                \{ECHO; BEGIN AA;\}
+\par \hich\af13\dbch\af13\loch\f13                      ^b                \{ECHO; BEGIN BB;\}
+\par \hich\af13\dbch\af13\loch\f13                      ^c                \{ECHO; BEGIN CC;\}
+\par \hich\af13\dbch\af13\loch\f13                      \\n                \{ECHO; BEGIN 0;\}
+\par \hich\af13\dbch\af13\loch\f13                      <AA>magic         prin\hich\af13\dbch\af13\loch\f13 tf("first");
+\par \hich\af13\dbch\af13\loch\f13                      <BB>magic         printf("second");
+\par \hich\af13\dbch\af13\loch\f13                      <CC>magic         printf("third");
+\par \hich\af13\dbch\af13\loch\f13 where the logic is exactly the same as in the previous method of
+\par \hich\af13\dbch\af13\loch\f13 handling the problem, but Lex does the work rather than the user'\hich\af13\dbch\af13\loch\f13 s
+\par \hich\af13\dbch\af13\loch\f13 code.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 11.  Character Set.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The programs generated by Lex handle character I/O only
+\par \hich\af13\dbch\af13\loch\f13 through the routines input, output, and unput.  Thus the
+\par \hich\af13\dbch\af13\loch\f13 character representation provided in these routines is accepted by
+\par \hich\af13\dbch\af13\loch\f13 Lex and employed to return values in yyte\hich\af13\dbch\af13\loch\f13 xt.  For internal use a
+\par \hich\af13\dbch\af13\loch\f13 character is represented as a small integer which, if the standard
+\par \hich\af13\dbch\af13\loch\f13 library is used, has a value equal to the integer value of the bit
+\par \hich\af13\dbch\af13\loch\f13 pattern representing the character on the host computer.
+\par \hich\af13\dbch\af13\loch\f13 Normally, the letter a is represented as \ltrpar \hich\af13\dbch\af13\loch\f13 the same form as the
+\par \hich\af13\dbch\af13\loch\f13 character constant 'a'.  If this interpretation is changed, by
+\par \hich\af13\dbch\af13\loch\f13 providing I/O routines which translate the characters, Lex must be
+\par \hich\af13\dbch\af13\loch\f13 told about it, by giving a translation table.  This table must be
+\par \hich\af13\dbch\af13\loch\f13 in the definitions section, and must be\hich\af13\dbch\af13\loch\f13  bracketed by lines con-
+\par \hich\af13\dbch\af13\loch\f13 taining only ``%T''.  The table contains lines of the form
+\par \hich\af13\dbch\af13\loch\f13                         \{integer\} \{character string\}
+\par \hich\af13\dbch\af13\loch\f13 which indicate the value associated with each character.  Thus the
+\par \hich\af13\dbch\af13\loch\f13 next example
+\par \hich\af13\dbch\af13\loch\f13                                   %T
+\par \hich\af13\dbch\af13\loch\f13   \hich\af13\dbch\af13\loch\f13                                  1    Aa
+\par \hich\af13\dbch\af13\loch\f13                                    2    Bb
+\par \hich\af13\dbch\af13\loch\f13                                   ...
+\par \hich\af13\dbch\af13\loch\f13                                   26    Zz
+\par \hich\af13\dbch\af13\loch\f13                                   27    \\n
+\par \hich\af13\dbch\af13\loch\f13                                   28    +
+\par \hich\af13\dbch\af13\loch\f13       \hich\af13\dbch\af13\loch\f13                             29    -
+\par \hich\af13\dbch\af13\loch\f13                                   30    0
+\par \hich\af13\dbch\af13\loch\f13                                   31    1
+\par \hich\af13\dbch\af13\loch\f13                                   ...
+\par \hich\af13\dbch\af13\loch\f13                                   39    9
+\par \hich\af13\dbch\af13\loch\f13                                   %T
+\par 
+\par \hich\af13\dbch\af13\loch\f13                   \hich\af13\dbch\af13\loch\f13          Sample character table.
+\par \hich\af13\dbch\af13\loch\f13 maps the lower and upper case letters together into the integers 1
+\par \hich\af13\dbch\af13\loch\f13 through 26, newline into 27, + and - into 28 and 29, and the
+\par \hich\af13\dbch\af13\loch\f13 digits into 30 through 39.  Note the escape for newline.  If a
+\par \hich\af13\dbch\af13\loch\f13 table is supplied, every charact\hich\af13\dbch\af13\loch\f13 er that is to appear either in the
+\par \hich\af13\dbch\af13\loch\f13 rules or in any valid input must be included in the table.  No
+\par \hich\af13\dbch\af13\loch\f13 character may be assigned the number 0, and no character may be
+\par \hich\af13\dbch\af13\loch\f13 assigned a bigger number than the size of the hardware character
+\par \hich\af13\dbch\af13\loch\f13 set.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 12.  Summary of Source \hich\af13\dbch\af13\loch\f13 Format.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The general form of a Lex source file is:
+\par \hich\af13\dbch\af13\loch\f13                              \{definitions\}
+\par \hich\af13\dbch\af13\loch\f13                              %%
+\par \hich\af13\dbch\af13\loch\f13                              \{rules\}
+\par \hich\af13\dbch\af13\loch\f13                              %%
+\par \hich\af13\dbch\af13\loch\f13                              \{user subroutines\}
+\par \hich\af13\dbch\af13\loch\f13 The defi\hich\af13\dbch\af13\loch\f13 nitions section contains a combination of
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1)   Definitions, in the form ``name space translation''.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2)   Included code, in the form ``space code''.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 3)   Included code, in the form
+\par \hich\af13\dbch\af13\loch\f13                                        %\{
+\par \hich\af13\dbch\af13\loch\f13                                \hich\af13\dbch\af13\loch\f13         code
+\par \hich\af13\dbch\af13\loch\f13                                        %\}
+\par \hich\af13\dbch\af13\loch\f13 4)   Start conditions, given in the form
+\par \hich\af13\dbch\af13\loch\f13                                 %S name1 name2 ...
+\par \hich\af13\dbch\af13\loch\f13 5)   Character set tables, in the form
+\par \hich\af13\dbch\af13\loch\f13                           %T
+\par \hich\af13\dbch\af13\loch\f13                           number space ch\hich\af13\dbch\af13\loch\f13 aracter-string
+\par \hich\af13\dbch\af13\loch\f13                           ...
+\par \hich\af13\dbch\af13\loch\f13                           %T
+\par \hich\af13\dbch\af13\loch\f13 6)   Changes to internal array sizes, in the form
+\par \hich\af13\dbch\af13\loch\f13                                      %x  nnn
+\par \hich\af13\dbch\af13\loch\f13      where nnn is a decimal integer representing an array size and
+\par \hich\af13\dbch\af13\loch\f13      x selects the p\hich\af13\dbch\af13\loch\f13 arameter as follows:
+\par \hich\af13\dbch\af13\loch\f13                         Letter          Parameter
+\par \hich\af13\dbch\af13\loch\f13                           p      positions
+\par \hich\af13\dbch\af13\loch\f13                           n      states
+\par \hich\af13\dbch\af13\loch\f13                           e      tree nodes
+\par \hich\af13\dbch\af13\loch\f13                           a      transitions
+\par \hich\af13\dbch\af13\loch\f13              \hich\af13\dbch\af13\loch\f13              k      packed character classes
+\par \hich\af13\dbch\af13\loch\f13                           o      output array size
+\par 
+\par \hich\af13\dbch\af13\loch\f13 Lines in the rules section have the form ``expression action''
+\par \hich\af13\dbch\af13\loch\f13 where the action may be continued on succeeding lines by using
+\par \hich\af13\dbch\af13\loch\f13 braces to delimit it.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      Regul\hich\af13\dbch\af13\loch\f13 ar expressions in Lex use the following operators:
+\par \hich\af13\dbch\af13\loch\f13                x        the character "x"
+\par \hich\af13\dbch\af13\loch\f13                "x"      an "x", even if x is an operator.
+\par \hich\af13\dbch\af13\loch\f13                \\x       an "x", even if x is an operator.
+\par \hich\af13\dbch\af13\loch\f13                [xy]     the character x or y.
+\par \hich\af13\dbch\af13\loch\f13  \hich\af13\dbch\af13\loch\f13               [x-z]    the characters x, y or z.
+\par \hich\af13\dbch\af13\loch\f13                [^x]     any character but x.
+\par \hich\af13\dbch\af13\loch\f13                .        any character but newline.
+\par \hich\af13\dbch\af13\loch\f13                ^x       an x at the beginning of a line.
+\par \hich\af13\dbch\af13\loch\f13                <y>x     an x when Lex is in start cond\hich\af13\dbch\af13\loch\f13 ition y.
+\par \hich\af13\dbch\af13\loch\f13                x$       an x at the end of a line.
+\par \hich\af13\dbch\af13\loch\f13                x?       an optional x.
+\par \hich\af13\dbch\af13\loch\f13                x*       0,1,2, ... instances of x.
+\par \hich\af13\dbch\af13\loch\f13                x+       1,2,3, ... instances of x.
+\par \hich\af13\dbch\af13\loch\f13                x|y      an x or a y.
+\par \hich\af13\dbch\af13\loch\f13                (x)\hich\af13\dbch\af13\loch\f13       an x.
+\par \hich\af13\dbch\af13\loch\f13                x/y      an x but only if followed by y.
+\par \hich\af13\dbch\af13\loch\f13                \{xx\}     the translation of xx from the
+\par \hich\af13\dbch\af13\loch\f13                         definitions section.
+\par \hich\af13\dbch\af13\loch\f13                x\{m,n\}   m through n occurrences of x
+\par 
+\par \hich\af13\dbch\af13\loch\f13 13.  Caveats and Bugs.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      There\hich\af13\dbch\af13\loch\f13  are pathological expressions which produce exponential
+\par \hich\af13\dbch\af13\loch\f13 growth of the tables when converted to deterministic machines;
+\par \hich\af13\dbch\af13\loch\f13 fortunately, they are rare.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      REJECT does not rescan the input; instead it remembers the
+\par \hich\af13\dbch\af13\loch\f13 results of the previous scan.  This means th\hich\af13\dbch\af13\loch\f13 at if a rule with
+\par \hich\af13\dbch\af13\loch\f13 trailing context is found, and REJECT executed, the user must not
+\par \hich\af13\dbch\af13\loch\f13 have used unput to change the characters forthcoming from the
+\par \hich\af13\dbch\af13\loch\f13 input stream.  This is the only restriction on the user's ability
+\par \hich\af13\dbch\af13\loch\f13 to manipulate the not-yet-processed input.
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 14.  Acknowledgments.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      As should be obvious from the above, the outside of Lex is
+\par \hich\af13\dbch\af13\loch\f13 patterned on Yacc and the inside on Aho's string matching
+\par \hich\af13\dbch\af13\loch\f13 routines.  Therefore, both S. C.  Johnson and A. V. Aho are really
+\par \hich\af13\dbch\af13\loch\f13 originators of much of Lex, as well as debu\hich\af13\dbch\af13\loch\f13 ggers of it.  Many
+\par \hich\af13\dbch\af13\loch\f13 thanks are due to both.
+\par 
+\par \hich\af13\dbch\af13\loch\f13      The code of the current version of Lex was designed, written,
+\par \hich\af13\dbch\af13\loch\f13 and debugged by Eric Schmidt.
+\par 
+\par 
+\par \hich\af13\dbch\af13\loch\f13 15.  References.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 1.   B.  W.  Kernighan  and  D.  M.  Ritchie,  The  C  Programming
+\par \hich\af13\dbch\af13\loch\f13      Language, Prentice-Hall\hich\af13\dbch\af13\loch\f13 , N. J. (1978).
+\par 
+\par \hich\af13\dbch\af13\loch\f13 2.   B. W. Kernighan, Ratfor: A Preprocessor for a Rational Fortran,
+\par \hich\af13\dbch\af13\loch\f13      Software Practice and Experience, 5, pp. 395-496 (1975).
+\par 
+\par \hich\af13\dbch\af13\loch\f13 3.   S. C. Johnson, Yacc: Yet Another Compiler  Compiler,  Computing
+\par \hich\af13\dbch\af13\loch\f13      Science Technical Report No. 32, \hich\af13\dbch\af13\loch\f13 1975, Bell Laboratories,
+\par \hich\af13\dbch\af13\loch\f13      Murray Hill, NJ 07974.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 4.   A. V. Aho and M. J. Corasick,  Efficient  String  Matching:
+\par \hich\af13\dbch\af13\loch\f13      An  Aid  to Bibliographic Search, Comm. ACM 18, 333-340 (1975).
+\par 
+\par \hich\af13\dbch\af13\loch\f13 5.   B. W. Kernighan, D. M. Ritchie and K. L. Thompson, QED Text
+\par \hich\af13\dbch\af13\loch\f13   \hich\af13\dbch\af13\loch\f13    Editor, Computing  Science  Technical Report No. 5, 1972, 
+\par \hich\af13\dbch\af13\loch\f13      Bell Laboratories, Murray Hill, NJ 07974.
+\par 
+\par \hich\af13\dbch\af13\loch\f13 6.   D. M. Ritchie, private communication.  See also M. E. Lesk,
+\par \hich\af13\dbch\af13\loch\f13      The Portable C Library, Computing Science Technical Report 
+\par \hich\af13\dbch\af13\loch\f13      No. 31, Bel\hich\af13\dbch\af13\loch\f13 l Laboratories, Murray Hill, NJ 07974.
+\par 
+\par }}
